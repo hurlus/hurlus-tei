@@ -19,6 +19,7 @@ Hurlus, les sources XML
 * [hitler1925_moncombat.xml](https://hurlus.github.io/hurlus-tei/hitler1925_moncombat.xml)
 * [lafargue1885_hugo.xml](https://hurlus.github.io/hurlus-tei/lafargue1885_hugo.xml)
 * [lafargue1896_romantisme.xml](https://hurlus.github.io/hurlus-tei/lafargue1896_romantisme.xml)
+* [lafargue1910_retraites.xml](https://hurlus.github.io/hurlus-tei/lafargue1910_retraites.xml)
 * [louis-xiv1715_memoires.xml](https://hurlus.github.io/hurlus-tei/louis-xiv1715_memoires.xml)
 * [luxemburg1915_socdem.xml](https://hurlus.github.io/hurlus-tei/luxemburg1915_socdem.xml)
 * [montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/hurlus-tei/montesquieu1721_lettres-persanes.xml)
