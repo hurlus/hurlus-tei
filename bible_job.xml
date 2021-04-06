@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bible, l’Ecclésiaste</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>hurlus.fr</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>hurlus.fr</publisher>
+        <date when="2021"/>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter" n="1">
+        <head>Chapitre 1</head>
+        <label>PROLOGUE EN PROSE
+          <lb/>LES ÉPREUVES DE JOB
+          <lb/>Le plus sage des Orientaux</label>
+        <p n="1">Il y avait, au pays de Ouç, un homme du nom de Job. Il était, cet homme, intègre et droit, craignait Dieu et s’écartait du mal.
+          <milestone n="2"/>Sept fils et trois filles lui étaient nés.
+          <milestone n="3"/>Il possédait sept mille moutons, trois mille chameaux, cinq cents paires de bœufs, cinq cents ânesses et une très nombreuse domesticité. Cet homme était le plus grand de tous les fils de l’Orient.</p>
+        <p n="4">Or ses fils allaient festoyer les uns chez les autres à tour de rôle et ils conviaient leurs trois sœurs à manger et à boire.
+          <milestone n="5"/>Lorsqu’un cycle de ces festins était achevé, Job les faisait venir pour les purifier. Levé dès l’aube, il offrait un holocauste pour chacun d’eux, car il se disait : « Peut-être mes fils ont-ils péché et maudit Dieu dans leur cœur ! » Ainsi faisait Job, chaque fois.</p>
+        <label>La cour céleste</label>
+        <p n="6">Le jour advint où les Fils de Dieu se rendaient à l’audience du <hi rend="sc">Seigneur</hi>. L’Adversaire vint aussi parmi eux.
+          <milestone n="7"/>Le <hi rend="sc">Seigneur</hi> dit à l’Adversaire : « D’où viens-tu ? » – « De parcourir la terre, répondit-il, et d’y rôder. »
+          <milestone n="9"/>Mais l’Adversaire répliqua au <hi rend="sc">Seigneur</hi> : « Est-ce pour rien que Job craint Dieu ?
+          <milestone n="10"/>Ne l’as-tu pas protégé d’un enclos, lui, sa maison et tout ce qu’il possède ? Tu as béni ses entreprises, et ses troupeaux pullulent dans le pays.
+          <milestone n="11"/>Mais veuille étendre ta main et touche à tout ce qu’il possède. Je parie qu’il te maudira en face ! »
+          <milestone n="12"/>Alors le <hi rend="sc">Seigneur</hi> dit à l’Adversaire : « Soit ! Tous ses biens sont en ton pouvoir. Evite seulement de porter la main sur lui. » Et l’Adversaire se retira de la présence du <hi rend="sc">Seigneur</hi>.</p>
+        <label>Les premiers malheurs</label>
+        <p n="13">Le jour advint où ses fils et ses filles étaient en train de manger et de boire du vin chez leur frère aîné.
+          <milestone n="14"/>Un messager arriva auprès de Job et dit : « Les bœufs étaient à labourer et les ânesses paissaient auprès d’eux.
+          <milestone n="15"/>Un rezzou de Sabéens les a enlevés en massacrant tes serviteurs. Seul j’en ai réchappé pour te l’annoncer. »
+          <milestone n="16"/>Il parlait encore quand un autre survint qui disait : « Un feu de Dieu est tombé du ciel, brûlant moutons et serviteurs. Il les a consumés, et seul j’en ai réchappé pour te l’annoncer. »
+          <milestone n="17"/>Il parlait encore quand un autre survint qui disait : « Des Chaldéens formant trois bandes se sont jetés sur les chameaux et les ont enlevés en massacrant tes serviteurs. Seul j’en ai réchappé pour te l’annoncer. »
+          <milestone n="18"/>Il parlait encore quand un autre survint qui disait : « Tes fils et tes filles étaient en train de manger et de boire du vin chez leur frère aîné
+          <milestone n="19"/>lorsqu’un grand vent venu d’au-delà du désert a frappé les quatre coins de la maison. Elle est tombée sur les jeunes gens. Ils sont morts. Seul j’en ai réchappé pour te l’annoncer. »</p>
+        <p n="20">Alors Job se leva. Il déchira son manteau et se rasa la tête. Puis il se jeta à terre, adora
+          <milestone n="21"/>et dit :</p>
+        <lg>
+          <l>« Sorti nu du ventre de ma mère,
+            <lb/>nu j’y retournerai.
+            <lb/>Le <hi rend="sc">Seigneur</hi> a donné, le <hi rend="sc">Seigneur</hi> a ôté :
+            <lb/>Que le nom du <hi rend="sc">Seigneur</hi> soit béni ! »</l>
+        </lg>
+        <p n="22">En tout cela, Job ne pécha pas. Il n’imputa rien d’indigne à Dieu.</p>
+      </div>
+      <div type="chapter" n="2">
+        <head>Chapitre 2</head>
+        <label>La cour céleste</label>
+        <p n="1">Le jour advint où les Fils de Dieu se rendaient à l’audience du <hi rend="sc">Seigneur</hi>. L’Adversaire vint aussi parmi eux à l’audience du <hi rend="sc">Seigneur</hi>.
+          <milestone n="2"/>Le <hi rend="sc">Seigneur</hi> dit à l’Adversaire : « D’où est-ce que tu viens ? » – « De parcourir la terre, répondit-il, et d’y rôder. »
+          <milestone n="3"/>Et le <hi rend="sc">Seigneur</hi> lui demanda : « As-tu remarqué mon serviteur Job ? Il n’a pas son pareil sur terre. C’est un homme intègre et droit qui craint Dieu et se garde du mal. Il persiste dans son intégrité, et c’est bien en vain que tu m’as incité à l’engloutir. »
+          <milestone n="4"/>Mais l’Adversaire répliqua au <hi rend="sc">Seigneur</hi> : « Peau pour peau ! Tout ce qu’un homme possède, il le donne pour sa vie.
+          <milestone n="5"/>Mais veuille étendre ta main, touche à ses os et à sa chair. Je parie qu’il te maudira en face ! »
+          <milestone n="6"/>Alors le <hi rend="sc">Seigneur</hi> dit à l’Adversaire : « Soit ! Il est en ton pouvoir ; respecte seulement sa vie. »</p>
+        <label>Les nouveaux malheurs</label>
+        <p n="7">Et l’Adversaire, quittant la présence du <hi rend="sc">Seigneur</hi>, frappa Job d’une lèpre maligne depuis la plante des pieds jusqu’au sommet de la tête.
+          <milestone n="8"/>Alors Job prit un tesson pour se gratter et il s’installa parmi les cendres.
+          <milestone n="9"/>Sa femme lui dit : « Vas-tu persister dans ton intégrité ? Maudis Dieu, et meurs ! »
+          <milestone n="10"/>Il lui dit : « Tu parles comme une folle. Nous acceptons le bonheur comme un don de Dieu. Et le malheur, pourquoi ne l’accepterions-nous pas aussi ? » En tout cela, Job ne pécha point par ses lèvres.</p>
+        <label>Arrivée des trois amis</label>
+        <p n="11">Les trois amis de Job apprirent tout ce malheur qui lui était advenu et ils arrivèrent chacun de son pays, Elifaz de Témân, Bildad de Shouah et Çofar de Naama. Ils convinrent d’aller le plaindre et le consoler.
+          <milestone n="12"/>Levant leurs yeux de loin, ils ne le reconnurent pas. Ils pleurèrent alors à grands cris. Chacun déchira son manteau, et ils jetèrent en l’air de la poussière qui retomba sur leur tête.
+          <milestone n="13"/>Ils restèrent assis à terre avec lui pendant sept jours et sept nuits. Aucun ne lui disait mot, car ils avaient vu combien grande était sa douleur.</p>
+      </div>
+      <div type="chapter" n="3">
+        <head>Chapitre 3</head>
+        <p n="1">Enfin, Job ouvrit la bouche et maudit son jour.</p>
+        <label>DIALOGUE ENTRE JOB ET SES AMIS
+          <lb/>PREMIER POÈME DE JOB</label>
+        <p n="2">Job prit la parole et dit :</p>
+        <label>Malédiction du jour de naissance</label>
+        <lg>
+          <l n="3">Périsse le jour où j’allais être enfanté
+            <lb/>et la nuit qui a dit : « Un homme a été conçu ! »</l>
+          <l n="4">Ce jour-là, qu’il devienne ténèbres,
+            <lb/>que, de là-haut, Dieu ne le convoque pas,
+            <lb/>que ne resplendisse sur lui nulle clarté ;</l>
+          <l n="5">que le revendiquent la ténèbre et l’ombre de mort,
+            <lb/>que sur lui demeure une nuée,
+            <lb/>que le terrifient les éclipses !</l>
+          <l n="6">Cette nuit-là, que l’obscurité s’en empare,
+            <lb/>qu’elle ne se joigne pas à la ronde des jours de l’année,
+            <lb/>qu’elle n’entre pas dans le compte des mois !</l>
+        </lg>
+        <lg>
+          <l n="7">Oui, cette nuit-là, qu’elle soit infécondée,
+            <lb/>que nul cri de joie ne la pénètre ;</l>
+          <l n="8">que l’exècrent les maudisseurs du jour,
+            <lb/>ceux qui sont experts à éveiller le Tortueux ;</l>
+          <l n="9">que s’enténèbrent les astres de son aube,
+            <lb/>qu’elle espère la lumière – et rien !
+            <lb/>Qu’elle ne voie pas les pupilles de l’aurore !</l>
+          <l n="10">Car elle n’a pas clos les portes du ventre où j’étais,
+            <lb/>ce qui eût dérobé la peine à mes yeux.</l>
+        </lg>
+        <label>Attraction du néant</label>
+        <lg>
+          <l n="11">Pourquoi ne suis-je pas mort dès le sein ?
+            <lb/>A peine sorti du ventre, j’aurais expiré.</l>
+          <l n="12">Pourquoi donc deux genoux m’ont-ils accueilli,
+            <lb/>pourquoi avais-je deux mamelles à téter ?</l>
+          <l n="13">Désormais, gisant, je serais au calme,
+            <lb/>endormi, je jouirais alors du repos,</l>
+          <l n="14">avec les rois et les conseillers de la terre,
+            <lb/>ceux qui rebâtissent pour eux des ruines,</l>
+          <l n="15">ou je serais avec les princes qui détiennent l’or,
+            <lb/>ceux qui gorgent d’argent leurs demeures,</l>
+          <l n="16">ou comme un avorton enfoui je n’existerais pas,
+            <lb/>comme les enfants qui ne virent pas la lumière.</l>
+        </lg>
+        <lg>
+          <l n="17">Là, les méchants ont cessé de tourmenter,
+            <lb/>là, trouvent repos les forces épuisées.</l>
+          <l n="18">Prisonniers, tous sont à l’aise,
+            <lb/>ils n’entendent plus la voix du garde-chiourme.</l>
+          <l n="19">Petit et grand, là, c’est tout un,
+            <lb/>et l’esclave y est affranchi de son maître.</l>
+        </lg>
+        <label>Valeur de l’existence</label>
+        <lg>
+          <l n="20">Pourquoi donne-t-il la lumière à celui qui peine,
+            <lb/>et la vie aux ulcérés ?</l>
+          <l n="21">Ils sont dans l’attente de la mort, et elle ne vient pas,
+            <lb/>ils fouillent à sa recherche plus que pour des trésors.</l>
+          <l n="22">Ils seraient transportés de joie,
+            <lb/>ils seraient en liesse s’ils trouvaient un tombeau.</l>
+          <l n="23">Pourquoi ce don de la vie à l’homme dont la route se dérobe ?
+            <lb/>Et c’est lui que Dieu protégeait d’un enclos !</l>
+        </lg>
+        <lg>
+          <l n="24">Pour pain je n’ai que mes sanglots,
+            <lb/>ils déferlent comme l’eau, mes rugissements.</l>
+          <l n="25">La terreur qui me hantait, c’est elle qui m’atteint,
+            <lb/>et ce que je redoutais m’arrive.</l>
+          <l n="26">Pour moi, ni tranquillité, ni cesse, ni repos.
+            <lb/>C’est le tourment qui vient.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="4">
+        <head>Chapitre 4</head>
+        <label>PREMIER POÈME D’ÉLIFAZ</label>
+        <p n="1">Alors Elifaz de Témân prit la parole et dit :</p>
+        <label>Piété et bien-être</label>
+        <lg>
+          <l n="2">Te met-il pour une fois à l’épreuve, tu fléchis !
+            <lb/>Mais qui peut contraindre ses paroles ?</l>
+          <l n="3">Tu t’es fait l’éducateur des foules,
+            <lb/>tu savais rendre vigueur aux mains lasses.</l>
+          <l n="4">Tes paroles redressaient ceux qui perdent pied,
+            <lb/>tu affermissais les genoux qui ploient.</l>
+        </lg>
+        <lg>
+          <l n="5">Que maintenant cela t’arrive, c’est toi qui fléchis.
+            <lb/>Te voici atteint, c’est l’affolement.</l>
+          <l n="6">Ta piété ne tenait-elle qu’à ton bien-être,
+            <lb/>tes espérances fondaient-elles seules ta bonne conduite ?</l>
+        </lg>
+        <label>Semeurs de misère</label>
+        <lg>
+          <l n="7">Rappelle-toi : quel innocent a jamais péri,
+            <lb/>où vit-on des hommes droits disparaître ?</l>
+          <l n="8">Je l’ai bien vu : les laboureurs de gâchis
+            <lb/>et les semeurs de misère en font eux-mêmes la moisson.</l>
+          <l n="9">Sous l’haleine de Dieu ils périssent,
+            <lb/>au souffle de sa narine ils se consument.</l>
+        </lg>
+        <lg>
+          <l n="10">Rugissement de lion, feulement de tigre ;
+            <lb/>les dents des lionceaux mordent à vide.</l>
+          <l n="11">Le guépard périt faute de proie,
+            <lb/>les petits de la lionne se débandent.</l>
+        </lg>
+        <label>Vision nocturne</label>
+        <lg>
+          <l n="12">Une parole, furtivement, m’est venue,
+            <lb/>mon oreille en a saisi le murmure.</l>
+          <l n="13">Lorsque divaguent les visions de la nuit,
+            <lb/>quand une torpeur écrase les humains,</l>
+          <l n="14">un frisson d’épouvante me surprit
+            <lb/>et fit cliqueter tous mes os :</l>
+          <l n="15">un souffle passait sur ma face,
+            <lb/>hérissait le poil de ma chair.</l>
+          <l n="16">Il se tenait debout, je ne le reconnus pas.
+            <lb/>Le spectre restait devant mes yeux.
+            <lb/>Un silence, puis j’entendis une voix :</l>
+        </lg>
+        <lg>
+          <l n="17">« Le mortel serait-il plus juste que Dieu,
+            <lb/>l’homme serait-il plus pur que son auteur ?</l>
+          <l n="18">Vois : ses serviteurs, il ne leur fait pas confiance,
+            <lb/>en ses anges même il trouve de la folie.</l>
+          <l n="19">Et les habitants des maisons d’argile, alors,
+            <lb/>ceux qui se fondent sur la poussière !
+            <lb/>On les écrase comme une teigne.</l>
+          <l n="20">D’un matin à un soir ils seront broyés.
+            <lb/>Sans qu’on y prenne garde, ils périront à jamais.</l>
+          <l n="21">Les cordes de leurs tentes ne sont-elles pas déjà arrachées ?
+            <lb/>Ils mourront, faute de sagesse. »</l>
+        </lg>
+      </div>
+      <div type="chapter" n="5">
+        <head>Chapitre 5</head>
+        <label>Origine du mal</label>
+        <lg>
+          <l n="1">Fais donc appel ! Existe-t-il quelqu’un pour te répondre ?
+            <lb/>Auquel des saints t’en prendras-tu ?</l>
+          <l n="2">Oui, l’imbécile, c’est la rogne qui l’égorge,
+            <lb/>et le naïf, la jalousie le tue.</l>
+          <l n="3">Je l’ai bien vu, l’imbécile, qui poussait ses racines,
+            <lb/>mais j’ai soudain maudit sa demeure :</l>
+          <l n="4">« Que ses fils échappent à tout secours,
+            <lb/>qu’ils soient écrasés au tribunal sans que nul n’intervienne,</l>
+          <l n="5">et lui, ce qu’il a moissonné, que l’affamé s’en nourrisse,
+            <lb/>qu’on s’en saisisse malgré les haies d’épines
+            <lb/>et que les assoiffés engouffrent son patrimoine ! »</l>
+        </lg>
+        <lg>
+          <l n="6">Car le gâchis ne sort pas de terre
+            <lb/>et la misère ne germe pas du sol.</l>
+          <l n="7">Oui, c’est pour la misère que l’homme est né,
+            <lb/>et l’étincelle pour prendre son essor.</l>
+        </lg>
+        <label>Appel à Dieu</label>
+        <lg>
+          <l n="8">Quant à moi, je m’adresserais à Dieu,
+            <lb/>c’est à Dieu que j’exposerais ma cause.</l>
+          <l n="9">L’ouvrier des grandeurs insondables,
+            <lb/>dont les merveilles épuisent les nombres,</l>
+          <l n="10">c’est lui qui répand la pluie sur la face de la terre,
+            <lb/>qui fait ruisseler le visage des champs,</l>
+          <l n="11">pour placer au sommet ceux qui gisent en bas
+            <lb/>et pour que les assombris se dressent, sauvés.</l>
+          <l n="12">C’est lui qui déjoue les intrigues des plus roués.
+            <lb/>Pour leurs mains point de réussite.</l>
+          <l n="13">C’est lui qui prend les sages au piège de leur astuce,
+            <lb/>et qui devance les desseins des fourbes.</l>
+          <l n="14">En plein jour ils se butent aux ténèbres,
+            <lb/>à midi ils tâtonnent comme de nuit.</l>
+          <l n="15">Mais il a sauvé de leur épée, de leur gueule,
+            <lb/>de leur serre puissante, le pauvre.</l>
+          <l n="16">Il y eut pour le faible une espérance,
+            <lb/>et l’infamie s’est trouvée muselée.</l>
+        </lg>
+        <label>Promesse du renouveau</label>
+        <lg>
+          <l n="17">Vois : Heureux l’homme que Dieu réprimande !
+            <lb/>Ne dédaigne donc pas la semonce de Shaddaï.</l>
+          <l n="18">C’est lui qui, en faisant souffrir, répare,
+            <lb/>lui dont les mains, en brisant, guérissent.</l>
+          <l n="19">De six angoisses il te tirera
+            <lb/>et à la septième, le mal ne t’atteindra plus.</l>
+          <l n="20">Lors de la famine, il te rachètera à la mort
+            <lb/>et en plein combat au pouvoir de l’épée.</l>
+          <l n="21">Du fouet de la langue, tu seras à l’abri ;
+            <lb/>rien à craindre d’un désastre à venir.</l>
+          <l n="22">Désastre, disette, tu t’en riras,
+            <lb/>et des bêtes sauvages, n’aie pas peur !</l>
+          <l n="23">Car tu as une alliance avec les pierres des champs,
+            <lb/>et l’on t’a concilié les fauves de la steppe.</l>
+          <l n="24">Tu découvriras la paix dans ta tente ;
+            <lb/>inspectant tes pâtures, tu n’y trouveras rien en défaut.</l>
+          <l n="25">Tu découvriras que ta postérité est nombreuse
+            <lb/>et que tes rejetons sont comme la verdure de la terre.</l>
+          <l n="26">Tu entreras dans la tombe en pleine vigueur,
+            <lb/>comme on dresse un gerbier en son temps.</l>
+        </lg>
+        <lg>
+          <l n="27">Vois, cela, nous l’avons étudié à fond : il en est ainsi,
+            <lb/>écoute et fais-en ton profit.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="6">
+        <head>Chapitre 6</head>
+        <label>DEUXIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job prit la parole et dit :</p>
+        <label>Les flèches de Shaddaï</label>
+        <lg>
+          <l n="2">Si l’on parvenait à peser ma hargne,
+            <lb/>si l’on amassait ma détresse sur une balance !</l>
+          <l n="3">Mais elles l’emportent déjà sur le sable des mers.
+            <lb/>C’est pourquoi mes paroles s’étranglent.</l>
+          <l n="4">Car les flèches de Shaddaï sont en moi,
+            <lb/>et mon souffle en aspire le venin.
+            <lb/>Les effrois de Dieu s’alignent contre moi.</l>
+        </lg>
+        <lg>
+          <l n="5">L’âne sauvage se met-il à braire auprès du gazon,
+            <lb/>le bœuf à meugler sur son fourrage ?</l>
+          <l n="6">Ce qui est fade se mange-t-il sans sel
+            <lb/>et y a-t-il du goût à la bave du pourpier ?</l>
+          <l n="7">Mon gosier les vomit,
+            <lb/>ce sont vivres immondes.</l>
+        </lg>
+        <label>Consolations de néant</label>
+        <lg>
+          <l n="8">Qui fera que ma requête s’accomplisse,
+            <lb/>que Dieu me donne ce que j’espère ?</l>
+          <l n="9">Que Dieu daigne me broyer,
+            <lb/>qu’il dégage sa main et me rompe !</l>
+          <l n="10">J’aurai du moins un réconfort,
+            <lb/>un sursaut de joie dans la torture implacable :
+            <lb/>je n’aurai mis en oubli aucune des sentences du Saint.</l>
+        </lg>
+        <lg>
+          <l n="11">Quelle est ma force pour que je patiente ?
+            <lb/>Quelle est ma fin pour persister à vivre ?</l>
+          <l n="12">Ma force est-elle la force du roc,
+            <lb/>ma chair est-elle de bronze ?</l>
+          <l n="13">Serait-ce donc le néant, ce secours que j’attends ?
+            <lb/>Toute ressource m’a-t-elle échappé ?</l>
+        </lg>
+        <label>Le néant de l’amitié</label>
+        <lg>
+          <l n="14">L’homme effondré a droit à la pitié de son prochain ;
+            <lb/>sinon, il abandonnera la crainte de Shaddaï.</l>
+        </lg>
+        <lg>
+          <l n="15">Mes frères ont trahi comme un torrent,
+            <lb/>comme le lit des torrents qui s’enfuient.</l>
+          <l n="16">La débâcle des glaces les avait gonflés
+            <lb/>quand au-dessus d’eux fondaient les neiges.</l>
+          <l n="17">A la saison sèche ils tarissent ;
+            <lb/>à l’ardeur de l’été ils s’éteignent sur place.</l>
+          <l n="18">Les caravanes se détournent de leurs cours,
+            <lb/>elles montent vers les solitudes et se perdent.</l>
+          <l n="19">Les caravanes de Téma les fixaient des yeux ;
+            <lb/>les convois de Saba espéraient en eux.</l>
+          <l n="20">On a honte d’avoir eu confiance :
+            <lb/>quand on y arrive, on est confondu.</l>
+        </lg>
+        <lg>
+          <l n="21">Ainsi donc, existez-vous ? Non !
+            <lb/>A la vue du désastre, vous avez pris peur.</l>
+        </lg>
+        <label>Paroles d’un désespéré</label>
+        <lg>
+          <l n="22">Vous ai-je jamais dit : « Faites-moi un don !
+            <lb/>De votre fortune soyez prodigues en ma faveur</l>
+          <l n="23">pour me délivrer de la main d’un ennemi,
+            <lb/>me racheter de la main des tyrans » ?</l>
+          <l n="24">Eclairez-moi, et moi je me tairai.
+            <lb/>En quoi ai-je failli ? Montrez-le-moi !</l>
+          <l n="25">Des paroles de droiture seraient-elles blessantes ?
+            <lb/>D’ailleurs, une critique venant de vous, que critique-t-elle ?</l>
+          <l n="26">Serait-ce des mots que vous prétendez critiquer ?
+            <lb/>Les paroles du désespéré s’adressent au vent.</l>
+          <l n="27">Vous iriez jusqu’à tirer au sort un orphelin,
+            <lb/>à mettre en vente votre ami.</l>
+        </lg>
+        <lg>
+          <l n="28">Eh bien ! daignez me regarder :
+            <lb/>vous mentirais-je en face ?</l>
+          <l n="29">Revenez donc ! Pas de perfidie !
+            <lb/>Encore une fois, revenez ! Ma justice est en cause.</l>
+          <l n="30">Y a-t-il de la perfidie sur ma langue ?
+            <lb/>Mon palais ne sait-il pas discerner la détresse ?</l>
+        </lg>
+      </div>
+      <div type="chapter" n="7">
+        <head>Chapitre 7</head>
+        <label>Temps de corvée</label>
+        <lg>
+          <l n="1">N’est-ce pas un temps de corvée que le mortel vit sur terre,
+            <lb/>et comme jours de saisonnier que passent ses jours ?</l>
+          <l n="2">Comme un esclave soupire après l’ombre,
+            <lb/>et comme un saisonnier attend sa paye,</l>
+          <l n="3">ainsi des mois de néant sont mon partage
+            <lb/>et l’on m’a assigné des nuits harassantes :</l>
+          <l n="4">A peine couché, je me dis : « Quand me lèverai-je ? »
+            <lb/>Le soir n’en finit pas,
+            <lb/>et je me saoule de délires jusqu’à l’aube.</l>
+          <l n="5">Ma chair s’est revêtue de vers et de croûtes terreuses,
+            <lb/>ma peau se crevasse et suppure.</l>
+        </lg>
+        <lg>
+          <l n="6">Mes jours ont couru, plus vite que la navette,
+            <lb/>ils ont cessé, à bout de fil.</l>
+          <l n="7">Rappelle-toi que ma vie n’est qu’un souffle,
+            <lb/>et que mon œil ne reverra plus le bonheur.</l>
+          <l n="8">Il ne me discernera plus, l’œil qui me voyait.
+            <lb/>Tes yeux seront sur moi, et j’aurai cessé d’être.</l>
+        </lg>
+        <label>Fasciné par la mort</label>
+        <lg>
+          <l n="9">Une nuée se dissipe et s’en va :
+            <lb/>voilà celui qui descend aux enfers pour n’en plus remonter !</l>
+          <l n="10">Il ne fera plus retour en sa maison,
+            <lb/>son foyer n’aura plus à le reconnaître.</l>
+          <l n="11">Donc, je ne briderai plus ma bouche ;
+            <lb/>le souffle haletant, je parlerai ;
+            <lb/>le cœur aigre, je me plaindrai :</l>
+        </lg>
+        <lg>
+          <l n="12">Suis-je l’Océan ou le Monstre marin
+            <lb/>que tu postes une garde contre moi ?</l>
+          <l n="13">Quand je dis : « Mon lit me soulagera,
+            <lb/>ma couche apaisera ma plainte »,</l>
+          <l n="14">alors, tu me terrorises par des songes,
+            <lb/>et par des visions tu m’épouvantes.</l>
+          <l n="15">La pendaison me séduit.
+            <lb/>La mort plutôt que ma carcasse !</l>
+        </lg>
+        <label>Echec de Dieu</label>
+        <lg>
+          <l n="16">Je m’en moque ! Je ne vivrai pas toujours.
+            <lb/>Laisse-moi, car mes jours s’exhalent.</l>
+          <l n="17">Qu’est-ce qu’un mortel pour en faire si grand cas,
+            <lb/>pour fixer sur lui ton attention</l>
+          <l n="18">au point de l’inspecter chaque matin,
+            <lb/>de le tester à tout instant ?</l>
+        </lg>
+        <lg>
+          <l n="19">Quand cesseras-tu de m’épier ?
+            <lb/>Me laisseras-tu avaler ma salive ?</l>
+          <l n="20">Ai-je péché ? Qu’est-ce que cela te fait,
+            <lb/>espion de l’homme ?
+            <lb/>Pourquoi m’avoir pris pour cible ?
+            <lb/>En quoi te suis-je à charge ?</l>
+          <l n="21">Ne peux-tu supporter ma révolte,
+            <lb/>laisser passer ma faute ?
+            <lb/>Car déjà me voici gisant en poussière.
+            <lb/>Tu me chercheras à tâtons : j’aurai cessé d’être.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="8">
+        <head>Chapitre 8</head>
+        <label>PREMIER POÈME DE BILDAD</label>
+        <p n="1">Alors Bildad de Shouah prit la parole et dit :</p>
+        <label>Justice de Shaddaï</label>
+        <lg>
+          <l n="2">Ressasseras-tu toujours ces choses
+            <lb/>en des paroles qui soufflent la tempête ?</l>
+          <l n="3">Dieu fausse-t-il le droit ?
+            <lb/>Shaddaï fausse-t-il la justice ?</l>
+          <l n="4">Si tes fils ont péché contre lui,
+            <lb/>il les a livrés au pouvoir de leur crime.</l>
+        </lg>
+        <lg>
+          <l n="5">Si toi tu recherches Dieu,
+            <lb/>si tu supplies Shaddaï,</l>
+          <l n="6">si tu es honnête et droit,
+            <lb/>alors, il veillera sur toi
+            <lb/>et te restaurera dans ta justice.</l>
+          <l n="7">Et tes débuts auront été peu de chose
+            <lb/>à côté de ton avenir florissant.</l>
+        </lg>
+        <label>Témoignage des anciens</label>
+        <lg>
+          <l n="8">Interroge donc les générations d’antan,
+            <lb/>sois attentif à l’expérience de leurs ancêtres.</l>
+          <l n="9">Nous ne sommes que d’hier, nous ne savons rien,
+            <lb/>car nos jours ne sont qu’une ombre sur la terre.</l>
+          <l n="10">Mais eux t’instruiront et te parleront,
+            <lb/>et de leurs mémoires ils tireront ces sentences :</l>
+        </lg>
+        <lg>
+          <l n="11">« Le jonc pousse-t-il hors des marais,
+            <lb/>le roseau peut-il croître sans eau ?</l>
+          <l n="12">Encore en sa fleur, et sans qu’on le cueille,
+            <lb/>avant toute herbe il se dessèche. »</l>
+        </lg>
+        <label>Destin de l’impie</label>
+        <lg>
+          <l n="13">Tel est le destin de ceux qui oublient Dieu ;
+            <lb/>l’espoir de l’impie périra,</l>
+          <l n="14">son aplomb sera brisé,
+            <lb/>car son assurance n’est que toile d’araignée.</l>
+          <l n="15">S’appuie-t-il sur sa maison, elle branle.
+            <lb/>S’y cramponne-t-il, elle ne résiste pas.</l>
+          <l n="16">Le voilà plein de sève sous le soleil,
+            <lb/>au-dessus du jardin il étend ses rameaux.</l>
+          <l n="17">Ses racines s’entrelacent dans la pierraille,
+            <lb/>il explore les creux des rocs.</l>
+          <l n="18">Mais si on l’arrache à sa demeure,
+            <lb/>celle-ci le renie : « Je ne t’ai jamais vu ! »</l>
+          <l n="19">Vois, ce sont là les joies de son destin,
+            <lb/>et de cette poussière un autre germera.</l>
+        </lg>
+        <label>Promesses de bonheur</label>
+        <lg>
+          <l n="20">Vois, Dieu ne méprise pas l’homme intègre,
+            <lb/>ni ne prête main-forte aux malfaiteurs.</l>
+          <l n="21">Il va remplir ta bouche de rires
+            <lb/>et tes lèvres de hourras.</l>
+          <l n="22">Tes ennemis seront vêtus de honte,
+            <lb/>et les tentes des méchants ne seront plus.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="9">
+        <head>Chapitre 9</head>
+        <label>TROISIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job prit la parole et dit :</p>
+        <label>Arbitraire divin</label>
+        <lg>
+          <l n="2">Certes, je sais qu’il en est ainsi.
+            <lb/>Comment l’homme sera-t-il juste contre Dieu ?</l>
+          <l n="3">Si l’on veut plaider contre lui,
+            <lb/>à mille mots il ne réplique pas d’un seul.</l>
+          <l n="4">Riche en sagesse ou taillé en force,
+            <lb/>qui l’a bravé et resta indemne ?</l>
+        </lg>
+        <lg>
+          <l n="5">Lui qui déplace les montagnes à leur insu,
+            <lb/>qui les culbute en sa colère,</l>
+          <l n="6">il ébranle la terre de son site,
+            <lb/>et ses colonnes chancellent.</l>
+          <l n="7">Sur son ordre le soleil ne se lève pas,
+            <lb/>il met les étoiles sous scellés.</l>
+        </lg>
+        <lg>
+          <l n="8">A lui seul il étend les cieux
+            <lb/>et foule les houles des mers.</l>
+          <l n="9">Il fabrique l’Ourse, Orion,
+            <lb/>et les Pléiades et les Cellules du Sud.</l>
+          <l n="10">Il fabrique des grandeurs insondables,
+            <lb/>ses merveilles épuisent les nombres.</l>
+        </lg>
+        <lg>
+          <l n="11">Il passe près de moi et je ne le vois pas ;
+            <lb/>il s’en va, je n’y comprends rien.</l>
+          <l n="12">S’il fait main basse, qui l’en dissuade,
+            <lb/>qui lui dira : que fais-tu ?</l>
+          <l n="13">Dieu ne réfrène pas sa colère,
+            <lb/>sous lui sont prostrés les alliés du Typhon.</l>
+        </lg>
+        <label>La raison du plus fort</label>
+        <lg>
+          <l n="14">Serait-ce donc moi qui répliquerais,
+            <lb/>me munirais-je de paroles contre lui ?</l>
+          <l n="15">Si même je suis juste, à quoi bon répliquer ?
+            <lb/>C’est mon accusateur qu’il me faut implorer.</l>
+          <l n="16">Même si j’appelle, et qu’il me réponde,
+            <lb/>je ne croirais pas qu’il ait écouté ma voix.</l>
+          <l n="17">Lui qui dans l’ouragan m’écrase
+            <lb/>et multiplie sans raison mes blessures,</l>
+          <l n="18">il ne me laisse pas reprendre haleine
+            <lb/>mais il me sature de fiel.</l>
+        </lg>
+        <lg>
+          <l n="19">Recourir à la force ? Il est la puissance même.
+            <lb/>Faire appel au droit ? Qui m’assignera ?</l>
+          <l n="20">Fussé-je juste, ma bouche me condamnerait ;
+            <lb/>innocent, elle me prouverait pervers.</l>
+          <l n="21">Suis-je innocent ? je ne le saurai moi-même.
+            <lb/>Vivre me répugne.</l>
+          <l n="22">C’est tout un, je l’ai bien dit :
+            <lb/>l’innocent, comme le scélérat, il l’anéantit.</l>
+          <l n="23">Quand un fléau jette soudain la mort,
+            <lb/>de la détresse des hommes intègres il se gausse.</l>
+          <l n="24">Un pays a-t-il été livré aux scélérats,
+            <lb/>il voile la face de ses juges ;
+            <lb/>si ce n’est lui, qui est-ce donc ?</l>
+        </lg>
+        <label>Inhumanité de Dieu</label>
+        <lg>
+          <l n="25">Mes jours battent à la course les coureurs,
+            <lb/>ils ont fui sans avoir vu le bonheur.</l>
+          <l n="26">Avec les barques de jonc, ils ont filé,
+            <lb/>comme un aigle fond sur sa proie.</l>
+        </lg>
+        <lg>
+          <l n="27">Si je me dis : Oublie ta plainte,
+            <lb/>déride ton visage, sois gai,</l>
+          <l n="28">je redoute tous mes tourments ;
+            <lb/>je le sais : tu ne m’acquitteras pas.</l>
+          <l n="29">Il faut que je sois coupable !
+            <lb/>Pourquoi me fatiguer en vain ?</l>
+          <l n="30">Que je me lave à l’eau de neige,
+            <lb/>que je décape mes mains à la soude,</l>
+          <l n="31">alors, dans la fange tu me plongeras,
+            <lb/>et mes vêtements me vomiront.</l>
+        </lg>
+        <lg>
+          <l n="32">C’est qu’il n’est pas homme comme moi, pour que je lui réplique,
+            <lb/>et qu’ensemble nous comparaissions en justice.</l>
+          <l n="33">S’il existait entre nous un arbitre
+            <lb/>pour poser sa main sur nous deux,</l>
+          <l n="34">il écarterait de moi la cravache de Dieu,
+            <lb/>et sa terreur ne m’épouvanterait plus.</l>
+          <l n="35">Je parlerais sans le craindre.
+            <lb/>Puisque cela n’est pas, je suis seul avec moi.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="10">
+        <head>Chapitre 10</head>
+        <label>Mépris de la créature</label>
+        <lg>
+          <l n="1">La vie m’écœure,
+            <lb/>je ne retiendrai plus mes plaintes ;
+            <lb/>d’un cœur aigre je parlerai.</l>
+          <l n="2">Je dirai à Dieu : Ne me traite pas en coupable,
+            <lb/>fais-moi connaître tes griefs contre moi.</l>
+          <l n="3">Prends-tu plaisir à m’accabler,
+            <lb/>à mépriser la peine de tes mains
+            <lb/>et à favoriser les intrigues des méchants ?</l>
+        </lg>
+        <lg>
+          <l n="4">Aurais-tu des yeux de chair,
+            <lb/>serait-ce à vue d’homme que tu vois ?</l>
+          <l n="5">Est-ce la durée d’un mortel que la tienne
+            <lb/>et tes années sont-elles celles d’un humain</l>
+          <l n="6">pour que tu recherches mon crime
+            <lb/>et que tu enquêtes sur mon péché,</l>
+          <l n="7">bien que tu saches que je ne suis pas coupable
+            <lb/>et que nul ne me délivrera de ta main ?</l>
+        </lg>
+        <lg>
+          <l n="8">Tes mains, elles m’avaient étreint ;
+            <lb/>ensemble, elles m’avaient façonné de toutes parts, et tu m’as englouti.</l>
+          <l n="9">Rappelle-toi : tu m’as façonné comme une argile,
+            <lb/>et c’est à la poussière que tu me ramènes.</l>
+        </lg>
+        <lg>
+          <l n="10">Ne m’as-tu pas coulé comme du lait,
+            <lb/>puis fait cailler comme du fromage ?</l>
+          <l n="11">De peau et de chair tu me vêtis,
+            <lb/>d’os et de nerfs tu m’as tissé.</l>
+          <l n="12">Vie et fougue tu m’accordes
+            <lb/>et ta sollicitude a préservé mon souffle.</l>
+        </lg>
+        <label>Le tigre en chasse</label>
+        <lg>
+          <l n="13">Or voici ce que tu dissimulais en ton cœur,
+            <lb/>c’est cela, je le sais, que tu tramais :</l>
+          <l n="14">Si je pèche, me prendre sur le fait
+            <lb/>et ne me passer aucune faute.</l>
+          <l n="15">Suis-je coupable – malheur à moi !</l>
+          <l n="16">Si je me relève, tel un tigre tu me prends en chasse.
+            <lb/>Et tu répètes contre moi tes exploits,</l>
+          <l n="17">tu renouvelles tes assauts contre moi,
+            <lb/>tu redoubles de colère envers moi,
+            <lb/>des armées se relayent contre moi.</l>
+        </lg>
+        <lg>
+          <l n="18">Pourquoi donc m’as-tu fait sortir du ventre ?
+            <lb/>J’aurais expiré. Aucun œil ne m’aurait vu.</l>
+          <l n="19">Je serais comme n’ayant pas été,
+            <lb/>du ventre à la tombe on m’eût porté.</l>
+          <l n="20">Mes jours sont-ils si nombreux ? Qu’il cesse,
+            <lb/>qu’il me lâche, que je m’amuse un peu,</l>
+          <l n="21">avant de m’en aller sans retour
+            <lb/>au pays de ténèbre et d’ombre de mort,</l>
+          <l n="22">au pays où l’aurore est nuit noire,
+            <lb/>où l’ombre de mort couvre le désordre,
+            <lb/>et la clarté y est nuit noire.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="11">
+        <head>Chapitre 11</head>
+        <label>PREMIER POÈME DE ÇOFAR</label>
+        <p n="1">Alors Çofar de Naama prit la parole et dit :</p>
+        <label>Crimes de Job</label>
+        <lg>
+          <l n="2">Un tel flot de paroles restera-t-il sans réponse ?
+            <lb/>L’homme éloquent aura-t-il raison ?</l>
+          <l n="3">Tes hâbleries laissent les gens bouche bée,
+            <lb/>tu railles sans qu’on te fasse honte.</l>
+          <l n="4">Et tu as osé dire : « Ma doctrine est irréprochable,
+            <lb/>et je suis pur à tes yeux ! »</l>
+        </lg>
+        <lg>
+          <l n="5">Ah ! si seulement Dieu intervenait,
+            <lb/>s’il desserrait les lèvres pour te parler,</l>
+          <l n="6">s’il t’apprenait les secrets de la sagesse
+            <lb/>– car ils déroutent l’entendement –
+            <lb/>alors tu saurais que Dieu oublie une part de tes crimes.</l>
+        </lg>
+        <label>Justice de Dieu</label>
+        <lg>
+          <l n="7">Prétends-tu sonder la profondeur de Dieu,
+            <lb/>sonder la perfection de Shaddaï ?</l>
+          <l n="8">Elle est haute comme les cieux – que feras-tu ?
+            <lb/>Plus creuse que les enfers – qu’en sauras-tu ?</l>
+          <l n="9">Plus longue que la terre elle s’étend,
+            <lb/>et plus large que la mer.</l>
+          <l n="10">S’il fonce, emprisonne
+            <lb/>et convoque le tribunal, qui fera opposition ?</l>
+          <l n="11">Car lui connaît les faiseurs de mensonge,
+            <lb/>il discerne les méfaits sans effort d’attention ;</l>
+          <l n="12">tandis que l’homme accablé perd le jugement
+            <lb/>et que tout homme, à sa naissance, n’est qu’un ânon sauvage.</l>
+        </lg>
+        <label>Vie nouvelle</label>
+        <lg>
+          <l n="13">Toi, quand tu auras affermi ton jugement,
+            <lb/>quand tu étendras vers lui les paumes de tes mains,</l>
+          <l n="14">s’il y a des méfaits dans tes mains, jette-les au loin,
+            <lb/>et que la perversité n’habite pas sous ta tente.</l>
+          <l n="15">Alors tu lèveras un front sans tache ;
+            <lb/>purifié des scories, tu ne craindras plus.</l>
+          <l n="16">Car tu ne penseras plus à ta peine,
+            <lb/>tu t’en souviendras comme d’une eau écoulée.</l>
+          <l n="17">La vie se lèvera, plus radieuse que midi,
+            <lb/>l’obscurité deviendra une aurore.</l>
+          <l n="18">Tu seras sûr qu’il existe une espérance ;
+            <lb/>même si tu as perdu la face, tu dormiras en paix.</l>
+          <l n="19">Dans ton repos nul n’osera te troubler
+            <lb/>et beaucoup te caresseront le visage.</l>
+          <l n="20">Quant aux méchants, leurs yeux se consument
+            <lb/>et tout refuge leur fait défaut.
+            <lb/>Leur espérance, c’est de rendre l’âme.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="12">
+        <head>Chapitre 12</head>
+        <label>QUATRIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job prit la parole et dit :</p>
+        <label>Témoignage de l’expérience</label>
+        <lg>
+          <l n="2">Vraiment, la voix du peuple c’est vous,
+            <lb/>et avec vous mourra la sagesse.</l>
+          <l n="3">Moi aussi, j’ai une raison, tout comme vous,
+            <lb/>je ne suis pas plus déchu que vous.
+            <lb/>Qui ne dispose d’arguments semblables ?</l>
+          <l n="4">La risée de ses amis, c’est moi,
+            <lb/>moi qui m’époumone vers ce Dieu qui jadis répondait.
+            <lb/>La risée des hommes, c’est le juste, le parfait.</l>
+        </lg>
+        <lg>
+          <l n="5">Mépris à la guigne ! c’est la devise des chanceux,
+            <lb/>celle qu’ils destinent à ceux dont le pied glisse.</l>
+          <l n="6">Elles sont en paix, les tentes des brigands,
+            <lb/>ils sont tranquilles, ceux qui provoquent Dieu,
+            <lb/>et même celui qui capte Dieu dans sa main.</l>
+        </lg>
+        <lg>
+          <l n="7">Mais interroge donc les bestiaux, ils t’instruiront,
+            <lb/>les oiseaux du ciel, ils t’enseigneront.</l>
+          <l n="8">Cause avec la terre, elle t’instruira,
+            <lb/>et les poissons de la mer te le raconteront.</l>
+          <l n="9">Car lequel ignore, parmi eux tous,
+            <lb/>que « c’est la main du <hi rend="sc">Seigneur</hi> qui fit cela ».</l>
+          <l n="10">Lui qui tient en son pouvoir l’âme de tout vivant
+            <lb/>et le souffle de toute chair d’homme.</l>
+        </lg>
+        <lg>
+          <l n="11">« L’oreille, dit-on, apprécie les paroles,
+            <lb/>comme le palais goûte les mets ;</l>
+          <l n="12">la sagesse serait chez les hommes mûrs ;
+            <lb/>l’intelligence siérait au grand âge. »</l>
+          <l n="13">Or, sagesse et puissance l’accompagnent,
+            <lb/>conseil et intelligence sont à lui.</l>
+        </lg>
+        <label>Le divin destructeur</label>
+        <lg>
+          <l n="14">Ce qu’il détruit ne se rebâtit pas,
+            <lb/>l’homme qu’il enferme ne sera pas libéré.</l>
+          <l n="15">S’il retient les eaux, c’est la sécheresse,
+            <lb/>s’il les déchaîne, elles ravagent la terre.</l>
+          <l n="16">Force et succès l’accompagnent,
+            <lb/>l’homme égaré et celui qui l’égare sont à lui.</l>
+          <l n="17">Il fait divaguer les experts
+            <lb/>et frappe les juges de démence.</l>
+          <l n="18">Il desserre l’emprise des rois
+            <lb/>et noue un pagne à leurs reins.</l>
+          <l n="19">Il fait divaguer les prêtres
+            <lb/>et renverse les inamovibles.</l>
+          <l n="20">Il ôte la parole aux orateurs
+            <lb/>et ravit le discernement aux vieillards.</l>
+          <l n="21">Il déverse le mépris sur les nobles
+            <lb/>et desserre le baudrier des tyrans.</l>
+          <l n="22">Il dénude les abîmes de leurs ténèbres
+            <lb/>et expose à la lumière l’ombre de mort.</l>
+          <l n="23">Il grandit les nations, puis les ruine,
+            <lb/>il laisse s’étendre les nations, puis les déporte.</l>
+          <l n="24">Il ôte la raison aux chefs de la populace
+            <lb/>et les égare dans un chaos sans issue.</l>
+          <l n="25">Ceux-là tâtonnent en des ténèbres sans lumière,
+            <lb/>et Dieu les égare comme des ivrognes.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="13">
+        <head>Chapitre 13</head>
+        <label>Plâtriers de mensonge</label>
+        <lg>
+          <l n="1">Oui, tout cela mon œil l’a vu ;
+            <lb/>mon oreille l’a entendu et compris.</l>
+          <l n="2">Ce que vous savez, je le sais, moi aussi.
+            <lb/>Je ne suis pas plus déchu que vous.</l>
+          <l n="3">Mais moi, c’est à Shaddaï que je vais parler,
+            <lb/>c’est contre Dieu que je veux me défendre.</l>
+          <l n="4">Quant à vous, plâtriers de mensonge,
+            <lb/>vous n’êtes tous que des guérisseurs de néant.</l>
+          <l n="5">Qui vous réduira une bonne fois au silence ?
+            <lb/>Cela vous servirait de sagesse.</l>
+        </lg>
+        <lg>
+          <l n="6">Ecoutez donc ma défense,
+            <lb/>au plaidoyer de mes lèvres, prêtez l’oreille.</l>
+          <l n="7">Est-ce au nom de Dieu que vous parlez en fourbes,
+            <lb/>en sa faveur que vous débitez des tromperies ?</l>
+          <l n="8">Est-ce son parti que vous prenez,
+            <lb/>est-ce pour Dieu que vous plaidez ?</l>
+          <l n="9">Serait-il bon qu’il vous scrutât ?
+            <lb/>Vous joueriez-vous de lui comme on se joue d’un homme ?</l>
+          <l n="10">Il vous reprocherait sûrement
+            <lb/>d’avoir pris parti en secret !</l>
+          <l n="11">Sa majesté ne vous épouvante-t-elle pas,
+            <lb/>sa terreur ne s’abat-elle pas sur vous ?</l>
+          <l n="12">Vos rabâchements sont des sentences de cendre,
+            <lb/>vos retranchements sont devenus d’argile.</l>
+        </lg>
+        <lg>
+          <l n="13">Taisez-vous ! Laissez-moi ! C’est moi qui vais parler,
+            <lb/>quoi qu’il m’advienne.</l>
+          <l n="14">Aussi saisirai-je ma chair entre mes dents
+            <lb/>et risquerai-je mon va-tout.</l>
+          <l n="15">Certes, il me tuera. Je n’ai pas d’espoir.
+            <lb/>Pourtant, je défendrai ma conduite devant lui.</l>
+          <l n="16">Et cela même sera mon salut,
+            <lb/>car nul hypocrite n’accède en sa présence.</l>
+        </lg>
+        <lg>
+          <l n="17">Ecoutez, écoutez ma parole,
+            <lb/>que mon explication entre en vos oreilles.</l>
+          <l n="18">Voici donc : j’ai introduit une instance,
+            <lb/>je sais que c’est moi qui serai justifié !</l>
+          <l n="19">Qui donc veut plaider contre moi ?
+            <lb/>Car déjà j’en suis à me taire et à expirer.</l>
+        </lg>
+        <label>Requête au Dieu caché</label>
+        <lg>
+          <l n="20">Epargne-moi seulement deux choses
+            <lb/>et je cesserai de me cacher devant toi.</l>
+          <l n="21">Eloigne ta griffe de dessus moi.
+            <lb/>Ne m’épouvante plus par ta terreur.</l>
+          <l n="22">Puis appelle, et moi je répliquerai,
+            <lb/>ou bien si je parle, réponds-moi.</l>
+        </lg>
+        <lg>
+          <l n="23">Combien ai-je de crimes et de fautes ?
+            <lb/>Ma révolte et ma faute, fais-les-moi connaître.</l>
+          <l n="24">Pourquoi dérobes-tu ta face
+            <lb/>et me prends-tu pour ton ennemi ?</l>
+        </lg>
+        <lg>
+          <l n="25">Veux-tu traquer une feuille qui s’envole,
+            <lb/>pourchasser une paille sèche,</l>
+          <l n="26">pour que tu rédiges contre moi d’amers verdicts
+            <lb/>en m’imputant les crimes de ma jeunesse,</l>
+          <l n="27">pour que tu mettes mes pieds dans les fers
+            <lb/>et que tu épies toutes mes démarches
+            <lb/>en scrutant les empreintes de mes pas ?</l>
+          <l n="28">– Et pourtant l’homme s’effrite comme un bois vermoulu,
+            <lb/>comme un vêtement mangé des mites.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="14">
+        <head>Chapitre 14</head>
+        <label>L’irrévocabilité de la mort</label>
+        <lg>
+          <l n="1">L’homme enfanté par la femme
+            <lb/>est bref de jours et gorgé de tracas.</l>
+          <l n="2">Comme fleur cela éclôt puis c’est coupé,
+            <lb/>cela fuit comme l’ombre et ne dure pas.</l>
+          <l n="3">Et c’est là-dessus que tu ouvres l’œil,
+            <lb/>et c’est moi que tu cites avec toi en procès !</l>
+          <l n="4">Qui tirera le pur de l’impur ?
+            <lb/>Personne.</l>
+          <l n="5">Puisque sa durée est fixée,
+            <lb/>que tu as établi le compte de ses mois
+            <lb/>et posé un terme qu’il ne peut franchir,</l>
+          <l n="6">regarde ailleurs : qu’il ait du répit
+            <lb/>et jouisse comme un saisonnier de son congé.</l>
+        </lg>
+        <lg>
+          <l n="7">Car il existe pour l’arbre un espoir ;
+            <lb/>on le coupe, il reprend encore
+            <lb/>et ne cesse de surgeonner.</l>
+          <l n="8">Que sa racine ait vieilli en terre,
+            <lb/>que sa souche soit morte dans la poussière,</l>
+          <l n="9">dès qu’il flaire l’eau, il bourgeonne
+            <lb/>et se fait une ramure comme un jeune plant.</l>
+          <l n="10">Mais un héros meurt et s’évanouit.
+            <lb/>Quand l’homme expire, où donc est-il ?</l>
+          <l n="11">L’eau aura quitté la mer,
+            <lb/>le fleuve tari aura séché,</l>
+          <l n="12">les gisants ne se relèveront pas.
+            <lb/>Jusqu’à ce qu’il n’y ait plus de cieux, ils ne s’éveilleront pas
+            <lb/>et ne surgiront pas de leur sommeil.</l>
+          <l n="13">Si seulement tu me cachais dans les enfers,
+            <lb/>si tu m’abritais jusqu’à ce que reflue ta colère,
+            <lb/>si tu me fixais un terme où te souvenir de moi...</l>
+          <l n="14">– mais l’homme qui meurt va-t-il revivre ? –
+            <lb/>tout le temps de ma corvée, j’attendrais,
+            <lb/>jusqu’à ce que vienne pour moi la relève.</l>
+          <l n="15">Tu appellerais, et moi je te répondrais,
+            <lb/>tu pâlirais pour l’œuvre de tes mains.</l>
+          <l n="16">Alors que maintenant tu dénombres mes pas,
+            <lb/>tu ne prendrais pas garde à ma faute.</l>
+          <l n="17">Scellée dans un sachet serait ma rébellion,
+            <lb/>et tu aurais maquillé mon crime.</l>
+          <l n="18">Et pourtant une montagne croule et s’effrite,
+            <lb/>un roc émigre de son lieu ;</l>
+          <l n="19">l’eau peut broyer des pierres,
+            <lb/>son ruissellement ravine la terre friable,
+            <lb/>l’espérance de l’homme aussi tu l’as ruinée.</l>
+          <l n="20">Tu le mets hors de combat, et il s’en va,
+            <lb/>l’ayant défiguré, tu le chasses.</l>
+          <l n="21">Ses fils sont honorés, il ne le sait,
+            <lb/>sont-ils avilis, il l’ignore.</l>
+          <l n="22">Pour lui seul souffre sa chair,
+            <lb/>pour lui seul son cœur s’endeuille.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="15">
+        <head>Chapitre 15</head>
+        <label>DEUXIÈME POÈME D’ÉLIFAZ</label>
+        <p n="1">Alors Elifaz de Témân prit la parole et dit :</p>
+        <label>Impureté de l’homme</label>
+        <lg>
+          <l n="2">Est-ce d’un sage de répondre par une science de vent,
+            <lb/>de s’enfler le ventre de sirocco,</l>
+          <l n="3">d’argumenter avec des mots sans portée,
+            <lb/>avec des discours qui ne servent à rien ?</l>
+          <l n="4">Tu en viens à saper la piété,
+            <lb/>et tu ruines la méditation devant Dieu.</l>
+          <l n="5">Puisque ton crime inspire ta bouche
+            <lb/>et que tu adoptes le langage des fourbes,</l>
+          <l n="6">c’est ta bouche qui te condamne, ce n’est pas moi,
+            <lb/>tes propres lèvres témoignent contre toi.</l>
+        </lg>
+        <lg>
+          <l n="7">Es-tu Adam, né le premier,
+            <lb/>as-tu été enfanté avant les collines ?</l>
+          <l n="8">Aurais-tu écouté au conseil de Dieu
+            <lb/>pour y accaparer la sagesse ?</l>
+          <l n="9">Que sais-tu que nous ne sachions ?
+            <lb/>Qu’as-tu compris qui ne nous soit familier ?</l>
+          <l n="10">Vois parmi nous un ancien, un vieillard,
+            <lb/>et l’autre plus chargé d’ans que ne le serait ton père.</l>
+          <l n="11">Sont-elles indignes de toi, les consolations de Dieu,
+            <lb/>et les paroles si modérées que nous t’adressons ?</l>
+          <l n="12">Pourquoi la passion t’emporte-t-elle
+            <lb/>et pourquoi ces yeux qui clignent,</l>
+          <l n="13">lorsque tu tournes ta rancœur contre Dieu
+            <lb/>et que ta bouche pérore ?</l>
+        </lg>
+        <lg>
+          <l n="14">Qu’est-ce donc que l’homme pour jouer au pur,
+            <lb/>celui qui est né de la femme, pour se dire juste ?</l>
+          <l n="15">Même à ses saints Dieu ne se fie pas
+            <lb/>et les cieux ne sont pas purs à ses yeux.</l>
+          <l n="16">Combien moins le répugnant, le corrompu,
+            <lb/>l’homme qui boit la perfidie comme de l’eau !</l>
+        </lg>
+        <label>Destinée de l’impie</label>
+        <lg>
+          <l n="17">Je vais t’instruire, écoute-moi.
+            <lb/>Ce que j’ai contemplé, je le rapporterai,</l>
+          <l n="18">ce que les sages, sans en rien cacher,
+            <lb/>relatent comme reçu de leurs ancêtres,</l>
+          <l n="19">de ceux à qui le pays fut donné en propre,
+            <lb/>quand aucun étranger ne s’était infiltré parmi eux.</l>
+          <l n="20">Voici : pendant toute sa vie, le méchant se tourmente.
+            <lb/>Quel que soit le nombre des ans réservés au tyran,</l>
+          <l n="21">les voix de l’effroi hantent ses oreilles :
+            <lb/>En pleine paix le démolisseur ne va-t-il pas l’attaquer ?</l>
+          <l n="22">Il n’ose croire qu’il ressortira des ténèbres,
+            <lb/>lui que guette le glaive.</l>
+          <l n="23">Il erre pour chercher du pain, mais où aller ?
+            <lb/>Il sait que le sort qui l’attend, c’est le jour des ténèbres.</l>
+          <l n="24">La détresse et l’angoisse vont le terrifier,
+            <lb/>elles se ruent sur lui comme un roi prêt à l’assaut.</l>
+          <l n="25">C’est qu’il a levé la main contre Dieu,
+            <lb/>et qu’il a bravé Shaddaï.</l>
+          <l n="26">Il fonçait sur lui, tête baissée,
+            <lb/>sous le dos blindé de ses boucliers.</l>
+          <l n="27">C’est que la graisse a empâté son visage
+            <lb/>et le lard a alourdi ses reins.</l>
+          <l n="28">Il avait occupé des villes détruites,
+            <lb/>des maisons qui n’étaient plus habitables
+            <lb/>et qui croulaient en éboulis.</l>
+          <l n="29">Mais il ne s’enrichira pas, sa fortune ne tiendra pas,
+            <lb/>son succès ne s’étalera plus sur la terre.</l>
+          <l n="30">Il ne fuira pas les ténèbres,
+            <lb/>une flamme desséchera ses rameaux
+            <lb/>et il fuira sa propre haleine.</l>
+        </lg>
+        <lg>
+          <l n="31">Qu’il ne mise pas sur la duperie, il ferait fausse route,
+            <lb/>car la duperie sera son salaire.</l>
+          <l n="32">Cela s’accomplira avant sa fin
+            <lb/>et sa ramure ne reverdira plus.</l>
+          <l n="33">Il laissera tomber, comme une vigne, ses fruits encore verts,
+            <lb/>et perdra, comme un olivier, sa floraison.</l>
+          <l n="34">Oui, l’engeance de l’impie est stérile
+            <lb/>et un feu dévore les tentes de l’homme vénal.</l>
+          <l n="35">Qui conçoit la peine enfante le malheur,
+            <lb/>et son ventre mûrit la déception.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="16">
+        <head>Chapitre 16</head>
+        <label>CINQUIÈME POÈME DE JOB</label>
+        <p n="1">Et Job prit la parole et dit :</p>
+        <label>Piètres consolateurs</label>
+        <lg>
+          <l n="2">J’en ai entendu beaucoup sur ce ton,
+            <lb/>en fait de consolateurs, vous êtes tous désolants.</l>
+          <l n="3">Me dire : « Sont-elles finies, ces paroles de vent ? »
+            <lb/>Et « Qu’est-ce qui te contraint à répondre encore ? »</l>
+          <l n="4">Moi aussi je parlerais à votre façon
+            <lb/>si c’était vous qui teniez ma place.
+            <lb/>Je composerais contre vous des discours
+            <lb/>et je hocherais la tête contre vous.</l>
+          <l n="5">Je vous réconforterais par ma bouche
+            <lb/>et l’agilité de mes lèvres serait un calmant.</l>
+        </lg>
+        <label>La cible de Dieu</label>
+        <lg>
+          <l n="6">Moi, si je parle, ma douleur n’en est point calmée,
+            <lb/>et si je me tais me quittera-t-elle ?</l>
+          <l n="7">Mais c’est que maintenant il m’a poussé à bout :
+            <lb/>Oui, tu as ravagé tout mon entourage,</l>
+          <l n="8">tu m’as creusé des rides qui témoignent contre moi,
+            <lb/>ma maigreur m’accuse et me charge.</l>
+          <l n="9">Oui, pour me déchirer, sa colère me traque,
+            <lb/>contre moi il grince des dents,
+            <lb/>mon ennemi darde sur moi ses regards.</l>
+          <l n="10">Gueule béante contre moi,
+            <lb/>on me gifle d’insultes,
+            <lb/>on s’ameute contre moi.</l>
+          <l n="11">Dieu m’a livré au caprice d’un gamin,
+            <lb/>il m’a jeté en proie à des crapules.</l>
+          <l n="12">J’étais au calme. Il m’a bousculé.
+            <lb/>Il m’a saisi par la nuque et disloqué,
+            <lb/>puis m’a dressé pour cible.</l>
+          <l n="13">Ses flèches m’encadrent.
+            <lb/>Il transperce mes reins sans pitié
+            <lb/>et répand à terre mon fiel.</l>
+          <l n="14">Il ouvre en moi brèche sur brèche,
+            <lb/>fonce sur moi, tel un guerrier.</l>
+          <l n="15">J’ai cousu un sac sur mes cicatrices
+            <lb/>et enfoncé mon front dans la poussière.</l>
+          <l n="16">Mon visage est rougi par les pleurs
+            <lb/>et sur mes paupières est l’ombre de mort.</l>
+          <l n="17">Pourtant, il n’y avait pas de violence en mes mains,
+            <lb/>et ma prière était pure.</l>
+        </lg>
+        <label>Le témoin du crime</label>
+        <lg>
+          <l n="18">Terre, ne couvre pas mon sang,
+            <lb/>et que ma clameur ne trouve point de refuge.</l>
+          <l n="19">Dès maintenant, j’ai dans les cieux un témoin,
+            <lb/>je possède en haut lieu un garant.</l>
+          <l n="20">Mes amis se moquent de moi,
+            <lb/>mais c’est vers Dieu que pleurent mes yeux.</l>
+          <l n="21">Lui, qu’il défende l’homme contre Dieu,
+            <lb/>comme un humain intervient pour un autre.</l>
+          <l n="22">C’est que le nombre de mes ans est compté,
+            <lb/>et je m’engage sur le chemin sans retour.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="17">
+        <head>Chapitre 17</head>
+        <lg>
+          <l n="1">Mon souffle s’affole, mes jours s’éteignent, à moi la tombe !</l>
+          <l n="2">Ne suis-je pas entouré de cyniques ?
+            <lb/>Leurs insolences obsèdent mes veilles.</l>
+          <l n="3">Engage-toi donc, sois ma caution auprès de toi !
+            <lb/>Qui consentirait à toper dans ma main ?</l>
+          <l n="4">Vraiment, tu as fermé leur cœur à la raison,
+            <lb/>aussi, tu ne toléreras pas qu’ils triomphent.</l>
+          <l n="5">Tel convoque ses amis au partage,
+            <lb/>alors que languissent les yeux de ses fils.</l>
+        </lg>
+        <label>La fable des peuples</label>
+        <lg>
+          <l n="6">On a fait de moi la fable des peuples.
+            <lb/>Je serai un lieu commun de l’épouvante.</l>
+          <l n="7">Mon œil s’éteint de chagrin
+            <lb/>et tous mes membres ne sont qu’une ombre.</l>
+          <l n="8">Les hommes droits en seront stupéfaits,
+            <lb/>et l’homme intègre s’indignera contre l’hypocrite.</l>
+          <l n="9">Mais que le juste persiste en sa conduite,
+            <lb/>et que l’homme aux mains pures redouble d’efforts !</l>
+          <l n="10">Quant à vous, revenez tous, venez donc !
+            <lb/>Parmi vous je ne trouverai pas un sage.</l>
+          <l n="11">Mes jours ont passé, ce que je tramais s’est rompu,
+            <lb/>l’apanage de mon désir.</l>
+          <l n="12">Ils prétendent que la nuit c’est le jour,
+            <lb/>ils disent que la lumière est proche, quand tombe la ténèbre.</l>
+          <l n="13">Qu’ai-je à espérer ? Les enfers sont ma demeure.
+            <lb/>De ténèbres j’ai capitonné ma couche.</l>
+          <l n="14">Au charnier j’ai clamé : « Tu es mon père ! »
+            <lb/>A la vermine : « O ma mère, ô ma sœur ! »</l>
+          <l n="15">Où donc est passée mon espérance ?
+            <lb/>Mon espérance, qui l’entrevoit ?</l>
+          <l n="16">Au fin fond des enfers elle sombrera,
+            <lb/>quand ensemble nous reposerons dans la poussière.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="18">
+        <head>Chapitre 18</head>
+        <label>DEUXIÈME POÈME DE BILDAD</label>
+        <p n="1">Alors Bildad de Shouah prit la parole et dit :</p>
+        <lg>
+          <l n="2">Jusques à quand vous retiendrez-vous de parler ?
+            <lb/>Réfléchissez, et ensuite nous prendrons la parole.</l>
+          <l n="3">Pourquoi nous laisser traiter d’abrutis ?
+            <lb/>Pourquoi passerions-nous pour bornés à vos yeux ?</l>
+          <l n="4">O toi qui te déchires dans ta colère,
+            <lb/>faut-il qu’à cause de toi la terre devienne déserte
+            <lb/>et que le roc émigre de son lieu ?</l>
+        </lg>
+        <label>Mort du méchant</label>
+        <lg>
+          <l n="5">Oui, la lumière du méchant va s’éteindre
+            <lb/>et la flamme de son foyer va cesser de briller.</l>
+          <l n="6">La lumière s’assombrit sous sa tente
+            <lb/>et sa lampe au-dessus de lui va s’éteindre.</l>
+          <l n="7">Ses pas, jadis vigoureux, se feront courts,
+            <lb/>et il trébuchera dans ses propres intrigues,</l>
+          <l n="8">car ses pieds le jettent dans un filet
+            <lb/>et il chemine sur des mailles.</l>
+          <l n="9">Un piège lui saisira le talon,
+            <lb/>un lacet s’emparera de lui.</l>
+          <l n="10">Pour lui un cordeau se cache à terre,
+            <lb/>une trappe sur son chemin.</l>
+          <l n="11">De toutes parts des terreurs l’épouvantent,
+            <lb/>elles le suivent pas à pas.</l>
+          <l n="12">La famine le frappera en pleine vigueur.
+            <lb/>La misère se tient à son côté,</l>
+          <l n="13">elle dévorera des lambeaux de sa peau,
+            <lb/>et le premier-né de la mort dévorera ses membres.</l>
+          <l n="14">On l’arrachera à la sécurité de sa tente,
+            <lb/>et tu pourras le mener vers le roi des terreurs.</l>
+          <l n="15">Tu pourras habiter la tente qui n’est plus à lui,
+            <lb/>on répandra du soufre sur son domaine.</l>
+          <l n="16">En bas, ses racines sécheront,
+            <lb/>en haut, sa ramure sera coupée.</l>
+          <l n="17">Son souvenir s’est perdu dans le pays,
+            <lb/>son nom ne figure plus au cadastre.</l>
+          <l n="18">On le repousse de la lumière dans les ténèbres,
+            <lb/>on le bannit de l’univers.</l>
+          <l n="19">Il n’a ni lignée ni postérité dans son peuple ,
+            <lb/>aucun survivant dans sa demeure.</l>
+          <l n="20">Son destin stupéfie l’Occident,
+            <lb/>l’Orient en est saisi d’horreur :</l>
+          <l n="21">« Il ne reste que cela des repaires du brigand :
+            <lb/>le voilà, ce lieu où l’on ignorait Dieu ! »</l>
+        </lg>
+      </div>
+      <div type="chapter" n="19">
+        <head>Chapitre 19</head>
+        <label>SIXIÈME POÈME DE JOB</label>
+        <p n="1">Et Job prit la parole et dit :</p>
+        <label>Viol du droit</label>
+        <lg>
+          <l n="2">Jusques à quand me tourmenterez-vous
+            <lb/>et me broierez-vous avec des mots ?</l>
+          <l n="3">Voilà dix fois que vous m’insultez.
+            <lb/>N’avez-vous pas honte de me torturer ?</l>
+          <l n="4">Même s’il était vrai que j’aie erré,
+            <lb/>mon erreur ne regarderait que moi.</l>
+          <l n="5">Si vraiment vous voulez vous grandir à mes dépens,
+            <lb/>en me reprochant ce dont j’ai honte,</l>
+          <l n="6">sachez donc que c’est Dieu qui a violé mon droit
+            <lb/>et m’a enveloppé dans son filet.</l>
+        </lg>
+        <label>Découronnement</label>
+        <lg>
+          <l n="7">Si je crie à la violence, pas de réponse,
+            <lb/>si je fais appel, pas de justice.</l>
+          <l n="8">Il a barré ma route pour que je ne passe pas,
+            <lb/>et sur mes sentiers, il met des ténèbres.</l>
+          <l n="9">Il m’a dépouillé de ma gloire,
+            <lb/>il a ôté la couronne de ma tête.</l>
+          <l n="10">Il me sape de toutes parts et je trépasse,
+            <lb/>il a arraché l’arbre de mon espoir.</l>
+          <l n="11">Sa colère a flambé contre moi,
+            <lb/>il m’a traité en ennemi.</l>
+          <l n="12">Ses hordes arrivent en masse,
+            <lb/>elles se fraient un accès jusqu’à moi
+            <lb/>et mettent le siège autour de ma tente.</l>
+        </lg>
+        <label>Excommunication</label>
+        <lg>
+          <l n="13">Mes frères, il les a éloignés de moi,
+            <lb/>ceux qui me connaissent se veulent étrangers.</l>
+          <l n="14">Mes proches ont disparu,
+            <lb/>mes familiers m’ont oublié.</l>
+          <l n="15">Les hôtes de ma maison et mes servantes me traitent en étranger,
+            <lb/>je suis devenu un intrus à leurs yeux.</l>
+          <l n="16">J’ai appelé mon serviteur, il ne répond pas
+            <lb/>quand de ma bouche je l’implore.</l>
+          <l n="17">Mon haleine répugne à ma femme,
+            <lb/>et je dégoûte les fils de mes entrailles.</l>
+          <l n="18">Même des gamins me méprisent ;
+            <lb/>quand je me lève, ils jasent sur moi.</l>
+          <l n="19">Tous mes intimes m’ont en horreur,
+            <lb/>même ceux que j’aime se sont tournés contre moi.</l>
+          <l n="20">Mes os collent à ma peau et à ma chair,
+            <lb/>et je m’en suis tiré avec la peau de mes dents.</l>
+        </lg>
+        <label>Inscription séculaire</label>
+        <lg>
+          <l n="21">Pitié pour moi, pitié pour moi, vous mes amis,
+            <lb/>car la main de Dieu m’a touché.</l>
+          <l n="22">Pourquoi me pourchassez-vous, comme Dieu ?
+            <lb/>Seriez-vous insatiables de ma chair ?</l>
+        </lg>
+        <lg>
+          <l n="23">Ah ! si seulement on écrivait mes paroles,
+            <lb/>si on les gravait en une inscription !</l>
+          <l n="24">Avec un burin de fer et du plomb,
+            <lb/>si pour toujours dans le roc elles restaient incisées !</l>
+        </lg>
+        <label>Le rédempteur vivant</label>
+        <lg>
+          <l n="25">Je sais bien, moi, que mon rédempteur est vivant,
+            <lb/>que le dernier, il surgira sur la poussière.</l>
+          <l n="26">Et après qu’on aura détruit cette peau qui est mienne,
+            <lb/>c’est bien dans ma chair que je contemplerai Dieu.</l>
+          <l n="27">C’est moi qui le contemplerai, oui, moi !
+            <lb/>Mes yeux le verront, lui, et il ne sera pas étranger.
+            <lb/>Mon cœur en brûle au fond de moi.</l>
+        </lg>
+        <lg>
+          <l n="28">Si vous dites : « Comment le torturer
+            <lb/>afin de trouver contre lui prétexte à procès ? »</l>
+          <l n="29">alors redoutez le glaive pour vous-mêmes,
+            <lb/>car l’acharnement est passible du glaive.
+            <lb/>Ainsi vous saurez qu’il existe un jugement.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="20">
+        <head>Chapitre 20</head>
+        <label>DEUXIÈME POÈME DE ÇOFAR</label>
+        <p n="1">Alors Çofar de Naama prit la parole et dit :</p>
+        <label>Réplique de la raison</label>
+        <lg>
+          <l n="2">Voici à quoi mes doutes me ramènent
+            <lb/>et cette impatience qui me prend :</l>
+          <l n="3">J’entends une leçon qui m’outrage,
+            <lb/>mais ma raison me souffle la réplique.</l>
+        </lg>
+        <label>L’extinction du méchant</label>
+        <lg>
+          <l n="4">Ne sais-tu pas que, depuis toujours,
+            <lb/>depuis que l’homme a été mis sur terre,</l>
+          <l n="5">le triomphe des méchants fut bref,
+            <lb/>la joie de l’impie n’a duré qu’un instant ?</l>
+          <l n="6">Quand sa taille s’élèverait jusqu’au ciel
+            <lb/>et sa tête toucherait aux nues,</l>
+          <l n="7">comme son ordure il disparaîtra sans retour ;
+            <lb/>ceux qui le voyaient diront : Où est-il ?</l>
+          <l n="8">Comme un songe il s’envolera – qui le trouvera
+            <lb/>quand il est mis en fuite comme une vision de la nuit ?</l>
+          <l n="9">L’œil qui l’apercevait ne le verra plus,
+            <lb/>même sa demeure l’aura perdu de vue.</l>
+          <l n="10">Ses fils devront indemniser les pauvres,
+            <lb/>ses propres mains restitueront son avoir.</l>
+          <l n="11">Ses os regorgeaient de jeunesse,
+            <lb/>mais elle couchera avec lui dans la poussière.</l>
+          <l n="12">Puisque le mal est si doux à sa bouche
+            <lb/>qu’il l’abrite sous sa langue,</l>
+          <l n="13">le savoure sans le lâcher
+            <lb/>et le retient encore sous son palais,</l>
+          <l n="14">son aliment se corrompt dans ses entrailles
+            <lb/>et y devient un venin d’aspic.</l>
+          <l n="15">La fortune qu’il avait avalée, la voilà vomie :
+            <lb/>à son ventre, Dieu la fera rejeter.</l>
+          <l n="16">C’est un venin d’aspic qu’il suçait,
+            <lb/>la langue de la vipère le tuera.</l>
+          <l n="17">Il ne verra plus les ruisseaux,
+            <lb/>les fleuves, les torrents de miel et de crème.</l>
+          <l n="18">Il rend ce qu’il a gagné et ne peut l’avaler,
+            <lb/>quoi que lui aient rapporté ses échanges, il n’en jouira pas.</l>
+          <l n="19">Puisqu’il a écrasé et délaissé les pauvres,
+            <lb/>qu’il a volé une maison au lieu de la bâtir,</l>
+          <l n="20">puisque son ventre n’a pas su se contenter,
+            <lb/>il ne sauvera aucun de ses trésors.</l>
+          <l n="21">Rien n’échappait à sa voracité,
+            <lb/>aussi son bonheur ne durera pas.</l>
+          <l n="22">Au comble de l’abondance, la détresse va le saisir,
+            <lb/>la main de tous les misérables s’abattra sur lui.</l>
+          <l n="23">Il en sera à se remplir le ventre
+            <lb/>quand Dieu déchaînera sur lui sa colère.
+            <lb/>Elle pleuvra sur lui en guise de nourriture.</l>
+          <l n="24">Fuit-il l’arme de fer,
+            <lb/>l’arc de bronze le transperce.</l>
+          <l n="25">Il arrache la flèche, elle sort de son corps,
+            <lb/>et dès que la pointe quitte son foie,
+            <lb/>les terreurs sont sur lui.</l>
+          <l n="26">Des ténèbres se dissimulent en toutes ses caches,
+            <lb/>un feu le dévore que nul n’attise,
+            <lb/>le malheur frappe ce qui subsiste en sa tente.</l>
+          <l n="27">Les cieux dévoilent son crime,
+            <lb/>et la terre se soulève contre lui.</l>
+          <l n="28">Les richesses de sa maison s’en vont
+            <lb/>comme des eaux qui s’écoulent au jour de la colère.</l>
+          <l n="29">Le voilà, le sort que Dieu réserve à l’homme méchant,
+            <lb/>la part que Dieu a décrétée pour lui.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="21">
+        <head>Chapitre 21</head>
+        <label>SEPTIÈME POÈME DE JOB</label>
+        <p n="1">Et Job prit la parole et dit :</p>
+        <label>Courage de la véracité</label>
+        <lg>
+          <l n="2">Ecoutez, écoutez mes paroles.
+            <lb/>C’est ainsi que vous me consolerez.</l>
+          <l n="3">Supportez-moi, et moi je parlerai.
+            <lb/>Et quand j’aurai parlé, tu te moqueras.</l>
+          <l n="4">Moi, est-ce d’un homme que je me plains ?
+            <lb/>Alors, pourquoi ne perdrais-je pas patience ?</l>
+          <l n="5">Tournez-vous vers moi. Vous serez stupéfaits
+            <lb/>et mettrez la main sur votre bouche.</l>
+          <l n="6">Moi-même, ce souvenir me bouleverse
+            <lb/>et un frisson saisit ma chair :</l>
+        </lg>
+        <label>Succès des scélérats</label>
+        <lg>
+          <l n="7">Pourquoi les scélérats vivent-ils ?
+            <lb/>Vieillir, c’est pour eux accroître leur pouvoir.</l>
+          <l n="8">Leur postérité s’affermit en face d’eux, en même temps qu’eux
+            <lb/>et ils ont leurs rejetons sous leurs yeux.</l>
+          <l n="9">Leurs maisons en paix ignorent la peur.
+            <lb/>La férule de Dieu les épargne.</l>
+          <l n="10">Leur taureau féconde sans faillir,
+            <lb/>leur vache met bas sans avorter.</l>
+          <l n="11">Ils laissent leurs gamins s’ébattre en troupeaux
+            <lb/>et leur marmaille danser.</l>
+          <l n="12">On improvise sur le tambourin et la harpe,
+            <lb/>on se divertit au son de la flûte.</l>
+          <l n="13">Ils consument leurs jours dans le bonheur,
+            <lb/>en un instant ils s’effondrent aux enfers.</l>
+          <l n="14">Or ils avaient dit à Dieu : « Ecarte-toi de nous,
+            <lb/>connaître tes voies ne nous plaît pas.</l>
+          <l n="15">Shaddaï vaut-il qu’on se fasse son esclave ?
+            <lb/>Et que gagne-t-on à l’invoquer ? »</l>
+          <l n="16">Le bonheur n’est-il pas en leurs mains ?
+            <lb/>Pourquoi dire alors : Loin de moi, les intrigues des scélérats !</l>
+          <l n="17">Est-ce souvent que la lampe des scélérats s’éteint,
+            <lb/>que leur ruine fond sur eux,
+            <lb/>que Dieu leur assigne pour lot sa colère ?</l>
+          <l n="18">Et pourtant l’on dit : « Qu’ils soient comme paille au vent,
+            <lb/>comme bale qu’emporte la tempête ! »</l>
+        </lg>
+        <label>Impunité des criminels</label>
+        <lg>
+          <l n="19">Dieu, dira-t-on, réserve aux fils le châtiment du père ?
+            <lb/>Qu’il pâtisse lui-même, il le sentira !</l>
+          <l n="20">Qu’il voie de ses yeux sa ruine
+            <lb/>et qu’il s’abreuve à la fureur de Shaddaï !</l>
+          <l n="21">Que lui importe, en effet, sa maison après lui,
+            <lb/>une fois que le nombre de ses mois est tranché ?</l>
+          <l n="22">Est-ce à Dieu qu’on enseignera la science,
+            <lb/>lui qui juge le sang versé !</l>
+          <l n="23">L’un meurt en pleine vigueur,
+            <lb/>tout heureux et tranquille ;</l>
+          <l n="24">ses flancs sont lourds de graisse,
+            <lb/>la moelle de ses os est encore fraîche.</l>
+          <l n="25">L’autre meurt, le cœur aigre,
+            <lb/>sans avoir goûté au bonheur.</l>
+          <l n="26">Ensemble, ils s’étendent sur la poussière,
+            <lb/>et les vers les recouvrent.</l>
+          <l n="27">Oh ! je connais bien vos pensées
+            <lb/>et les idées que vous vous faites sur mon compte.</l>
+          <l n="28">Car vous dites : « Où est la maison du tyran,
+            <lb/>qu’est devenue la tente où gîtaient les bandits ? »</l>
+          <l n="29">N’avez-vous pas interrogé les voyageurs,
+            <lb/>n’avez-vous pas su interpréter leur langage ?</l>
+        </lg>
+        <lg>
+          <l n="30">Au jour du désastre le méchant est préservé.
+            <lb/>Au jour des fureurs il est mis à l’abri.</l>
+          <l n="31">Qui lui jettera sa conduite à la face
+            <lb/>et ce qu’il a fait, qui le lui paiera ?</l>
+          <l n="32">Lui, on l’escorte au cimetière
+            <lb/>et on veille sur son tertre.</l>
+          <l n="33">Douces lui sont les mottes de la vallée
+            <lb/>et derrière lui toute la population défile.
+            <lb/>L’assistance est innombrable.</l>
+        </lg>
+        <lg>
+          <l n="34">Pourquoi donc vous perdre en consolations ?
+            <lb/>De vos réponses, il ne reste que fausseté.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="22">
+        <head>Chapitre 22</head>
+        <label>TROISIÈME POÈME D’ÉLIFAZ</label>
+        <p n="1">Alors Elifaz de Témân prit la parole et dit :</p>
+        <label>Impassibilité de Dieu</label>
+        <lg>
+          <l n="2">Est-ce à Dieu qu’un brave peut être utile,
+            <lb/>alors que le sage n’est utile qu’à lui-même ?</l>
+          <l n="3">Shaddaï s’intéresse-t-il à ta justice,
+            <lb/>que gagne-t-il si tu réformes ta conduite ?</l>
+          <l n="4">Est-ce par crainte pour toi qu’il te présentera sa défense,
+            <lb/>qu’il ira avec toi en justice ?</l>
+        </lg>
+        <label>Crimes de Job</label>
+        <lg>
+          <l n="5">Vraiment ta méchanceté est grande,
+            <lb/>il n’y a pas de limites à tes crimes.</l>
+          <l n="6">Tu prenais sans motif des gages à tes frères,
+            <lb/>tu les dépouillais de leurs vêtements jusqu’à les mettre nus.</l>
+          <l n="7">Tu ne donnais pas d’eau à l’homme épuisé,
+            <lb/>à l’affamé tu refusais le pain.</l>
+          <l n="8">L’homme à poigne possédait la terre
+            <lb/>et le favori s’y installait.</l>
+          <l n="9">Tu as renvoyé les veuves les mains vides,
+            <lb/>et les bras des orphelins étaient broyés.</l>
+          <l n="10">C’est pour cela que des pièges t’entourent,
+            <lb/>que te trouble une terreur soudaine.</l>
+          <l n="11">Ou bien c’est l’obscurité, tu n’y vois plus,
+            <lb/>et une masse d’eau te submerge.</l>
+        </lg>
+        <label>Scepticisme de Job</label>
+        <lg>
+          <l n="12">Dieu n’est-il pas en haut des cieux ?
+            <lb/>Vois la voûte étoilée, comme elle est haute.</l>
+          <l n="13">Tu en as conclu : « Que peut savoir Dieu ?
+            <lb/>Peut-il juger à travers la nuée sombre ?</l>
+          <l n="14">Les nuages lui sont un voile et il n’y voit pas,
+            <lb/>il ne parcourt que le pourtour des cieux. »</l>
+        </lg>
+        <lg>
+          <l n="15">Veux-tu donc suivre la route de jadis,
+            <lb/>celle que foulèrent les hommes pervers ?</l>
+          <l n="16">Ils furent emportés avant le temps ;
+            <lb/>leurs fondations, c’est un fleuve qui s’écoule.</l>
+          <l n="17">Eux qui disaient à Dieu : « Détourne-toi de nous ! »
+            <lb/>Car, que pouvait leur faire Shaddaï ?</l>
+          <l n="18">C’était pourtant lui qui avait rempli leurs maisons de bonheur
+            <lb/>– loin de moi, les intrigues des scélérats !</l>
+          <l n="19">Les justes verront et se réjouiront,
+            <lb/>l’homme honnête se moquera d’eux :</l>
+          <l n="20">« Voilà nos adversaires anéantis,
+            <lb/>le feu a dévoré leurs profits ! »</l>
+        </lg>
+        <label>Fruits de la réconciliation</label>
+        <lg>
+          <l n="21">Réconcilie-toi donc avec lui et fais la paix.
+            <lb/>Ainsi le bonheur te sera rendu.</l>
+          <l n="22">Accepte donc de sa bouche l’instruction
+            <lb/>et fixe ses sentences en ta conscience.</l>
+          <l n="23">Si tu reviens vers Shaddaï, tu seras rétabli,
+            <lb/>si tu éloignes la perfidie de ta tente.</l>
+          <l n="24">Jette ensuite à la poussière les lingots
+            <lb/>et aux cailloux du torrent l’or d’Ofir.</l>
+          <l n="25">C’est Shaddaï qui te tiendra lieu de lingots
+            <lb/>et de monceaux d’argent.</l>
+          <l n="26">Car alors tu feras de Shaddaï tes délices
+            <lb/>et tu élèveras vers Dieu ton visage.</l>
+          <l n="27">Quand tu le supplieras, il t’exaucera,
+            <lb/>et tu n’auras plus qu’à t’acquitter de tes vœux.</l>
+          <l n="28">Si tu prends une décision, elle te réussira
+            <lb/>et sur ta route brillera la lumière.</l>
+          <l n="29">Si certains sont abattus, tu pourras leur dire : « Debout ! »
+            <lb/>Car il sauve l’homme aux yeux baissés.</l>
+          <l n="30">Il délivrera même celui qui n’est pas innocent ;
+            <lb/>oui, celui-ci sera délivré par la pureté de tes mains.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="23">
+        <head>Chapitre 23</head>
+        <label>HUITIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job prit la parole et dit :</p>
+        <label>Absence de Dieu</label>
+        <lg>
+          <l n="2">Aujourd’hui encore ma plainte se fait rebelle,
+            <lb/>quand ma main pèse sur mon gémissement.</l>
+          <l n="3">Ah ! si je savais où le trouver,
+            <lb/>j’arriverais jusqu’à sa demeure.</l>
+          <l n="4">J’exposerais devant lui ma cause,
+            <lb/>j’aurais la bouche pleine d’arguments.</l>
+          <l n="5">Je saurais par quels discours il me répondrait,
+            <lb/>et je comprendrais ce qu’il a à me dire.</l>
+          <l n="6">La violence serait-elle sa plaidoirie ?
+            <lb/>Non ! Lui au moins me prêterait attention.</l>
+          <l n="7">Alors un homme droit s’expliquerait avec lui
+            <lb/>et j’échapperais pour toujours à mon juge.</l>
+          <l n="8">Mais si je vais à l’orient, il n’y est pas,
+            <lb/>à l’occident, je ne l’aperçois pas.</l>
+          <l n="9">Est-il occupé au nord, je ne peux l’y découvrir,
+            <lb/>se cache-t-il au midi, je ne l’y vois pas.</l>
+        </lg>
+        <label>Présence de Dieu</label>
+        <lg>
+          <l n="10">Pourtant il sait quel chemin est le mien,
+            <lb/>s’il m’éprouve, j’en sortirai pur comme l’or.</l>
+          <l n="11">Mon pied s’est agrippé à ses traces,
+            <lb/>j’ai gardé sa voie et n’ai pas dévié,</l>
+          <l n="12">le précepte de ses lèvres et n’ai pas glissé.
+            <lb/>J’ai prisé ses décrets plus que mes principes.</l>
+          <l n="13">Mais lui, il est tout d’une pièce. Qui le fera revenir ?
+            <lb/>Son bon plaisir, c’est chose faite.</l>
+          <l n="14">Aussi exécutera-t-il la sentence qui me concerne
+            <lb/>comme tant d’autres qu’il garde en instance.</l>
+          <l n="15">Voilà pourquoi sa présence me bouleverse.
+            <lb/>Plus je réfléchis, plus j’ai peur de lui.</l>
+          <l n="16">Dieu a amolli mon courage,
+            <lb/>Shaddaï m’a bouleversé,</l>
+          <l n="17">car je n’ai pas été anéanti avant la tombée des ténèbres,
+            <lb/>mais il ne m’a pas épargné l’obscurité qui vient.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="24">
+        <head>Chapitre 24</head>
+        <label>Injustice de la société</label>
+        <lg>
+          <l n="1">Pourquoi Shaddaï n’a-t-il pas des temps en réserve,
+            <lb/>et pourquoi ses fidèles ne voient-ils pas ses jours ?</l>
+          <l n="2">On déplace les bornes,
+            <lb/>on fait paître des troupeaux volés,</l>
+          <l n="3">c’est l’âne des orphelins qu’on emmène,
+            <lb/>c’est le bœuf de la veuve qu’on retient en gage.</l>
+          <l n="4">On écarte de la route les indigents,
+            <lb/>tous les pauvres du pays n’ont plus qu’à se cacher.</l>
+          <l n="5">Tels des onagres dans le désert,
+            <lb/>ils partent au travail dès l’aube, en quête de pâture.
+            <lb/>Et c’est la steppe qui doit nourrir leurs petits.</l>
+          <l n="6">Dans les champs ils se coupent du fourrage,
+            <lb/>et ils grappillent la vigne du méchant.</l>
+          <l n="7">La nuit, ils la passent nus, faute de vêtement,
+            <lb/>ils n’ont pas de couverture quand il fait froid.</l>
+          <l n="8">Ils sont trempés par la pluie des montagnes,
+            <lb/>faute d’abri, ils étreignent le rocher.</l>
+          <l n="9">On arrache l’orphelin à la mamelle,
+            <lb/>du pauvre on exige des gages.</l>
+          <l n="10">On le fait marcher nu, privé de vêtement,
+            <lb/>et aux affamés on fait porter des gerbes.</l>
+          <l n="11">Dans les enclos des autres, ils pressent de l’huile,
+            <lb/>et ceux qui foulent au pressoir ont soif.</l>
+        </lg>
+        <label>Inutilité de la prière</label>
+        <lg>
+          <l n="12">Dans la ville les gens se lamentent,
+            <lb/>le râle des blessés hurle,
+            <lb/>et Dieu reste sourd à ces infamies !</l>
+          <l n="13">Leurs auteurs sont en révolte contre la lumière,
+            <lb/>ils en ont méconnu les voies,
+            <lb/>ils n’en ont pas fréquenté les sentiers.</l>
+          <l n="14">Le meurtrier se lève au point du jour,
+            <lb/>il assassine le pauvre et l’indigent,
+            <lb/>et la nuit, il agit en voleur.</l>
+          <l n="15">L’œil de l’adultère épie le crépuscule.
+            <lb/>« Nul œil ne me verra », dit-il
+            <lb/>et il se met un masque.</l>
+          <l n="16">C’est dans les ténèbres que celui-là force les maisons.
+            <lb/>De jour, on se tient claquemuré
+            <lb/>sans connaître la lumière.</l>
+          <l n="17">Pour eux tous, l’aube c’est l’ombre de mort.
+            <lb/>Mais le pillard est habitué aux épouvantes de l’ombre de mort.</l>
+          <l n="18">Il surnage comme sur des eaux,
+            <lb/>son domaine est maudit par les gens du pays.
+            <lb/>Mais lui ne prend pas le chemin des vignes.</l>
+        </lg>
+        <label>Dogme et réalité</label>
+        <lg>
+          <l n="19">« Le sol altéré et la chaleur engloutissent l’eau des neiges.
+            <lb/>Ainsi, dit-on, les enfers engloutissent celui qui a péché.</l>
+          <l n="20">Le sein qui le porta l’oublie, mais la vermine fait de lui ses délices,
+            <lb/>on ne se souvient plus de lui.
+            <lb/>La perfidie a été brisée comme un arbre. »</l>
+        </lg>
+        <lg>
+          <l n="21">En fait, quelqu’un entretient une femme stérile qui n’enfante pas,
+            <lb/>mais il ne donne pas la joie à la veuve.</l>
+          <l n="22">Alors Dieu qui par force a emporté les puissants
+            <lb/>se dresse, et notre homme ne compte plus sur la vie.</l>
+          <l n="23">Pourtant Dieu lui accorde de s’affermir dans la tranquillité,
+            <lb/>tandis que ses yeux surveillent la conduite des autres.</l>
+          <l n="24">Eux sont élevés pour un peu de temps, et puis plus rien.
+            <lb/>Ils se sont effondrés comme tous ceux qui sont moissonnés,
+            <lb/>ils seront coupés comme une tête d’épi.</l>
+          <l n="25">S’il n’en est pas ainsi, qui me démentira,
+            <lb/>qui réduira mon discours à néant ?</l>
+        </lg>
+      </div>
+      <div type="chapter" n="25">
+        <head>Chapitre 25</head>
+        <label>TROISIÈME POÈME DE BILDAD</label>
+        <p n="1">Alors Bildad de Shouah prit la parole et dit :</p>
+        <label>La souveraineté de Dieu</label>
+        <lg>
+          <l n="2">A lui l’empire et la terreur,
+            <lb/>lui qui fait la paix dans ses hauteurs.</l>
+          <l n="3">Peut-on compter ses légions ?
+            <lb/>Sur qui sa lumière ne se lève-t-elle pas ?</l>
+          <l n="4">Et comment l’homme serait-il juste contre Dieu,
+            <lb/>comment jouerait-il au pur, celui qui est né de la femme ?</l>
+          <l n="5">Si même la lune perd sa brillance,
+            <lb/>et si les étoiles ne sont pas pures à ses yeux,</l>
+          <l n="6">que dire de l’homme, ce ver,
+            <lb/>du fils d’Adam, cette larve !</l>
+        </lg>
+      </div>
+      <div type="chapter" n="26">
+        <head>Chapitre 26</head>
+        <label>NEUVIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job prit la parole et dit :</p>
+        <label>Réplique à Bildad</label>
+        <lg>
+          <l n="2">Comme tu assistes l’homme sans force,
+            <lb/>et secours le bras sans vigueur !</l>
+          <l n="3">Comme tu conseilles l’homme sans sagesse
+            <lb/>et dispenses le savoir-faire !</l>
+          <l n="4">A qui tes paroles s’adressent-elles,
+            <lb/>de qui vient cette inspiration qui émane de toi ?</l>
+        </lg>
+        <label>Transcendance de Dieu</label>
+        <lg>
+          <l n="5">Plus profond que les eaux et que ceux qui les habitent,
+            <lb/>tremblent les trépassés.</l>
+          <l n="6">Les enfers sont à nu devant lui,
+            <lb/>et le gouffre n’a point de voile.</l>
+          <l n="7">C’est lui qui étend l’Arctique sur le vide,
+            <lb/>qui suspend la terre sur le néant,</l>
+          <l n="8">qui stocke les eaux dans ses nuages,
+            <lb/>sans que la nuée crève sous elles,</l>
+          <l n="9">qui dérobe la vue de son trône
+            <lb/>en étendant sur lui sa nuée.</l>
+          <l n="10">Il a tracé un cercle sur la face des eaux,
+            <lb/>aux confins de la lumière et des ténèbres.</l>
+          <l n="11">Les colonnes des cieux vacillent,
+            <lb/>épouvantées, à sa menace.</l>
+          <l n="12">Par sa force, il a fendu l’Océan,
+            <lb/>par son intelligence, il a brisé le Typhon.</l>
+          <l n="13">Son souffle a balayé les cieux,
+            <lb/>sa main a transpercé le Serpent fuyard.</l>
+          <l n="14">Si telles sont les franges de ses œuvres,
+            <lb/>le faible écho que nous en percevons,
+            <lb/>qui donc comprendrait le tonnerre de ses exploits ?</l>
+        </lg>
+      </div>
+      <div type="chapter" n="27">
+        <head>Chapitre 27</head>
+        <label>DIXIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job continua de prononcer son poème et dit :</p>
+        <label>Serment d’innocence</label>
+        <lg>
+          <l n="2">Par la vie du Dieu qui me dénie justice,
+            <lb/>par Shaddaï qui m’a aigri le cœur,</l>
+          <l n="3">tant que je pourrai respirer
+            <lb/>et que le souffle de Dieu sera dans mes narines,</l>
+          <l n="4">je jure que mes lèvres ne diront rien de perfide
+            <lb/>et que ma langue ne méditera rien de fourbe.</l>
+          <l n="5">Quelle abomination, si je vous donnais raison !
+            <lb/>Jusqu’à ce que j’expire, je maintiendrai mon innocence.</l>
+          <l n="6">Je tiens à ma justice et ne la lâcherai pas !
+            <lb/>Ma conscience ne me reproche aucun de mes jours.</l>
+        </lg>
+        <lg>
+          <l n="7">Qu’il en soit de mon ennemi comme du méchant,
+            <lb/>de mon adversaire comme du malfaiteur !</l>
+          <l n="8">Ne dites-vous pas : « Quel profit peut espérer l’impie
+            <lb/>alors que Dieu va le dépouiller de la vie ?</l>
+          <l n="9">Dieu entendra-t-il son cri
+            <lb/>quand la détresse le surprendra ?</l>
+          <l n="10">S’il s’était délecté auprès de Shaddaï,
+            <lb/>il aurait invoqué Dieu à tout moment. »</l>
+        </lg>
+        <label>La thèse conformiste</label>
+        <lg>
+          <l n="11">Je vais vous la montrer, la maîtrise de Dieu,
+            <lb/>je ne cacherai pas la pensée de Shaddaï.</l>
+          <l n="12">Puisque vous tous l’avez constatée,
+            <lb/>pourquoi vous être évanouis en vanité ?</l>
+          <l n="13">Voici le lot que Dieu réserve à l’homme méchant,
+            <lb/>la part qu’un tyran recevra de Shaddaï :</l>
+        </lg>
+        <lg>
+          <l n="14">« Si ses fils se multiplient, ce sera pour le glaive,
+            <lb/>et ses descendants manqueront de pain.</l>
+          <l n="15">Ses survivants seront emporés par une mort tragique,
+            <lb/>sans que ses veuves puissent les pleurer.</l>
+          <l n="16">S’il amasse l’argent comme de la poussière,
+            <lb/>s’il entasse les vêtements comme de la glaise,</l>
+          <l n="17">qu’il entasse, c’est le juste qui s’en vêtira,
+            <lb/>quant à l’argent, c’est l’homme honnête qui le touchera.</l>
+          <l n="18">Il a bâti sa maison comme le fait la mite,
+            <lb/>comme la hutte qu’élève un guetteur.</l>
+          <l n="19">Riche il se couche, il est bien vivant ;
+            <lb/>il ouvre les yeux : plus rien.</l>
+          <l n="20">Les terreurs l’atteignent comme un flot.
+            <lb/>En une nuit, un tourbillon l’enlève.</l>
+          <l n="21">Le sirocco l’emporte et il s’en va,
+            <lb/>le vent l’arrache de chez lui.</l>
+          <l n="22">Sans pitié on tire sur lui,
+            <lb/>et il s’efforce de fuir la main de l’archer.</l>
+          <l n="23">On applaudit à sa ruine,
+            <lb/>de sa propre demeure on le siffle. »</l>
+        </lg>
+      </div>
+      <div type="chapter" n="28">
+        <head>Chapitre 28</head>
+        <label>ÉLOGE DE LA SAGESSE
+          <lb/>Inaccessible aux spécialistes</label>
+        <lg>
+          <l n="1">Certes, des lieux d’où extraire l’argent
+            <lb/>et où affiner l’or, il n’en manque pas.</l>
+          <l n="2">Le fer, c’est du sol qu’on l’extrait,
+            <lb/>et le roc se coule en cuivre.</l>
+          <l n="3">On a mis fin aux ténèbres
+            <lb/>et l’on fouille jusqu’au tréfonds
+            <lb/>la pierre obscure dans l’ombre de mort.</l>
+          <l n="4">On a percé des galeries loin des lieux habités,
+            <lb/>là, inaccessible aux passants,
+            <lb/>on oscille, suspendu loin des humains.</l>
+          <l n="5">La terre, elle d’où sort le pain,
+            <lb/>fut ravagée en ses entrailles comme par un feu.</l>
+          <l n="6">Ses rocs sont le gisement du saphir
+            <lb/>et là se trouve la poussière d’or.</l>
+          <l n="7">Les rapaces en ignorent le sentier
+            <lb/>et l’œil du vautour ne l’a pas repéré.</l>
+          <l n="8">Les fauves ne l’ont point foulé
+            <lb/>ni le lion ne l’a frayé.</l>
+          <l n="9">On s’est attaqué au silex,
+            <lb/>on a ravagé les montagnes par la racine.</l>
+          <l n="10">Dans les rochers on a percé des réseaux de galeries,
+            <lb/>et tout ce qui est précieux, l’œil de l’homme l’a vu.</l>
+          <l n="11">On a tari les sources des fleuves
+            <lb/>et amené au jour ce qui était caché.</l>
+        </lg>
+        <label>Inaccessible à l’Abîme</label>
+        <lg>
+          <l n="12">Mais la sagesse, où la trouver ?
+            <lb/>Où réside l’intelligence ?</l>
+          <l n="13">On en ignore le prix chez les hommes,
+            <lb/>et elle ne se trouve pas au pays des vivants.</l>
+          <l n="14">L’Abîme déclare : « Elle n’est pas en moi. »
+            <lb/>Et l’Océan : « Elle ne se trouve pas chez moi. »</l>
+          <l n="15">Elle ne s’échange pas contre de l’or massif,
+            <lb/>elle ne s’achète pas au poids de l’argent.</l>
+          <l n="16">L’or d’Ofir ne la vaut pas,
+            <lb/>ni l’onyx précieux, ni le saphir.</l>
+          <l n="17">Ni l’or ni le verre n’atteignent son prix,
+            <lb/>on ne peut l’avoir pour un vase d’or fin.</l>
+          <l n="18">Corail, cristal n’entrent pas en ligne de compte.
+            <lb/>Et mieux vaudrait pêcher la sagesse que les perles.</l>
+          <l n="19">La topaze de Nubie n’atteint pas son prix.
+            <lb/>Même l’or pur ne la vaut pas.</l>
+        </lg>
+        <label>Accessible au Créateur</label>
+        <lg>
+          <l n="20">Mais la sagesse, d’où vient-elle,
+            <lb/>où réside l’intelligence ?</l>
+          <l n="21">Elle se cache aux yeux de tout vivant,
+            <lb/>elle se dérobe aux oiseaux du ciel.</l>
+          <l n="22">Le gouffre et la mort déclarent :
+            <lb/>« Nos oreilles ont eu vent de sa renommée. »</l>
+          <l n="23">Dieu en a discerné le chemin,
+            <lb/>il a su, lui, où elle réside.</l>
+          <l n="24">C’était lorsqu’il portait ses regards jusqu’aux confins du monde
+            <lb/>et qu’il inspectait tout sous les cieux</l>
+          <l n="25">pour régler le poids du vent,
+            <lb/>et fixer la mesure des eaux.</l>
+          <l n="26">Quand il assignait une limite à la pluie
+            <lb/>et frayait une voie à la nuée qui tonne,</l>
+          <l n="27">alors il l’a vue et dépeinte,
+            <lb/>il l’a discernée et même scrutée.</l>
+          <l n="28">Puis il a dit à l’homme :
+            <lb/>« La crainte du Seigneur, voilà la sagesse.
+            <lb/>S’écarter du mal, c’est l’intelligence ! »</l>
+        </lg>
+      </div>
+      <div type="chapter" n="29">
+        <head>Chapitre 29</head>
+        <label>ONZIÈME POÈME DE JOB</label>
+        <p n="1">Alors Job continua de prononcer son poème et dit :</p>
+        <label>Le bonheur d’antan</label>
+        <lg>
+          <l n="2">Qui me fera revivre les lunes d’antan,
+            <lb/>ces jours où Dieu veillait sur moi,</l>
+          <l n="3">quand sa lampe brillait sur ma tête,
+            <lb/>et dans la nuit j’avançais à sa clarté ;</l>
+          <l n="4">tel que j’étais aux jours féconds de mon automne,
+            <lb/>quand l’amitié de Dieu reposait sur ma tente,</l>
+          <l n="5">quand Shaddaï était encore avec moi
+            <lb/>et que mes garçons m’entouraient,</l>
+          <l n="6">quand je lavais mes pieds dans la crème
+            <lb/>et le roc versait pour moi des flots d’huile.</l>
+          <l n="7">Si je sortais vers la porte de la cité,
+            <lb/>si j’installais mon siège sur la place,</l>
+          <l n="8">à ma vue les jeunes s’éclipsaient,
+            <lb/>les vieillards se levaient et restaient debout.</l>
+          <l n="9">Les notables arrêtaient leurs discours
+            <lb/>et mettaient la main sur leur bouche.</l>
+          <l n="10">La voix des chefs se perdait,
+            <lb/>leur langue se collait au palais.</l>
+          <l n="11">L’oreille qui m’entendait me disait heureux,
+            <lb/>l’œil qui me voyait me rendait témoignage.</l>
+          <l n="12">Car je sauvais le pauvre qui crie à l’aide,
+            <lb/>et l’orphelin sans secours.</l>
+          <l n="13">La bénédiction du mourant venait sur moi,
+            <lb/>et je rendais la joie au cœur de la veuve.</l>
+          <l n="14">Je revêtais la justice, c’était mon vêtement.
+            <lb/>Mon droit me servait de manteau et de turban.</l>
+          <l n="15">J’étais devenu les yeux de l’aveugle,
+            <lb/>et les pieds de l’impotent, c’était moi.</l>
+          <l n="16">Pour les indigents, j’étais un père,
+            <lb/>la cause d’un inconnu, je la disséquais.</l>
+          <l n="17">Je brisais les crocs de l’injuste,
+            <lb/>et de ses dents, je faisais tomber sa proie.</l>
+          <l n="18">Je me disais : « Quand j’expirerai dans mon nid,
+            <lb/>comme le phénix je multiplierai mes jours.</l>
+          <l n="19">L’eau accède à ma racine,
+            <lb/>la rosée passe la nuit sur ma ramure.</l>
+          <l n="20">Ma gloire retrouvera sa fraîcheur,
+            <lb/>et dans ma main mon arc rajeunira. »</l>
+          <l n="21">On m’écoutait, dans l’attente.
+            <lb/>On accueillait en silence mes avis.</l>
+          <l n="22">Quand j’avais parlé, nul ne répliquait,
+            <lb/>sur eux goutte à goutte tombaient mes paroles.</l>
+          <l n="23">Ils m’attendaient comme on attend la pluie.
+            <lb/>Leur bouche s’ouvrait comme à l’ondée tardive.</l>
+          <l n="24">Je leur souriais, ils n’osaient y croire,
+            <lb/>et recueillaient avidement tout signe de ma faveur.</l>
+          <l n="25">Leur fixant la route, je siégeais en chef,
+            <lb/>campé, tel un roi, parmi ses troupes,
+            <lb/>comme il console des affligés.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="30">
+        <head>Chapitre 30</head>
+        <label>La misère d’aujourd’hui</label>
+        <lg>
+          <l n="1">Et maintenant, je suis la risée
+            <lb/>de plus jeunes que moi,
+            <lb/>dont j’eusse dédaigné de mettre les pères
+            <lb/>parmi les chiens de mon troupeau.</l>
+          <l n="2">Qu’aurais-je fait des efforts de leurs bras ?
+            <lb/>Toute leur vigueur avait péri.</l>
+          <l n="3">Desséchés par la misère et la faim,
+            <lb/>ils rongeaient la steppe,
+            <lb/>lugubre et vaste solitude.</l>
+          <l n="4">Ils cueillent l’arroche sur les buissons,
+            <lb/>ils ont pour pain la racine des genêts.</l>
+          <l n="5">Bannis de la société des hommes
+            <lb/>qui les hue comme des voleurs,</l>
+          <l n="6">ils logent au flanc des précipices,
+            <lb/>dans les antres de la terre et les cavernes.</l>
+          <l n="7">Ils beuglent parmi les broussailles
+            <lb/>et s’entassent sous les ronces,</l>
+          <l n="8">fils de l’infâme, fils de l’homme sans nom,
+            <lb/>chassés du pays à coups de bâton.</l>
+        </lg>
+        <lg>
+          <l n="9">Et maintenant je sers à leur chanson,
+            <lb/>me voici devenu leur fable.</l>
+          <l n="10">Ils m’ont en horreur et s’éloignent.
+            <lb/>Sans se gêner, ils me crachent au visage.</l>
+          <l n="11">Puisque Dieu a détendu mon arc et m’a terrassé,
+            <lb/>ils perdent toute retenue en ma présence.</l>
+          <l n="12">Ils grouillent à ma droite,
+            <lb/>ils me font lâcher pied,
+            <lb/>ils se fraient un accès jusqu’à moi pour me perdre.</l>
+          <l n="13">Ils me coupent la retraite
+            <lb/>et s’affairent à ma ruine,
+            <lb/>sans qu’ils aient besoin d’aide.</l>
+          <l n="14">Ils affluent par la brèche,
+            <lb/>ils se bousculent sous les décombres.</l>
+          <l n="15">L’épouvante fonce contre moi.
+            <lb/>En coup de vent, elle chasse mon assurance.
+            <lb/>Mon bien-être a disparu comme un nuage.</l>
+          <l n="16">Et maintenant la vie s’écoule de moi,
+            <lb/>les jours de peine m’étreignent.</l>
+          <l n="17">La nuit perce mes os et m’écartèle ;
+            <lb/>et mes nerfs n’ont pas de répit.</l>
+          <l n="18">Sous sa violence, mon vêtement s’avilit,
+            <lb/>comme le col de ma tunique il m’enserre.</l>
+          <l n="19">Il m’a jeté dans la boue.
+            <lb/>Me voilà devenu poussière et cendre.</l>
+          <l n="20">Je hurle vers toi, et tu ne réponds pas.
+            <lb/>Je me tiens devant toi, et ton regard me transperce.</l>
+          <l n="21">Tu t’es changé en bourreau pour moi,
+            <lb/>et de ta poigne tu me brimes.</l>
+          <l n="22">Tu m’emportes sur les chevaux du vent
+            <lb/>et me fais fondre sous l’orage.</l>
+          <l n="23">Je le sais : tu me ramènes à la mort,
+            <lb/>le rendez-vous de tous les vivants.</l>
+          <l n="24">Mais rien ne sert d’invoquer quand il étend sa main,
+            <lb/>même si ses fléaux leur arrachent des cris.</l>
+          <l n="25">Pourtant, n’ai-je point pleuré avec ceux qui ont la vie dure ?
+            <lb/>Mon cœur ne s’est-il pas serré à la vue du pauvre ?</l>
+          <l n="26">Et quand j’espérais le bonheur, c’est le malheur qui survint.
+            <lb/>Je m’attendais à la lumière... l’ombre est venue.</l>
+        </lg>
+        <lg>
+          <l n="27">Mes entrailles ne cessent de fermenter,
+            <lb/>des jours de peine sont venus vers moi.</l>
+          <l n="28">Je marche bruni, mais non par le soleil.
+            <lb/>En pleine assemblée, je me dresse et je hurle.</l>
+          <l n="29">Je suis entré dans l’ordre des chacals
+            <lb/>et dans la confrérie des effraies.</l>
+          <l n="30">Ma peau noircit et tombe,
+            <lb/>mes os brûlent et se dessèchent.</l>
+          <l n="31">Ma harpe s’accorde à la plainte,
+            <lb/>et ma flûte à la voix des pleureurs.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="31">
+        <head>Chapitre 31</head>
+        <label>Protestation d’innocence</label>
+        <lg>
+          <l n="1">J’avais conclu un pacte avec mes yeux :
+            <lb/>ne pas fixer le regard sur une vierge.</l>
+          <l n="2">Quel lot, en effet, Dieu assigne-t-il d’en haut,
+            <lb/>quelle part Shaddaï fixe-t-il depuis les cieux ?</l>
+          <l n="3">N’est-ce pas la ruine pour le pervers,
+            <lb/>l’adversité pour les malfaiteurs ?</l>
+          <l n="4">Ne voit-il pas, lui, ma conduite ?
+            <lb/>Ne tient-il pas le compte de tous mes pas ?</l>
+          <l n="5">Alors, ai-je fait route avec le mensonge,
+            <lb/>mon pied s’est-il hâté vers la fraude ?</l>
+          <l n="6">Qu’il me pèse à de justes balances
+            <lb/>et Dieu reconnaîtra mon intégrité.</l>
+        </lg>
+        <lg>
+          <l n="7">Si mes pas ont dévié,
+            <lb/>si mon cœur a suivi mes yeux,
+            <lb/>si une souillure imprègne mes mains,</l>
+          <l n="8">alors, ce que je sème, qu’un autre le mange,
+            <lb/>mes rejetons, qu’on les déracine !</l>
+          <l n="9">Si mon cœur fut séduit par une femme,
+            <lb/>si j’ai fait le guet à la porte du voisin,</l>
+          <l n="10">que pour un autre ma femme tourne la meule,
+            <lb/>et que sur elle d’autres se couchent,</l>
+          <l n="11">car ç’aurait été une infamie,
+            <lb/>un forfait que punit mon juge.</l>
+          <l n="12">Un feu m’eut dévoré jusqu’à la perdition,
+            <lb/>ruinant tout mon fruit jusqu’à la racine.</l>
+          <l n="13">Si j’ai méconnu le droit de mon serviteur ou de ma servante
+            <lb/>dans leurs litiges avec moi,</l>
+          <l n="14">que faire quand Dieu se lèvera ?
+            <lb/>Quand il enquêtera, que lui répondre ?</l>
+          <l n="15">Celui qui m’a fait dans le ventre, ne les a-t-il pas faits aussi ?
+            <lb/>C’est le même Dieu qui nous a formés dans le sein.</l>
+        </lg>
+        <lg>
+          <l n="16">Est-ce que je repoussais la demande des pauvres,
+            <lb/>laissais-je languir les yeux de la veuve ?</l>
+          <l n="17">Ma ration, l’ai-je mangée seul,
+            <lb/>sans que l’orphelin en ait eu sa part,</l>
+          <l n="18">alors que dès mon enfance il a grandi avec moi comme avec un père,
+            <lb/>et qu’à peine sorti du ventre de ma mère je fus le guide de la veuve ?</l>
+          <l n="19">Voyais-je un miséreux privé de vêtement,
+            <lb/>un indigent n’ayant pas de quoi se couvrir,</l>
+          <l n="20">sans que ses reins m’aient béni
+            <lb/>et qu’il fût réchauffé par la toison de mes brebis ?</l>
+          <l n="21">Si j’ai brandi le poing contre un orphelin,
+            <lb/>me sachant soutenu au tribunal,</l>
+          <l n="22">que mon épaule se détache de mon dos
+            <lb/>et que mon bras se rompe au coude.</l>
+        </lg>
+        <lg>
+          <l n="23">Non, le châtiment de Dieu était ma terreur,
+            <lb/>je ne pouvais rien devant sa majesté.</l>
+          <l n="24">Si j’ai placé dans l’or ma confiance,
+            <lb/>si j’ai dit au métal fin : « Tu es ma sécurité »,</l>
+          <l n="25">si j’ai tiré joie de l’abondance de mes biens,
+            <lb/>de ce que mes mains avaient beaucoup gagné,</l>
+          <l n="26">si en voyant la lumière resplendir
+            <lb/>et la lune s’avancer radieuse,</l>
+          <l n="27">mon cœur en secret s’est laissé séduire,
+            <lb/>et si ma main s’est portée à ma bouche pour un baiser,</l>
+          <l n="28">cela aussi aurait été un forfait que punit mon juge,
+            <lb/>car j’aurais renié le Dieu d’en haut.</l>
+          <l n="29">Me suis-je réjoui de la ruine de mon ennemi,
+            <lb/>ai-je tressailli de joie quand le malheur l’a frappé ?</l>
+          <l n="30">Moi qui ne permettais pas à ma bouche de pécher
+            <lb/>en le vouant à la mort par une imprécation !</l>
+          <l n="31">Mes hôtes même n’ont-ils pas dit :
+            <lb/>« Qui n’a-t-il pas rassasié de viande ? »</l>
+          <l n="32">L’étranger ne passait pas la nuit dehors :
+            <lb/>j’ouvrais mes portes au voyageur.</l>
+          <l n="33">Ai-je comme Adam dissimulé mes révoltes,
+            <lb/>caché dans mon sein ma faute ?</l>
+          <l n="34">Et cela parce que j’aurais redouté l’opinion des foules
+            <lb/>et que le mépris des familles m’eût terrorisé,
+            <lb/>réduit à me taire et à ne plus franchir ma porte...</l>
+        </lg>
+        <label>Le dernier défi</label>
+        <lg>
+          <l n="35">Qui me donnera quelqu’un qui m’écoute ?
+            <lb/>Voilà mon dernier mot. A Shaddaï de me répondre !
+            <lb/>Quant au réquisitoire écrit par mon adversaire,</l>
+          <l n="36">eh bien, je le porterai sur mon épaule,
+            <lb/>je m’en parerai comme d’une couronne.</l>
+          <l n="37">Oui, je lui rendrai compte de mes pas,
+            <lb/>je lui ferai un accueil princier !</l>
+          <l n="38">Si ma terre a protesté contre moi,
+            <lb/>si ses sillons ont fondu en larmes,</l>
+          <l n="39">si j’ai dévoré sa vigueur sans avoir payé,
+            <lb/>ayant fait rendre l’âme à son maître,</l>
+          <l n="40">alors qu’au lieu du froment l’épine y croisse
+            <lb/>et au lieu d’orge l’herbe puante.
+            <lb/>Ici finissent les paroles de Job.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="32">
+        <head>Chapitre 32</head>
+        <label>LA HARANGUE D’ÉLIHOU</label>
+        <p n="1">Alors ces trois hommes cessèrent de répondre à Job, puisqu’il s’estimait juste.
+          <milestone n="2"/>Mais Elihou se mit en colère. Il était fils de Barakéel le Bouzite, du clan de Ram. Il se mit en colère contre Job parce que celui-ci se prétendait plus juste que Dieu.
+          <milestone n="3"/>Il se mit en colère aussi contre ses trois amis parce qu’ils n’avaient plus trouvé de réponse et avaient ainsi reconnu Dieu coupable.
+          <milestone n="4"/>Or Elihou s’était retenu de parler à Job parce que les autres étaient plus âgés que lui.
+          <milestone n="5"/>Mais quand Elihou vit que ces trois hommes n’avaient plus de réponse à la bouche, il se mit en colère.</p>
+        <label>PREMIER DISCOURS D’ÉLIHOU</label>
+        <p n="6">Alors Elihou, fils de Barakéel le Bouzite, prit la parole et dit :</p>
+        <label>Sagesse et jeunesse</label>
+        <lg>
+          <l>Je suis un jeune, moi,
+            <lb/>et vous, des vieux.
+            <lb/>Aussi craignais-je et redoutais-je
+            <lb/>de vous exposer mon savoir.</l>
+          <l n="7">Je me disais : « L’âge parlera,
+            <lb/>le nombre des années enseignera la sagesse. »</l>
+          <l n="8">Mais en réalité, dans l’homme, c’est le souffle,
+            <lb/>l’inspiration de Shaddaï, qui rend intelligent.</l>
+          <l n="9">Etre un ancien ne rend pas sage,
+            <lb/>et les vieillards ne discernent pas le droit.</l>
+          <l n="10">C’est pourquoi je dis : « Ecoute-moi,
+            <lb/>et je t’exposerai mon savoir, moi aussi. »</l>
+        </lg>
+        <lg>
+          <l n="11">Voyez, je comptais sur vos discours,
+            <lb/>je prêtais l’oreille à vos raisonnements,
+            <lb/>à votre critique de ses propos.</l>
+          <l n="12">Je vous ai suivis avec attention,
+            <lb/>mais aucun de vous n’a répondu à Job,
+            <lb/>aucun de vous n’a réfuté ses dires.</l>
+          <l n="13">Et ne dites pas : « Nous avons trouvé la sagesse :
+            <lb/>Dieu seul peut triompher de lui, non un homme. »</l>
+          <l n="14">Ce n’est pas à moi qu’il a adressé ses discours,
+            <lb/>et ce n’est pas avec vos déclarations que je lui répondrai.</l>
+        </lg>
+        <lg>
+          <l n="15">Les voilà interdits, ils ne répondent plus,
+            <lb/>ils ont la parole coupée.</l>
+          <l n="16">J’aurais beau attendre, ils ne parleront pas,
+            <lb/>car ils ont cessé de donner la réplique.</l>
+          <l n="17">Cette réplique, c’est moi qui la donnerai, pour ma part,
+            <lb/>j’exposerai mon savoir, moi aussi.</l>
+          <l n="18">Car je suis plein de mots
+            <lb/>et le souffle de mon ventre me presse.</l>
+          <l n="19">En mon ventre, c’est comme un vin qui ne trouve pas d’issue,
+            <lb/>comme des outres neuves qui vont éclater !</l>
+          <l n="20">Que je parle donc pour respirer à l’aise.
+            <lb/>J’ouvrirai les lèvres et je répliquerai.</l>
+          <l n="21">Je m’interdis de favoriser personne
+            <lb/>et de flatter qui que ce soit.</l>
+          <l n="22">D’ailleurs, je ne sais pas flatter,
+            <lb/>sinon celui qui m’a fait m’aurait vite anéanti.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="33">
+        <head>Chapitre 33</head>
+        <label>L’intercesseur</label>
+        <lg>
+          <l n="1">Veuille donc entendre, ô Job, mes discours,
+            <lb/>prête l’oreille à toutes mes paroles.</l>
+          <l n="2">Voici donc que j’ouvre la bouche,
+            <lb/>que ma langue parle en mon palais.</l>
+          <l n="3">C’est la rectitude de ma conscience qui parlera,
+            <lb/>et mes lèvres diront la vérité pure.</l>
+          <l n="4">C’est le souffle de Dieu qui m’a fait,
+            <lb/>l’inspiration de Shaddaï qui me fait vivre.</l>
+          <l n="5">Si tu le peux, réponds-moi,
+            <lb/>argumente contre moi, prends position !</l>
+          <l n="6">Vois, devant Dieu je suis ton égal,
+            <lb/>j’ai été pétri d’argile, moi aussi !</l>
+          <l n="7">Voyons, la terreur de moi n’a pas à t’épouvanter,
+            <lb/>et mon autorité n’a pas à t’accabler.</l>
+        </lg>
+        <lg>
+          <l n="8">Mais tu as bien dit à mes oreilles
+            <lb/>et j’entends encore le son des paroles :</l>
+          <l n="9">« Je suis pur, sans péché.
+            <lb/>Je suis net, moi, exempt de faute.</l>
+          <l n="10">Mais Dieu invente contre moi des griefs,
+            <lb/>il me traite en ennemi.</l>
+          <l n="11">Il me met les pieds dans les fers
+            <lb/>et il épie toutes mes traces ! »</l>
+          <l n="12">Voyons, en cela tu n’as pas raison, te dirai-je.
+            <lb/>Car Dieu est bien plus que l’homme.</l>
+          <l n="13">Pourquoi lui as-tu intenté un procès,
+            <lb/>à lui qui ne rend compte d’aucun de ses actes ?</l>
+        </lg>
+        <lg>
+          <l n="14">Pourtant Dieu parle d’abord d’une manière
+            <lb/>et puis d’une autre, mais l’on n’y prend pas garde :</l>
+          <l n="15">dans le songe, la vision nocturne,
+            <lb/>lorsqu’une torpeur accable les humains,
+            <lb/>endormis sur leur couche.</l>
+          <l n="16">Alors il ouvre l’oreille des humains
+            <lb/>et y scelle les avertissements qu’il leur adresse,</l>
+          <l n="17">afin de détourner l’homme de ses actes,
+            <lb/>d’éviter l’orgueil au héros.</l>
+          <l n="18">Ainsi il préserve son existence de la fosse
+            <lb/>et l’empêche d’offrir sa vie au javelot.</l>
+        </lg>
+        <lg>
+          <l n="19">Parfois, il le réprimande dans son lit par la douleur,
+            <lb/>et la lutte n’a de cesse dans ses os.</l>
+          <l n="20">Le pain lui donne la nausée,
+            <lb/>il n’a plus d’appétit pour la bonne chère.</l>
+          <l n="21">Il dépérit à vue d’œil,
+            <lb/>ses os qu’on ne voyait pas deviennent saillants.</l>
+          <l n="22">Alors son existence frôle la fosse,
+            <lb/>et sa vie est livrée aux exterminateurs.</l>
+          <l n="23">Mais s’il se trouve pour lui un ange,
+            <lb/>un interprète entre mille
+            <lb/>pour faire connaître à l’homme son devoir,</l>
+          <l n="24">qu’il ait compassion de lui et dise :
+            <lb/>« Exempte-le de descendre dans la fosse,
+            <lb/>j’ai découvert une rançon ! »</l>
+          <l n="25">Alors sa chair retrouve la sève de la jeunesse,
+            <lb/>il revient aux jours de son adolescence,</l>
+          <l n="26">il invoque Dieu qui se plaît en lui,
+            <lb/>criant de joie il voit la face
+            <lb/>de celui qui rend à l’homme sa justice ;</l>
+          <l n="27">il chante devant les hommes en disant :
+            <lb/>« J’avais péché, j’avais violé le droit,
+            <lb/>mais lui ne s’est pas conduit comme moi.</l>
+          <l n="28">Il a racheté mon existence au bord de la fosse
+            <lb/>et ma vie contemplera la lumière ! »</l>
+        </lg>
+        <lg>
+          <l n="29">Vois, tout cela Dieu l’accomplit,
+            <lb/>deux fois, trois fois pour l’homme,</l>
+          <l n="30">pour retirer son existence de la fosse,
+            <lb/>pour l’illuminer de la lumière des vivants.</l>
+          <l n="31">Sois attentif, Job, écoute-moi ;
+            <lb/>tais-toi, c’est moi qui parlerai.</l>
+          <l n="32">Si tu as des mots pour répondre,
+            <lb/>parle, car je voudrais te trouver juste ;</l>
+          <l n="33">sinon, c’est à toi de m’écouter.
+            <lb/>Tais-toi, je vais t’apprendre la sagesse.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="34">
+        <head>Chapitre 34</head>
+        <label>DEUXIÈME DISCOURS D’ÉLIHOU</label>
+        <p n="1">Alors Elihou reprit et dit :</p>
+        <label>Les erreurs de Job</label>
+        <lg>
+          <l n="2">Ecoutez, sages, mes discours,
+            <lb/>et vous, savants, prêtez-moi l’oreille.</l>
+          <l n="3">Car c’est à l’oreille d’apprécier les discours
+            <lb/>comme au palais de goûter les mets.</l>
+          <l n="4">A nous de discerner ce qui est juste ;
+            <lb/>reconnaissons donc entre nous ce qui est bien.</l>
+        </lg>
+        <lg>
+          <l n="5">Job n’a-t-il pas dit : « Je suis juste,
+            <lb/>mais Dieu me dénie justice ;</l>
+          <l n="6">quand je cherche justice, je passe pour menteur.
+            <lb/>Une flèche m’a blessé à mort, sans que j’aie péché » ?</l>
+          <l n="7">Y a-t-il un brave comme Job ?
+            <lb/>Il boit le sarcasme comme de l’eau.</l>
+          <l n="8">Il chemine de pair avec les malfaiteurs
+            <lb/>et fait route avec les méchants.</l>
+          <l n="9">N’a-t-il pas dit : « L’homme ne gagne rien
+            <lb/>à se plaire en Dieu » ?</l>
+        </lg>
+        <label>La justice de Shaddaï</label>
+        <lg>
+          <l n="10">Ecoutez-moi donc, hommes sensés !
+            <lb/>Dieu serait-il méchant,
+            <lb/>Shaddaï, perfide ? – Pensée abominable !</l>
+          <l n="11">Car il rend à l’homme selon ses œuvres
+            <lb/>et traite chacun selon sa conduite.</l>
+          <l n="12">Non, en vérité, Dieu n’agit pas méchamment,
+            <lb/>Shaddaï ne viole pas le droit.</l>
+          <l n="13">Est-ce quelqu’un d’autre qui lui a confié la terre,
+            <lb/>est-ce quelqu’un d’autre qui l’a chargé du monde entier ?</l>
+          <l n="14">S’il ne pensait qu’à lui-même,
+            <lb/>s’il concentrait en lui son souffle et son haleine,</l>
+          <l n="15">toute chair expirerait à la fois
+            <lb/>et l’homme retournerait en poussière.</l>
+          <l n="16">Puisque tu as de l’intelligence, écoute ceci,
+            <lb/>prête l’oreille au son de mes discours.</l>
+          <l n="17">Un ennemi de la justice pourrait-il régner ?
+            <lb/>Oses-tu condamner le Juste, le Très-Noble ?</l>
+        </lg>
+        <label>La puissance du Juste</label>
+        <lg>
+          <l n="18">Dit-on au roi : « Vaurien » ?
+            <lb/>Traite-t-on les grands de criminels ?</l>
+          <l n="19">Lui seul ne favorise pas les princes
+            <lb/>et ne fait pas plus de cas du richard que du pauvre,
+            <lb/>car tous sont l’œuvre de ses mains.</l>
+          <l n="20">En un instant, ils meurent en pleine nuit,
+            <lb/>le peuple s’agite et ils disparaissent,
+            <lb/>on écarte un potentat sans qu’une main se lève.</l>
+          <l n="21">Car Dieu a les yeux sur la conduite de l’homme,
+            <lb/>il observe tous ses pas.</l>
+          <l n="22">Ni les ténèbres ni l’ombre de mort
+            <lb/>ne peuvent dissimuler les malfaiteurs.</l>
+          <l n="23">Il n’a pas besoin d’épier longtemps l’homme
+            <lb/>pour que celui-ci comparaisse devant lui en jugement.</l>
+          <l n="24">Sans enquête, il brise les nobles
+            <lb/>et en met d’autres à leur place.</l>
+          <l n="25">C’est qu’il évente leurs manœuvres ;
+            <lb/>en une nuit il les renverse, les voilà écrasés.</l>
+          <l n="26">Comme des criminels, il les soufflette en public.</l>
+          <l n="27">C’est qu’ils n’ont plus voulu le suivre,
+            <lb/>qu’ils ont ignoré tous ses chemins,</l>
+          <l n="28">jusqu’à faire monter vers lui le cri du pauvre ;
+            <lb/>et le cri des opprimés, lui l’entend.</l>
+          <l n="29">Mais s’il reste impassible, qui le condamnera,
+            <lb/>s’il cache sa face, qui le percera à nu ?
+            <lb/>Il veille pourtant sur les nations comme sur les hommes,</l>
+          <l n="30">ne voulant pas que règne l’impie,
+            <lb/>ni que l’on tende des pièges au peuple.</l>
+        </lg>
+        <label>La révolte de Job</label>
+        <lg>
+          <l n="31">Mais si quelqu’un dit à Dieu :
+            <lb/>« J’ai expié, je ne ferai plus le mal.</l>
+          <l n="32">Ce qui échappe à ma vue, montre-le-moi toi-même ;
+            <lb/>si j’ai agi en pervers, je ne récidiverai pas. »</l>
+          <l n="33">Selon toi, devrait-il punir ?... Je sais que tu t’en moques.
+            <lb/>Ainsi en as-tu décidé, toi, mais pas moi.
+            <lb/>Dis quand même ce que tu en sais.</l>
+        </lg>
+        <lg>
+          <l n="34">Les hommes sensés me diront,
+            <lb/>comme tout homme sage qui m’écoute :</l>
+          <l n="35">« Ce grand parleur de Job n’y connaît rien,
+            <lb/>il discourt sans rime ni raison. »</l>
+          <l n="36">Je veux qu’on soumette Job à la question, jusqu’à ce qu’il cède,
+            <lb/>sur ses propos dignes d’un mécréant ;</l>
+          <l n="37">car à sa faute il ajoute la révolte,
+            <lb/>il sème le doute parmi nous
+            <lb/>et accumule ses remontrances contre Dieu.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="35">
+        <head>Chapitre 35</head>
+        <label>TROISIÈME DISCOURS D’ÉLIHOU</label>
+        <p n="1">Alors Elihou reprit et dit :</p>
+        <label>L’impassibilité de Dieu</label>
+        <lg>
+          <l n="2">Prétends-tu être dans ton droit
+            <lb/>quand tu dis : « Je suis plus juste que Dieu » ?</l>
+          <l n="3">Puisque tu déclares : « Que t’importe,
+            <lb/>et quel profit pour moi à ne pas pécher ? »</l>
+          <l n="4">Moi je te réfuterai par mes discours,
+            <lb/>toi et tes amis du même coup.</l>
+          <l n="5">Considère les cieux et vois,
+            <lb/>contemple les nues, comme elles te dominent !</l>
+          <l n="6">Si tu pèches, le touches-tu ?
+            <lb/>Multiplie tes révoltes, que lui fais-tu ?</l>
+          <l n="7">Si tu es juste, en profite-t-il,
+            <lb/>reçoit-il de toi quelque chose ?</l>
+          <l n="8">Ta méchanceté n’atteint que tes semblables,
+            <lb/>ta justice ne profite qu’à des hommes.</l>
+        </lg>
+        <label>Les chants dans la nuit</label>
+        <lg>
+          <l n="9">On gémit sous les excès de l’oppression,
+            <lb/>on crie sous la poigne des grands.</l>
+          <l n="10">Mais nul ne dit : « Où est Dieu qui m’a fait ?
+            <lb/>Lui qui inspire des chants dans la nuit,</l>
+          <l n="11">qui nous dresse mieux que les bêtes de la terre
+            <lb/>et nous rend plus sages que les oiseaux du ciel. »</l>
+          <l n="12">Alors on crie, mais lui ne répond pas,
+            <lb/>à cause de l’orgueil des méchants.</l>
+          <l n="13">Il n’y a que les paroles creuses que Dieu n’écoute pas,
+            <lb/>que Shaddaï ne perçoit pas.</l>
+        </lg>
+        <lg>
+          <l n="14">Or, tu oses dire que tu ne l’aperçois pas,
+            <lb/>que ta cause lui est soumise et que tu es là à l’attendre.</l>
+          <l n="15">Mais maintenant, si sa colère n’intervient pas
+            <lb/>et s’il ignore cette débauche de paroles,</l>
+          <l n="16">c’est que Job ouvre la bouche à vide
+            <lb/>et accumule des discours insensés.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="36">
+        <head>Chapitre 36</head>
+        <label>QUATRIÈME DISCOURS D’ÉLIHOU</label>
+        <p n="1">Puis Elihou continua et dit :</p>
+        <label>L’éducation divine</label>
+        <lg>
+          <l n="2">Supporte-moi un moment, je vais t’instruire.
+            <lb/>Il y a d’autres choses à dire en faveur de Dieu.</l>
+          <l n="3">Je vais tirer ma science de loin
+            <lb/>pour justifier celui qui m’a fait.</l>
+          <l n="4">Car certes mes discours ne mentent pas,
+            <lb/>et c’est un homme au savoir sûr qui est près de toi.</l>
+        </lg>
+        <lg>
+          <l n="5">Vois la noblesse de Dieu ! Lui ne dirait pas : « Je m’en moque »,
+            <lb/>il est Très-Noble par la fermeté de ses décisions.</l>
+          <l n="6">Il ne laisse pas en vie le méchant,
+            <lb/>mais fait justice aux opprimés.</l>
+          <l n="7">Il ne détourne pas ses yeux des justes.
+            <lb/>Sont-ils avec les rois sur le trône
+            <lb/>où il les a établis pour toujours ? Eux s’en grisent.</l>
+          <l n="8">Et s’ils se trouvent prisonniers dans les chaînes,
+            <lb/>s’ils sont pris dans les liens de l’oppression,</l>
+          <l n="9">c’est qu’il a voulu dénoncer devant eux leurs œuvres
+            <lb/>et leurs révoltes quand ils jouaient au héros.</l>
+          <l n="10">Il a ouvert leur oreille à sa semonce
+            <lb/>et leur a dit de se détourner du désordre.</l>
+          <l n="11">S’ils écoutent et se soumettent,
+            <lb/>ils achèveront leurs jours dans le bonheur
+            <lb/>et leurs années dans les délices.</l>
+          <l n="12">Mais s’ils n’écoutent pas, ils s’offriront au javelot
+            <lb/>et expireront sans s’en rendre compte.</l>
+          <l n="13">Quant aux impies endurcis dans leur colère,
+            <lb/>eux n’implorent pas, lorsqu’il les enchaîne.</l>
+          <l n="14">Leur existence s’éteint en pleine jeunesse,
+            <lb/>et leur vie s’achève parmi les prostitués.</l>
+          <l n="15">Mais l’opprimé, il le sauve par l’oppression,
+            <lb/>et par la détresse il lui ouvre l’oreille.</l>
+        </lg>
+        <label>Appel à la célébration</label>
+        <lg>
+          <l n="16">Toi aussi, il a voulu te faire passer de la contrainte
+            <lb/>aux grands espaces où rien ne gêne,
+            <lb/>et la table qu’on t’y servira sera chargée de mets savoureux.</l>
+          <l n="17">Mais si tu encours un verdict de condamnation,
+            <lb/>verdict et jugement l’emporteront.</l>
+          <l n="18">Que la menace du châtiment ne te pousse pas à la révolte !
+            <lb/>Tu peux en soudoyer beaucoup ? Ne te fourvoie pas !</l>
+          <l n="19">Tes richesses suffiront-elles ? Les lingots pas plus,
+            <lb/>ni toutes les ressources de la force.</l>
+          <l n="20">Ne soupire pas après cette nuit
+            <lb/>où les peuples seront déracinés.</l>
+          <l n="21">Garde-toi de te tourner vers le désordre
+            <lb/>que tu préférerais à l’oppression.</l>
+        </lg>
+        <lg>
+          <l n="22">Vois, Dieu est souverain dans sa puissance,
+            <lb/>quel maître enseignerait mieux ?</l>
+          <l n="23">Quelqu’un inspecte-t-il sa conduite,
+            <lb/>quelqu’un lui dit-il : « Tu commets le mal » ?</l>
+          <l n="24">Songe à célébrer son œuvre
+            <lb/>que chantent les hommes.</l>
+          <l n="25">Tous les humains la contemplent,
+            <lb/>de loin le mortel la distingue.</l>
+        </lg>
+        <label>Le Seigneur de l’automne</label>
+        <lg>
+          <l n="26">Vois, Dieu est grand et nous ne comprenons pas.
+            <lb/>Le nombre de ses ans est incalculable.</l>
+          <l n="27">Il attire les gouttes d’eau,
+            <lb/>puis les filtre en pluie pour son déluge</l>
+          <l n="28">que les nues déversent
+            <lb/>et répandent sur la foule des hommes.</l>
+          <l n="29">Qui prétendrait comprendre le déploiement des nuages,
+            <lb/>et le tonnerre de sa voûte ?</l>
+          <l n="30">Vois, il a déployé sur eux sa foudre
+            <lb/>et il a submergé les fondations de l’Océan.</l>
+          <l n="31">C’est par eux qu’il juge les peuples
+            <lb/>et donne la nourriture en abondance.</l>
+          <l n="32">Ses deux paumes, il les a couvertes de foudre,
+            <lb/>et à celle-ci il a assigné une cible.</l>
+          <l n="33">Son tonnerre annonce sa venue,
+            <lb/>les troupeaux même pressentent son approche.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="37">
+        <head>Chapitre 37</head>
+        <label>Le Seigneur de l’hiver</label>
+        <lg>
+          <l n="1">Mon cœur aussi en frémit
+            <lb/>et bondit hors de sa place.</l>
+          <l n="2">Ecoutez, écoutez donc vibrer sa voix,
+            <lb/>et le grondement qui sort de sa bouche.</l>
+          <l n="3">Sous tous les cieux il le répercute
+            <lb/>et sa foudre frappe les extrémités de la terre.</l>
+          <l n="4">Puis son rugissement retentit,
+            <lb/>sa majesté tonne à pleine voix,
+            <lb/>et il ne retient plus les éclairs
+            <lb/>dès que sa voix s’est fait entendre.</l>
+          <l n="5">Dieu tonne à pleine voix ses miracles,
+            <lb/>il en fait de grandioses qui nous échappent.</l>
+        </lg>
+        <lg>
+          <l n="6">Quand il dit à la neige : « Tombe sur la terre »,
+            <lb/>quand il déclenche les averses,
+            <lb/>les averses torrentielles,</l>
+          <l n="7">il met sous scellés la main de chacun,
+            <lb/>pour que les hommes qu’il a faits prennent conscience de ses actes.</l>
+          <l n="8">La bête rentre en sa tanière
+            <lb/>et se tapit dans son gîte.</l>
+          <l n="9">L’ouragan, lui, sort de sa cellule,
+            <lb/>et de la bise vient le gel.</l>
+          <l n="10">Au souffle de Dieu se forme la glace
+            <lb/>et les étendues d’eau se prennent.</l>
+          <l n="11">Puis le beau temps emporte les nuages
+            <lb/>et disperse les nuées chargées d’éclairs.</l>
+          <l n="12">C’est lui qui les fait tournoyer en cercles
+            <lb/>pour qu’elles accomplissent, selon ses desseins,
+            <lb/>tout ce qu’il leur commande sur tout l’univers.</l>
+          <l n="13">Qu’il s’agisse d’accabler ou d’arroser la terre
+            <lb/>ou de la bénir, c’est eux qu’il délègue.</l>
+        </lg>
+        <label>Le Seigneur de l’été</label>
+        <lg>
+          <l n="14">Prête l’oreille à cela, Job,
+            <lb/>arrête-toi et considère les miracles de Dieu.</l>
+          <l n="15">Lorsque Dieu les projette, le sais-tu ?
+            <lb/>Sais-tu quand il fait briller la foudre dans sa nuée ?</l>
+          <l n="16">Sais-tu l’équilibre des nuages,
+            <lb/>merveilles d’un savoir sûr ?</l>
+          <l n="17">Toi dont les vêtements sont trop chauds
+            <lb/>quand la terre s’alanguit sous le vent du midi,</l>
+          <l n="18">l’assistais-tu pour laminer les nues,
+            <lb/>solides comme un miroir de métal ?</l>
+          <l n="19">Apprends-moi ce que nous pourrions lui dire !
+            <lb/>– Mais nous ne pourrons argumenter à cause des ténèbres.</l>
+          <l n="20">Quand je parle, faut-il qu’on l’en avise ?
+            <lb/>Faut-il le lui dire pour qu’il en soit informé ?</l>
+        </lg>
+        <lg>
+          <l n="21">Soudain, on ne voit plus la lumière,
+            <lb/>elle est obscurcie par les nues,
+            <lb/>puis un vent a soufflé et les a balayées.</l>
+          <l n="22">Du nord arrive une clarté d’or,
+            <lb/>autour de Dieu, une effrayante splendeur.</l>
+          <l n="23">C’est Shaddaï que nous ne pouvions atteindre,
+            <lb/>suprême en force et en équité,
+            <lb/>il n’opprime pas celui en qui la justice abonde.</l>
+          <l n="24">C’est pourquoi les hommes le craignent,
+            <lb/>mais lui ne tient pas compte de ceux qui se croient sages.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="38">
+        <head>Chapitre 38</head>
+        <label>LES DÉFIS DU SEIGNEUR
+          <lb/>PREMIER DÉFI DU SEIGNEUR</label>
+        <p n="1">Le <hi rend="sc">Seigneur</hi> répondit alors à Job du sein de l’ouragan et dit :</p>
+        <label>Le souverain de la terre</label>
+        <lg>
+          <l n="2">Qui est celui qui obscurcit mon projet
+            <lb/>par des discours insensés ?</l>
+          <l n="3">Ceins donc tes reins, comme un brave :
+            <lb/>je vais t’interroger et tu m’instruiras.</l>
+          <l n="4">Où est-ce que tu étais quand je fondai la terre ?
+            <lb/>Dis-le-moi puisque tu es si savant.</l>
+          <l n="5">Qui en fixa les mesures, le saurais-tu ?
+            <lb/>Ou qui tendit sur elle le cordeau ?</l>
+          <l n="6">En quoi s’immergent ses piliers,
+            <lb/>et qui donc posa sa pierre d’angle</l>
+          <l n="7">tandis que les étoiles du matin chantaient en chœur
+            <lb/>et tous les Fils de Dieu crièrent hourra ?</l>
+        </lg>
+        <label>Le souverain de la mer</label>
+        <lg>
+          <l n="8">Quelqu’un ferma deux battants sur l’Océan
+            <lb/>quand il jaillissait du sein maternel,</l>
+          <l n="9">quand je lui donnais les brumes pour se vêtir,
+            <lb/>et le langeais de nuées sombres.</l>
+          <l n="10">J’ai brisé son élan par mon décret,
+            <lb/>j’ai verrouillé les deux battants</l>
+          <l n="11">et j’ai dit : « Tu viendras jusqu’ici, pas plus loin ;
+            <lb/>là s’arrêtera l’insolence de tes flots ! »</l>
+        </lg>
+        <lg>
+          <l n="12">As-tu, un seul de tes jours, commandé au matin,
+            <lb/>et assigné à l’aurore son poste,</l>
+          <l n="13">pour qu’elle saisisse la terre par ses bords
+            <lb/>et en secoue les méchants ?</l>
+          <l n="14">La terre alors prend forme comme l’argile sous le sceau,
+            <lb/>et tout surgit, chamarré.</l>
+          <l n="15">Les méchants y perdent leur lumière,
+            <lb/>et le bras qui s’élevait est brisé.</l>
+        </lg>
+        <lg>
+          <l n="16">Es-tu parvenu jusqu’aux sources de la mer,
+            <lb/>as-tu circulé au fin fond de l’abîme ?</l>
+          <l n="17">Les portes de la mort te furent-elles montrées ?
+            <lb/>As-tu vu les portes de l’ombre de mort ?</l>
+          <l n="18">As-tu idée des étendues de la terre ?
+            <lb/>Décris-la, toi qui la connais tout entière.</l>
+        </lg>
+        <label>Le souverain de la tempête</label>
+        <lg>
+          <l n="19">De quel côté habite la lumière,
+            <lb/>et les ténèbres, où donc logent-elles,</l>
+          <l n="20">pour que tu les accueilles dès leur seuil
+            <lb/>et connaisses les accès de leur demeure ?</l>
+          <l n="21">Tu le sais bien puisque tu étais déjà né
+            <lb/>et que le nombre de tes jours est si grand !</l>
+        </lg>
+        <lg>
+          <l n="22">Es-tu parvenu jusqu’aux réserves de neige,
+            <lb/>et les réserves de grêle, les as-tu vues,</l>
+          <l n="23">que j’ai ménagées pour les temps de détresse,
+            <lb/>pour le jour de lutte et de bataille ?</l>
+          <l n="24">De quel côté se diffuse la lumière,
+            <lb/>par où le sirocco envahit-il la terre ?</l>
+          <l n="25">Qui a creusé des gorges pour les torrents d’orage
+            <lb/>et frayé la voie à la nuée qui tonne,</l>
+          <l n="26">pour faire pleuvoir sur une terre sans hommes,
+            <lb/>sur un désert où il n’y a personne,</l>
+          <l n="27">pour saouler le vide aride,
+            <lb/>en faire germer et pousser la verdure ?</l>
+          <l n="28">La pluie a-t-elle un père ?
+            <lb/>Qui engendre les gouttes de rosée ?</l>
+          <l n="29">Du ventre de qui sort la glace ?
+            <lb/>Qui enfante le givre des cieux ?</l>
+          <l n="30">Alors les eaux se déguisent en pierre
+            <lb/>et la surface de l’abîme se prend.</l>
+        </lg>
+        <label>Le souverain de l’automne</label>
+        <lg>
+          <l n="31">Peux-tu nouer les liens des Pléiades
+            <lb/>ou desserrer les cordes d’Orion,</l>
+          <l n="32">faire apparaître les signes du zodiaque en leur saison,
+            <lb/>conduire l’Ourse avec ses petits ?</l>
+          <l n="33">Connais-tu les lois des cieux,
+            <lb/>fais-tu observer leur charte sur terre ?</l>
+          <l n="34">Te suffit-il de crier vers les nuages
+            <lb/>pour qu’une masse d’eau t’inonde ?</l>
+          <l n="35">Est-ce quand tu les lâches que partent les éclairs
+            <lb/>en te disant : Nous voici ?</l>
+          <l n="36">Qui a mis dans l’ibis la sagesse,
+            <lb/>donné au coq l’intelligence ?</l>
+          <l n="37">Qui s’entend à dénombrer les nues
+            <lb/>et incline les outres des cieux</l>
+          <l n="38">tandis que la poussière se coule en limon
+            <lb/>et que prennent les mottes ?</l>
+        </lg>
+        <label>Le souverain des animaux</label>
+        <lg>
+          <l n="39">Est-ce toi qui chasses pour la lionne une proie
+            <lb/>et qui assouvis la voracité des lionceaux,</l>
+          <l n="40">quand ils sont tapis dans leurs tanières,
+            <lb/>ou s’embusquent dans les fourrés ?</l>
+          <l n="41">Qui donc prépare au corbeau sa provende
+            <lb/>quand ses petits crient vers Dieu
+            <lb/>et titubent d’inanition ?</l>
+        </lg>
+      </div>
+      <div type="chapter" n="39">
+        <head>Chapitre 39</head>
+        <lg>
+          <l n="1">Sais-tu le temps où enfantent les bouquetins ?
+            <lb/>As-tu observé les biches en travail,</l>
+          <l n="2">as-tu compté les mois de leur gestation,
+            <lb/>et su l’heure de leur délivrance ?</l>
+          <l n="3">Elles s’accroupissent, mettent bas leurs petits
+            <lb/>et sont quittes de leurs douleurs.</l>
+          <l n="4">Leurs faons prennent force et grandissent à la dure,
+            <lb/>ils partent et ne leur reviennent plus.</l>
+        </lg>
+        <lg>
+          <l n="5">Qui mit en liberté l’âne sauvage,
+            <lb/>qui délia les liens de l’onagre</l>
+          <l n="6">auquel j’ai assigné la steppe pour maison,
+            <lb/>la terre salée pour demeure ?</l>
+          <l n="7">Il se rit du vacarme des villes
+            <lb/>et n’entend jamais l’ânier vociférer.</l>
+          <l n="8">Il explore les montagnes, son pâturage,
+            <lb/>en quête de la moindre verdure.</l>
+        </lg>
+        <lg>
+          <l n="9">Le bison consentira-t-il à te servir,
+            <lb/>passera-t-il ses nuits à ton étable ?</l>
+          <l n="10">L’astreindras-tu à labourer,
+            <lb/>hersera-t-il derrière toi les vallons ?</l>
+          <l n="11">Est-ce parce que sa force est grande que tu lui feras confiance
+            <lb/>et que tu lui abandonneras ta besogne ?</l>
+          <l n="12">Compteras-tu sur lui pour rentrer ton grain,
+            <lb/>pour engranger ta récolte ?</l>
+        </lg>
+        <lg>
+          <l n="13">L’aile de l’autruche bat allègrement,
+            <lb/>mais que n’a-t-elle les pennes de la cigogne et ses plumes ?</l>
+          <l n="14">Quand elle abandonne par terre ses œufs,
+            <lb/>et les laisse chauffer sur la poussière,</l>
+          <l n="15">elle a oublié qu’un pied peut les écraser,
+            <lb/>une bête sauvage les piétiner.</l>
+          <l n="16">Dure pour ses petits comme s’ils n’étaient pas les siens,
+            <lb/>elle ne s’inquiète pas d’avoir peiné en pure perte.</l>
+          <l n="17">C’est que Dieu lui a refusé la sagesse
+            <lb/>et ne lui a pas départi l’intelligence.</l>
+          <l n="18">Mais dès qu’elle se dresse et s’élance,
+            <lb/>elle se rit du cheval et du cavalier.</l>
+        </lg>
+        <lg>
+          <l n="19">Est-ce toi qui donnes au cheval la bravoure,
+            <lb/>qui revêts son cou d’une crinière,</l>
+          <l n="20">qui le fais bondir comme la sauterelle ?
+            <lb/>Son fier hennissement est terreur.</l>
+          <l n="21">Exultant de force, il piaffe dans la vallée
+            <lb/>et s’élance au-devant des armes.</l>
+          <l n="22">Il se rit de la peur, il ignore l’effroi,
+            <lb/>il ne recule pas devant l’épée.</l>
+          <l n="23">Sur lui résonnent le carquois,
+            <lb/>la lance étincelante et le javelot.</l>
+          <l n="24">Frémissant d’impatience, il dévore l’espace,
+            <lb/>il ne se tient plus dès que sonne la trompette.</l>
+          <l n="25">A chaque coup de trompette, il dit : Aha !
+            <lb/>De loin, il flaire la bataille,
+            <lb/>tonnerre des chefs et cri de guerre.</l>
+        </lg>
+        <lg>
+          <l n="26">Est-ce par ton intelligence que s’emplume l’épervier
+            <lb/>et qu’il déploie ses ailes vers le sud ?</l>
+          <l n="27">Est-ce sur ton ordre que l’aigle s’élève
+            <lb/>et bâtit son aire sur les sommets ?</l>
+          <l n="28">Il habite un rocher et il gîte
+            <lb/>sur une dent de roc inexpugnable.</l>
+          <l n="29">De là, il épie sa proie,
+            <lb/>il plonge au loin son regard.</l>
+          <l n="30">Ses petits s’abreuvent de sang,
+            <lb/>là où il y a charnier, il y est.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="40">
+        <head>Chapitre 40</head>
+        <label>L’apostrophe du Seigneur</label>
+        <p n="1">Le <hi rend="sc">Seigneur</hi> apostropha alors Job et dit :</p>
+        <lg>
+          <l n="2">Celui qui dispute avec Shaddaï a-t-il à critiquer ?
+            <lb/>Celui qui ergote avec Dieu voudrait-il répondre ?</l>
+        </lg>
+        <label>PREMIÈRE RÉPONSE DE JOB</label>
+        <label>La main sur la bouche</label>
+        <p n="3">Job répondit alors au <hi rend="sc">Seigneur</hi> et dit :</p>
+        <lg>
+          <l n="4">Je ne fais pas le poids, que te répliquerai-je ?
+            <lb/>Je mets la main sur ma bouche.</l>
+          <l n="5">J’ai parlé une fois, je ne répondrai plus,
+            <lb/>deux fois, je n’ajouterai rien.</l>
+        </lg>
+        <label>SECOND DÉFI DU SEIGNEUR</label>
+        <p n="6">Le <hi rend="sc">Seigneur</hi> répondit alors à Job du sein de l’ouragan et dit :</p>
+        <label>La condamnation de Dieu</label>
+        <lg>
+          <l n="7">Ceins donc tes reins, comme un brave.
+            <lb/>Je vais t’interroger et tu m’instruiras.</l>
+          <l n="8">Veux-tu vraiment casser mon jugement,
+            <lb/>me condamner pour te justifier ?</l>
+          <l n="9">As-tu donc un bras comme celui de Dieu,
+            <lb/>ta voix est-elle un tonnerre comme le sien ?</l>
+          <l n="10">Allons, pare-toi de majesté et de grandeur,
+            <lb/>revêts-toi de splendeur et d’éclat !</l>
+          <l n="11">Epanche les flots de ta colère,
+            <lb/>et d’un regard abaisse tous les hautains.</l>
+          <l n="12">D’un regard fais plier tous les hautains,
+            <lb/>écrase sur place les méchants.</l>
+          <l n="13">Enfouis-les pêle-mêle dans la poussière,
+            <lb/>bâillonne-les dans les oubliettes.</l>
+          <l n="14">Alors moi-même je te rendrai hommage,
+            <lb/>car ta droite t’aura valu la victoire.</l>
+        </lg>
+        <label>Le Bestial</label>
+        <lg>
+          <l n="15">Voici donc le Bestial. Je l’ai fait comme je t’ai fait.
+            <lb/>Il mange de l’herbe, comme le bœuf.</l>
+          <l n="16">Vois quelle force dans sa croupe
+            <lb/>et cette vigueur dans les muscles de son ventre !</l>
+          <l n="17">Il raidit sa queue comme un cèdre,
+            <lb/>ses cuisses sont tressées de tendons.</l>
+          <l n="18">Ses os sont des tubes de bronze,
+            <lb/>ses côtes du fer forgé.</l>
+          <l n="19">C’est lui le chef-d’œuvre de Dieu,
+            <lb/>mais son auteur le menaça du glaive.</l>
+          <l n="20">Aussi est-ce du foin que lui servent les montagnes,
+            <lb/>et autour de lui se jouent les bêtes des champs.</l>
+          <l n="21">Il se couche sous les jujubiers,
+            <lb/>sous le couvert des roseaux et des marais.</l>
+          <l n="22">Les jujubiers le protègent de leur ombre,
+            <lb/>les peupliers de la rivière l’entourent.</l>
+          <l n="23">Le fleuve se déchaîne, mais lui ne s’émeut pas.
+            <lb/>Un Jourdain lui jaillirait à la gueule sans qu’il bronche.</l>
+          <l n="24">Quelqu’un pourtant lui fera front et s’emparera de lui,
+            <lb/>l’entravera et lui percera le naseau.</l>
+        </lg>
+        <label>Le Tortueux</label>
+        <lg>
+          <l n="25">Et le Tortueux, vas-tu le pêcher à l’hameçon
+            <lb/>et de ta ligne le ferrer à la langue ?</l>
+          <l n="26">Lui passeras-tu un jonc dans le naseau,
+            <lb/>perceras-tu d’un croc sa mâchoire ?</l>
+          <l n="27">Est-ce toi qu’il pressera de supplications,
+            <lb/>te dira-t-il des tendresses ?</l>
+          <l n="28">S’engagera-t-il par contrat envers toi,
+            <lb/>le prendras-tu pour esclave à vie ?</l>
+          <l n="29">Joueras-tu avec lui comme avec un passereau,
+            <lb/>le tiendras-tu en laisse pour tes filles ?</l>
+          <l n="30">Vous associerez-vous pour le mettre aux enchères ?
+            <lb/>Le débitera-t-on entre marchands ?</l>
+          <l n="31">Vas-tu cribler sa peau de dards,
+            <lb/>puis sa tête de harpons ?</l>
+          <l n="32">Pose donc la main sur lui ;
+            <lb/>au souvenir de la lutte, tu ne recommenceras plus !</l>
+        </lg>
+      </div>
+      <div type="chapter" n="41">
+        <head>Chapitre 41</head>
+        <lg>
+          <l n="1">Vois, devant lui l’assurance n’est qu’illusion,
+            <lb/>sa vue seule suffit à terrasser.</l>
+          <l n="2">Nul n’est assez téméraire pour l’exciter.
+            <lb/>Qui donc alors oserait me tenir tête ?</l>
+          <l n="3">Qui m’a fait une avance qu’il me faille rembourser ?
+            <lb/>Tout ce qui est sous les cieux est à moi !</l>
+        </lg>
+        <lg>
+          <l n="4">Je ne tairai pas ses membres,
+            <lb/>le détail de ses exploits, la beauté de sa structure.</l>
+          <l n="5">Qui a ouvert par devant son vêtement,
+            <lb/>qui a franchi sa double denture ?</l>
+          <l n="6">Qui a forcé les battants de son mufle ?
+            <lb/>Autour de ses crocs, c’est la terreur !</l>
+          <l n="7">Quel orgueil ! de si solides boucliers !
+            <lb/>bien clos, scellés, pressés !</l>
+          <l n="8">L’un touche l’autre,
+            <lb/>et un souffle ne s’y glisserait pas.</l>
+          <l n="9">Chacun colle à son voisin,
+            <lb/>ils s’agrippent, inséparables.</l>
+          <l n="10">De ses éternuements jaillit la lumière,
+            <lb/>ses yeux sont comme les pupilles de l’aurore.</l>
+          <l n="11">De sa gueule partent des éclairs,
+            <lb/>des étincelles de feu s’en échappent.</l>
+          <l n="12">Une fumée sort de ses naseaux,
+            <lb/>comme d’une marmite bouillante ou d’un chaudron.</l>
+          <l n="13">Son haleine embrase les braises,
+            <lb/>de sa gueule sortent des flammes.</l>
+          <l n="14">Dans son cou réside la force,
+            <lb/>devant lui bondit l’épouvante.</l>
+          <l n="15">Les fanons de sa chair sont massifs,
+            <lb/>ils ont durci sur lui, inébranlables.</l>
+          <l n="16">Son cœur a durci comme la pierre,
+            <lb/>il a durci comme la meule de dessous.</l>
+          <l n="17">Quand il se dresse, les dieux prennent peur,
+            <lb/>la panique les débande.</l>
+          <l n="18">L’épée l’atteint sans trouver prise.
+            <lb/>Lance, javeline, flèche...</l>
+          <l n="19">Il tient le fer pour du chaume
+            <lb/>et le bronze pour du bois pourri.</l>
+          <l n="20">Les traits de l’arc ne le font pas fuir,
+            <lb/>pour lui, les pierres de fronde se changent en paille.</l>
+          <l n="21">La massue lui semble une paille
+            <lb/>et il se rit du sifflement des sagaies.</l>
+        </lg>
+        <lg>
+          <l n="22">Il a sous lui des tessons aigus,
+            <lb/>comme une herse, il se traîne sur la vase.</l>
+          <l n="23">Il fait bouillonner le gouffre comme un chaudron,
+            <lb/>il change la mer en brûle-parfums.</l>
+          <l n="24">Il laisse un sillage de lumière,
+            <lb/>l’abîme a comme une toison blanche.</l>
+          <l n="25">Sur terre, nul n’est son maître.
+            <lb/>Il a été fait intrépide.</l>
+          <l n="26">Il brave les colosses,
+            <lb/>il est roi sur tous les fauves.</l>
+        </lg>
+      </div>
+      <div type="chapter" n="42">
+        <head>Chapitre 42</head>
+        <label>SECONDE RÉPONSE DE JOB</label>
+        <p n="1">Job répondit alors au <hi rend="sc">Seigneur</hi> et dit :</p>
+        <label>Vision et confession</label>
+        <lg>
+          <l n="2">Je sais que tu peux tout
+            <lb/>et qu’aucun projet n’échappe à tes prises.</l>
+          <l n="3">« Qui est celui qui obscurcit mon projet
+            <lb/>sans y rien connaître ? »
+            <lb/>Eh oui ! j’ai abordé, sans le savoir,
+            <lb/>des mystères qui me confondent.</l>
+          <l n="4">« Ecoute-moi », disais-je, « à moi la parole,
+            <lb/>je vais t’interroger et tu m’instruiras. »</l>
+          <l n="5">Je ne te connaissais que par ouï-dire,
+            <lb/>maintenant, mes yeux t’ont vu.</l>
+          <l n="6">Aussi, j’ai horreur de moi et je me désavoue
+            <lb/>sur la poussière et sur la cendre.</l>
+        </lg>
+        <label>ÉPILOGUE EN PROSE
+          <lb/>Jugement des amis</label>
+        <p n="7">Or, après qu’il eut adressé ces paroles à Job, le <hi rend="sc">Seigneur</hi> dit à Elifaz de Témân : « Ma colère flambe contre toi et contre tes deux amis, parce que vous n’avez pas parlé de moi avec droiture comme l’a fait mon serviteur Job.</p>
+        <p n="8">« Maintenant prenez pour vous sept taureaux et sept béliers, allez trouver mon serviteur Job, et offrez-les pour vous en holocauste tandis que mon serviteur Job intercédera pour vous. Ce n’est que par égard pour lui que je ne vous traiterai pas selon votre folie, vous qui n’avez pas parlé de moi avec droiture comme l’a fait mon serviteur Job. »
+          <milestone n="9"/>Elifaz de Témân, Bildad de Shouah et Çofar de Naama s’en furent exécuter l’ordre du Seigneur, et le Seigneur eut égard à Job.</p>
+        <label>Restauration de Job</label>
+        <p n="10">Et le <hi rend="sc">Seigneur</hi> rétablit les affaires de Job tandis qu’il était en intercession pour son prochain. Et même, le <hi rend="sc">Seigneur</hi> porta au double tous les biens de Job.</p>
+        <p n="11">Ses frères, ses sœurs et ses connaissances d’autrefois vinrent tous alors le visiter. Ils mangèrent le pain avec lui dans sa maison. Ils le plaignirent et le consolèrent de tout le malheur que lui avait envoyé le <hi rend="sc">Seigneur</hi>. Et chacun lui fit cadeau d’une pièce d’argent et d’un anneau d’or.</p>
+        <p n="12">Le <hi rend="sc">Seigneur</hi> bénit les nouvelles années de Job plus encore que les premières. Il eut quatorze mille moutons et six mille chameaux, mille paires de bœufs et mille ânesses.
+          <milestone n="13"/>Il eut aussi sept fils et trois filles.
+          <milestone n="14"/>La première, il la nomma Tourterelle, la deuxième eut nom Fleur-de-Cannelle et la troisième Ombre-à-paupière.
+          <milestone n="15"/>On ne trouvait pas dans tout le pays d’aussi belles femmes que les filles de Job, et leur père leur donna une part d’héritage avec leurs frères.</p>
+        <p n="16">Job vécut encore après cela cent quarante ans, et il vit ses fils et les fils de ses fils jusqu’à la quatrième génération.
+          <milestone n="17"/>Puis Job mourut vieux et rassasié de jours.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
