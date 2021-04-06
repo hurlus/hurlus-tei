@@ -4,6 +4,7 @@ Hurlus, les sources XML
 * [augustin401_confessions.xml](https://hurlus.github.io/hurlus-tei/augustin401_confessions.xml)
 * [augustin426_cite-dieu.xml](https://hurlus.github.io/hurlus-tei/augustin426_cite-dieu.xml)
 * [barres1917_familles.xml](https://hurlus.github.io/hurlus-tei/barres1917_familles.xml)
+* [blanqui1866_prise-armes.xml](https://hurlus.github.io/hurlus-tei/blanqui1866_prise-armes.xml)
 * [bloch1940_defaite.xml](https://hurlus.github.io/hurlus-tei/bloch1940_defaite.xml)
 * [boisguilbert1695_detail.xml](https://hurlus.github.io/hurlus-tei/boisguilbert1695_detail.xml)
 * [cesar-52_gaules-1865.xml](https://hurlus.github.io/hurlus-tei/cesar-52_gaules-1865.xml)
