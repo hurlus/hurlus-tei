@@ -26,758 +26,888 @@
   </teiHeader>
   <text>
     <body>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 1</head>
-        <p n="1">Paroles de Qohéleth, fils de David, roi à Jérusalem.</p>
-        <p n="2">Vanité des vanités, dit Qohéleth,
-          <lb/>vanité des vanités, tout est vanité.</p>
+        <lg>
+          <l n="1">Paroles de Qohéleth, fils de David, roi à Jérusalem.</l>
+          <l n="2">Vanité des vanités, dit Qohéleth,
+            <lb/>vanité des vanités, tout est vanité.</l>
+        </lg>
         <label>Prologue</label>
-        <p n="3">Quel profit y a-t-il pour l’homme
-          <lb/>de tout le travail qu’il fait sous le soleil ?</p>
-        <p n="4">Un âge s’en va, un autre vient,
-          <lb/>et la terre subsiste toujours.</p>
-        <p n="5">Le soleil se lève et le soleil se couche,
-          <lb/>il aspire à ce lieu d’où il se lève.</p>
-        <p n="6">Le vent va vers le midi et tourne vers le nord,
-          <lb/>le vent tourne, tourne et s’en va,
-          <lb/>et le vent reprend ses tours.</p>
-        <p n="7">Tous les torrents vont vers la mer,
-          <lb/>et la mer n’est pas remplie ;
-          <lb/>vers le lieu où vont les torrents,
-          <lb/>là-bas, ils s’en vont de nouveau.</p>
-        <p n="8">Tous les mots sont usés, on ne peut plus les dire,
-          <lb/>l’œil ne se contente pas de ce qu’il voit,
-          <lb/>et l’oreille ne se remplit pas de ce qu’elle entend.</p>
-        <p n="9">Ce qui a été, c’est ce qui sera,
-          <lb/>ce qui s’est fait, c’est ce qui se fera :
-          <lb/>rien de nouveau sous le soleil !</p>
-        <p n="10">S’il est une chose dont on puisse dire :
-          <lb/>« Voyez, c’est nouveau, cela ! »
-          <lb/>– cela existe déjà depuis les siècles qui nous ont précédés.</p>
-        <p n="11">Il n’y a aucun souvenir des temps anciens ;
-          <lb/>quant aux suivants qui viendront,
-          <lb/>il ne restera d’eux aucun souvenir
-          <lb/>chez ceux qui viendront après.</p>
+        <lg>
+          <l n="3">Quel profit y a-t-il pour l’homme
+            <lb/>de tout le travail qu’il fait sous le soleil ?</l>
+          <l n="4">Un âge s’en va, un autre vient,
+            <lb/>et la terre subsiste toujours.</l>
+          <l n="5">Le soleil se lève et le soleil se couche,
+            <lb/>il aspire à ce lieu d’où il se lève.</l>
+          <l n="6">Le vent va vers le midi et tourne vers le nord,
+            <lb/>le vent tourne, tourne et s’en va,
+            <lb/>et le vent reprend ses tours.</l>
+          <l n="7">Tous les torrents vont vers la mer,
+            <lb/>et la mer n’est pas remplie ;
+            <lb/>vers le lieu où vont les torrents,
+            <lb/>là-bas, ils s’en vont de nouveau.</l>
+          <l n="8">Tous les mots sont usés, on ne peut plus les dire,
+            <lb/>l’œil ne se contente pas de ce qu’il voit,
+            <lb/>et l’oreille ne se remplit pas de ce qu’elle entend.</l>
+          <l n="9">Ce qui a été, c’est ce qui sera,
+            <lb/>ce qui s’est fait, c’est ce qui se fera :
+            <lb/>rien de nouveau sous le soleil !</l>
+          <l n="10">S’il est une chose dont on puisse dire :
+            <lb/>« Voyez, c’est nouveau, cela ! »
+            <lb/>– cela existe déjà depuis les siècles qui nous ont précédés.</l>
+          <l n="11">Il n’y a aucun souvenir des temps anciens ;
+            <lb/>quant aux suivants qui viendront,
+            <lb/>il ne restera d’eux aucun souvenir
+            <lb/>chez ceux qui viendront après.</l>
+        </lg>
         <label>Confession du roi Salomon</label>
-        <p n="12">Moi, Qohéleth, j’ai été roi sur Israël, à Jérusalem.</p>
-        <p n="13">J’ai eu à cœur de chercher et d’explorer par la sagesse
-          <lb/>tout ce qui se fait sous le ciel.
-          <lb/>C’est une occupation de malheur que Dieu a donnée
-          <lb/>aux fils d’Adam pour qu’ils s’y appliquent.</p>
-        <p n="14">J’ai vu toutes les œuvres qui se font sous le soleil ;
-          <lb/>mais voici que tout est vanité et poursuite de vent.</p>
-        <p n="15">Ce qui est courbé, on ne peut le redresser,
-          <lb/>ce qui fait défaut ne peut être compté.</p>
-        <p n="16">Je me suis dit à moi-même :
-          <lb/>« Voici que j’ai fait grandir et progresser la sagesse
-          <lb/>plus que quiconque m’a précédé comme roi sur Jérusalem. »
-          <lb/>J’ai fait l’expérience de beaucoup de sagesse et de science,</p>
-        <p n="17">j’ai eu à cœur de connaître la sagesse
-          <lb/>et de connaître la folie et la sottise ;
-          <lb/>j’ai connu que cela aussi, c’est poursuite de vent.</p>
-        <p n="18">Car en beaucoup de sagesse, il y a beaucoup d’affliction ;
-          <lb/>qui augmente le savoir augmente la douleur.</p>
+        <lg>
+          <l n="12">Moi, Qohéleth, j’ai été roi sur Israël, à Jérusalem.</l>
+          <l n="13">J’ai eu à cœur de chercher et d’explorer par la sagesse
+            <lb/>tout ce qui se fait sous le ciel.
+            <lb/>C’est une occupation de malheur que Dieu a donnée
+            <lb/>aux fils d’Adam pour qu’ils s’y appliquent.</l>
+          <l n="14">J’ai vu toutes les œuvres qui se font sous le soleil ;
+            <lb/>mais voici que tout est vanité et poursuite de vent.</l>
+          <l n="15">Ce qui est courbé, on ne peut le redresser,
+            <lb/>ce qui fait défaut ne peut être compté.</l>
+        </lg>
+        <lg>
+          <l n="16">Je me suis dit à moi-même :
+            <lb/>« Voici que j’ai fait grandir et progresser la sagesse
+            <lb/>plus que quiconque m’a précédé comme roi sur Jérusalem. »
+            <lb/>J’ai fait l’expérience de beaucoup de sagesse et de science,</l>
+          <l n="17">j’ai eu à cœur de connaître la sagesse
+            <lb/>et de connaître la folie et la sottise ;
+            <lb/>j’ai connu que cela aussi, c’est poursuite de vent.</l>
+          <l n="18">Car en beaucoup de sagesse, il y a beaucoup d’affliction ;
+            <lb/>qui augmente le savoir augmente la douleur.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 2</head>
-        <p n="1">Je me suis dit en moi-même :
-          <lb/>« Allons, que je t’éprouve par la joie, goûte au bonheur ! »
-          <lb/>Et voici, cela aussi est vanité.</p>
-        <p n="2">Du rire, j’ai dit : « C’est fou ! »
-          <lb/>Et de la joie : « Qu’est-ce que cela fait ? »</p>
-        <p n="3">J’ai délibéré en mon cœur
-          <lb/>de traîner ma chair dans le vin
-          <lb/>et tout en conduisant mon cœur avec sagesse,
-          <lb/>de tenir à la sottise,
-          <lb/>le temps de voir ce qu’il est bon pour les fils d’Adam
-          <lb/>de faire sous le ciel
-          <lb/>pendant les jours comptés de leur vie.</p>
-        <p n="4">J’ai entrepris de grandes œuvres :
-          <lb/>je me suis bâti des maisons, planté des vignes ;</p>
-        <p n="5">je me suis fait des jardins et des vergers,
-          <lb/>j’y ai planté toutes sortes d’arbres fruitiers ;</p>
-        <p n="6">je me suis fait des bassins
-          <lb/>pour arroser de leur eau une forêt de jeunes arbres.</p>
-        <p n="7">J’ai acheté des esclaves et des servantes, j’ai eu des domestiques,
-          <lb/>et aussi du gros et du petit bétail en abondance
-          <lb/>plus que tous mes prédécesseurs à Jérusalem.</p>
-        <p n="8">J’ai aussi amassé de l’argent et de l’or,
-          <lb/>la fortune des rois et des Etats ;
-          <lb/>je me suis procuré des chanteurs et des chanteuses
-          <lb/>et, délices des fils d’Adam, une dame, des dames.</p>
-        <p n="9">Je devins grand, je m’enrichis
-          <lb/>plus que tous mes prédécesseurs à Jérusalem.
-          <lb/>Cependant ma sagesse, elle, m’assistait.</p>
-        <p n="10">Je n’ai rien refusé à mes yeux de ce qu’ils demandaient ;
-          <lb/>je n’ai privé mon cœur d’aucune joie,
-          <lb/>car mon cœur jouissait de tout mon travail :
-          <lb/>c’était la part qui me revenait de tout mon travail.</p>
-        <p n="11">Mais je me suis tourné vers toutes les œuvres
-          <lb/>qu’avaient faites mes mains
-          <lb/>et vers le travail que j’avais eu tant de mal à faire.
-          <lb/>Eh bien ! tout cela est vanité et poursuite de vent,
-          <lb/>on n’en a aucun profit sous le soleil.</p>
+        <lg>
+          <l n="1">Je me suis dit en moi-même :
+            <lb/>« Allons, que je t’éprouve par la joie, goûte au bonheur ! »
+            <lb/>Et voici, cela aussi est vanité.</l>
+          <l n="2">Du rire, j’ai dit : « C’est fou ! »
+            <lb/>Et de la joie : « Qu’est-ce que cela fait ? »</l>
+          <l n="3">J’ai délibéré en mon cœur
+            <lb/>de traîner ma chair dans le vin
+            <lb/>et tout en conduisant mon cœur avec sagesse,
+            <lb/>de tenir à la sottise,
+            <lb/>le temps de voir ce qu’il est bon pour les fils d’Adam
+            <lb/>de faire sous le ciel
+            <lb/>pendant les jours comptés de leur vie.</l>
+        </lg>
+        <lg>
+          <l n="4">J’ai entrepris de grandes œuvres :
+            <lb/>je me suis bâti des maisons, planté des vignes ;</l>
+          <l n="5">je me suis fait des jardins et des vergers,
+            <lb/>j’y ai planté toutes sortes d’arbres fruitiers ;</l>
+          <l n="6">je me suis fait des bassins
+            <lb/>pour arroser de leur eau une forêt de jeunes arbres.</l>
+        </lg>
+        <lg>
+          <l n="7">J’ai acheté des esclaves et des servantes, j’ai eu des domestiques,
+            <lb/>et aussi du gros et du petit bétail en abondance
+            <lb/>plus que tous mes prédécesseurs à Jérusalem.</l>
+          <l n="8">J’ai aussi amassé de l’argent et de l’or,
+            <lb/>la fortune des rois et des Etats ;
+            <lb/>je me suis procuré des chanteurs et des chanteuses
+            <lb/>et, délices des fils d’Adam, une dame, des dames.</l>
+        </lg>
+        <lg>
+          <l n="9">Je devins grand, je m’enrichis
+            <lb/>plus que tous mes prédécesseurs à Jérusalem.
+            <lb/>Cependant ma sagesse, elle, m’assistait.</l>
+          <l n="10">Je n’ai rien refusé à mes yeux de ce qu’ils demandaient ;
+            <lb/>je n’ai privé mon cœur d’aucune joie,
+            <lb/>car mon cœur jouissait de tout mon travail :
+            <lb/>c’était la part qui me revenait de tout mon travail.</l>
+          <l n="11">Mais je me suis tourné vers toutes les œuvres
+            <lb/>qu’avaient faites mes mains
+            <lb/>et vers le travail que j’avais eu tant de mal à faire.
+            <lb/>Eh bien ! tout cela est vanité et poursuite de vent,
+            <lb/>on n’en a aucun profit sous le soleil.</l>
+        </lg>
         <label>Bilan décevant</label>
-        <p n="12">Je me suis aussi tourné, pour les considérer,
+        <l n="12">Je me suis aussi tourné, pour les considérer,
           <lb/>vers sagesse, folie et sottise.
           <lb/>Voyons ! que sera l’homme qui viendra après le roi ?
-          <lb/>Ce qu’on aura déjà fait de lui !</p>
-        <p n="13">Voici ce que j’ai vu :
-          <lb/>On profite de la sagesse plus que de la sottise,
-          <lb/>comme on profite de la lumière plus que des ténèbres.</p>
-        <p n="14">Le sage a les yeux là où il faut,
-          <lb/>l’insensé marche dans les ténèbres.
-          <lb/>Mais je sais, moi, qu’à tous les deux
-          <lb/>un même sort arrivera.</p>
-        <p n="15">Alors, moi, je me dis en moi-même :
-          <lb/>Ce qui arrive à l’insensé m’arrivera aussi,
-          <lb/>pourquoi donc ai-je été si sage ?
-          <lb/>Je me dis à moi-même que cela aussi est vanité.</p>
-        <p n="16">Car il n’y a pas de souvenir du sage,
-          <lb/>pas plus que de l’insensé, pour toujours.
-          <lb/>Déjà dans les jours qui viennent, tout sera oublié :
-          <lb/>Eh quoi ? le sage meurt comme l’insensé !</p>
-        <p n="17">Donc, je déteste la vie,
-          <lb/>car je trouve mauvais ce qui se fait sous le soleil :
-          <lb/>tout est vanité et poursuite de vent.</p>
-        <p n="18">Moi, je déteste tout le travail que j’ai fait sous le soleil
-          <lb/>et que j’abandonnerai à l’homme qui me succédera.</p>
-        <p n="19">Qui sait s’il sera sage ou insensé ?
-          <lb/>Il sera maître de tout mon travail,
-          <lb/>que j’aurai fait avec ma sagesse sous le soleil :
-          <lb/>cela aussi est vanité.</p>
-        <p n="20">J’en suis venu à me décourager
-          <lb/>pour tout le travail que j’ai fait sous le soleil.</p>
-        <p n="21">En effet, voici un homme qui a fait son travail
-          <lb/>avec sagesse, science et succès :
-          <lb/>C’est à un homme qui n’y a pas travaillé
-          <lb/>qu’il donnera sa part.
-          <lb/>Cela aussi est vanité et grand mal.</p>
-        <p n="22">Oui, que reste-t-il pour cet homme
-          <lb/>de tout son travail et de tout l’effort personnel
-          <lb/>qu’il aura fait, lui, sous le soleil ?</p>
-        <p n="23">Tous ses jours, en effet, ne sont que douleur,
-          <lb/>et son occupation n’est qu’affliction ;
-          <lb/>même la nuit, son cœur est sans repos :
-          <lb/>cela aussi est vanité.</p>
-        <p n="24">Rien de bon pour l’homme, sinon de manger et de boire,
-          <lb/>de goûter le bonheur dans son travail.
-          <lb/>J’ai vu, moi, que cela aussi vient de la main de Dieu.</p>
-        <p n="25">« Car qui a de quoi manger, qui sait jouir, sinon moi ? »</p>
-        <p n="26">Oui, il donne à l’homme qui lui plaît sagesse, science et joie, mais au pécheur il donne comme occupation de rassembler et d’amasser, pour donner à celui qui plaît à Dieu. Cela aussi est vanité et poursuite de vent.</p>
+          <lb/>Ce qu’on aura déjà fait de lui !</l>
+        <lg>
+          <l n="13">Voici ce que j’ai vu :
+            <lb/>On profite de la sagesse plus que de la sottise,
+            <lb/>comme on profite de la lumière plus que des ténèbres.</l>
+          <l n="14">Le sage a les yeux là où il faut,
+            <lb/>l’insensé marche dans les ténèbres.
+            <lb/>Mais je sais, moi, qu’à tous les deux
+            <lb/>un même sort arrivera.</l>
+        </lg>
+        <lg>
+          <l n="15">Alors, moi, je me dis en moi-même :
+            <lb/>Ce qui arrive à l’insensé m’arrivera aussi,
+            <lb/>pourquoi donc ai-je été si sage ?
+            <lb/>Je me dis à moi-même que cela aussi est vanité.</l>
+          <l n="16">Car il n’y a pas de souvenir du sage,
+            <lb/>pas plus que de l’insensé, pour toujours.
+            <lb/>Déjà dans les jours qui viennent, tout sera oublié :
+            <lb/>Eh quoi ? le sage meurt comme l’insensé !</l>
+        </lg>
+        <lg>
+          <l n="17">Donc, je déteste la vie,
+            <lb/>car je trouve mauvais ce qui se fait sous le soleil :
+            <lb/>tout est vanité et poursuite de vent.</l>
+          <l n="18">Moi, je déteste tout le travail que j’ai fait sous le soleil
+            <lb/>et que j’abandonnerai à l’homme qui me succédera.</l>
+          <l n="19">Qui sait s’il sera sage ou insensé ?
+            <lb/>Il sera maître de tout mon travail,
+            <lb/>que j’aurai fait avec ma sagesse sous le soleil :
+            <lb/>cela aussi est vanité.</l>
+        </lg>
+        <lg>
+          <l n="20">J’en suis venu à me décourager
+            <lb/>pour tout le travail que j’ai fait sous le soleil.</l>
+          <l n="21">En effet, voici un homme qui a fait son travail
+            <lb/>avec sagesse, science et succès :
+            <lb/>C’est à un homme qui n’y a pas travaillé
+            <lb/>qu’il donnera sa part.
+            <lb/>Cela aussi est vanité et grand mal.</l>
+          <l n="22">Oui, que reste-t-il pour cet homme
+            <lb/>de tout son travail et de tout l’effort personnel
+            <lb/>qu’il aura fait, lui, sous le soleil ?</l>
+          <l n="23">Tous ses jours, en effet, ne sont que douleur,
+            <lb/>et son occupation n’est qu’affliction ;
+            <lb/>même la nuit, son cœur est sans repos :
+            <lb/>cela aussi est vanité.</l>
+          <l n="24">Rien de bon pour l’homme, sinon de manger et de boire,
+            <lb/>de goûter le bonheur dans son travail.
+            <lb/>J’ai vu, moi, que cela aussi vient de la main de Dieu.</l>
+        </lg>
+        <p n="25">« Car qui a de quoi manger, qui sait jouir, sinon moi ? »
+          <milestone n="26"/>Oui, il donne à l’homme qui lui plaît sagesse, science et joie, mais au pécheur il donne comme occupation de rassembler et d’amasser, pour donner à celui qui plaît à Dieu. Cela aussi est vanité et poursuite de vent.</p>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 3</head>
         <label>Les temps et la durée</label>
-        <p n="1">Il y a un moment pour tout
-          <lb/>et un temps pour chaque chose sous le ciel :</p>
-        <p n="2">un temps pour enfanter et un temps pour mourir,
-          <lb/>un temps pour planter et un temps pour arracher le plant,</p>
-        <p n="3">un temps pour tuer et un temps pour guérir,
-          <lb/>un temps pour saper et un temps pour bâtir,</p>
-        <p n="4">un temps pour pleurer et un temps pour rire,
-          <lb/>un temps pour se lamenter et un temps pour danser,</p>
-        <p n="5">un temps pour jeter des pierres et un temps pour amasser des pierres,
-          <lb/>un temps pour embrasser et un temps pour éviter d’embrasser,</p>
-        <p n="6">un temps pour chercher et un temps pour perdre,
-          <lb/>un temps pour garder et un temps pour jeter,</p>
-        <p n="7">un temps pour déchirer et un temps pour coudre,
-          <lb/>un temps pour se taire et un temps pour parler,</p>
-        <p n="8">un temps pour aimer et un temps pour haïr,
-          <lb/>un temps de guerre et un temps de paix.</p>
-        <p n="9">Quel profit a l’artisan du travail qu’il fait ?</p>
-        <p n="10">Je vois l’occupation que Dieu a donnée
-          <lb/>aux fils d’Adam pour qu’ils s’y occupent.</p>
-        <p n="11">Il fait toute chose belle en son temps ;
-          <lb/>à leur cœur il donne même le sens de la durée
-          <lb/>sans que l’homme puisse découvrir
-          <lb/>l’œuvre que fait Dieu depuis le début jusqu’à la fin.</p>
-        <p n="12">Je sais qu’il n’y a rien de bon pour lui
-          <lb/>que de se réjouir et de se donner du bon temps durant sa vie.</p>
-        <p n="13">Et puis, tout homme qui mange et boit
-          <lb/>et goûte au bonheur en tout son travail,
-          <lb/>cela, c’est un don de Dieu.</p>
-        <p n="14">Je sais que tout ce que fait Dieu, cela durera toujours ;
-          <lb/>il n’y a rien à y ajouter, ni rien à en retrancher,
-          <lb/>et Dieu fait en sorte qu’on ait de la crainte devant sa face.</p>
-        <p n="15">Ce qui est a déjà été, et ce qui sera a déjà été,
-          <lb/>et Dieu va rechercher ce qui a disparu.</p>
+        <lg>
+          <l n="1">Il y a un moment pour tout
+            <lb/>et un temps pour chaque chose sous le ciel :</l>
+          <l n="2">un temps pour enfanter et un temps pour mourir,
+            <lb/>un temps pour planter et un temps pour arracher le plant,</l>
+          <l n="3">un temps pour tuer et un temps pour guérir,
+            <lb/>un temps pour saper et un temps pour bâtir,</l>
+        </lg>
+        <lg>
+          <l n="4">un temps pour pleurer et un temps pour rire,
+            <lb/>un temps pour se lamenter et un temps pour danser,</l>
+          <l n="5">un temps pour jeter des pierres et un temps pour amasser des pierres,
+            <lb/>un temps pour embrasser et un temps pour éviter d’embrasser,</l>
+        </lg>
+        <lg>
+          <l n="6">un temps pour chercher et un temps pour perdre,
+            <lb/>un temps pour garder et un temps pour jeter,</l>
+          <l n="7">un temps pour déchirer et un temps pour coudre,
+            <lb/>un temps pour se taire et un temps pour parler,</l>
+          <l n="8">un temps pour aimer et un temps pour haïr,
+            <lb/>un temps de guerre et un temps de paix.</l>
+          <l n="9">Quel profit a l’artisan du travail qu’il fait ?</l>
+        </lg>
+        <lg>
+          <l n="10">Je vois l’occupation que Dieu a donnée
+            <lb/>aux fils d’Adam pour qu’ils s’y occupent.</l>
+          <l n="11">Il fait toute chose belle en son temps ;
+            <lb/>à leur cœur il donne même le sens de la durée
+            <lb/>sans que l’homme puisse découvrir
+            <lb/>l’œuvre que fait Dieu depuis le début jusqu’à la fin.</l>
+        </lg>
+        <lg>
+          <l n="12">Je sais qu’il n’y a rien de bon pour lui
+            <lb/>que de se réjouir et de se donner du bon temps durant sa vie.</l>
+          <l n="13">Et puis, tout homme qui mange et boit
+            <lb/>et goûte au bonheur en tout son travail,
+            <lb/>cela, c’est un don de Dieu.</l>
+          <l n="14">Je sais que tout ce que fait Dieu, cela durera toujours ;
+            <lb/>il n’y a rien à y ajouter, ni rien à en retrancher,
+            <lb/>et Dieu fait en sorte qu’on ait de la crainte devant sa face.</l>
+        </lg>
+        <l n="15">Ce qui est a déjà été, et ce qui sera a déjà été,
+          <lb/>et Dieu va rechercher ce qui a disparu.</l>
         <label>Justice et rétribution</label>
-        <p n="16">J’ai encore vu sous le soleil
-          <lb/>qu’au siège du jugement, là était la méchanceté,
-          <lb/>et qu’au siège de la justice, là était la méchanceté.</p>
-        <p n="17">Je me suis dit en moi-même :
-          <lb/>Dieu jugera le juste et le méchant,
-          <lb/>car il y a là un temps
-          <lb/>pour chaque chose et pour chaque action.</p>
-        <p n="18">Je me suis dit en moi-même,
-          <lb/>au sujet des fils d’Adam,
-          <lb/>que Dieu veut les éprouver ;
-          <lb/>alors on verra qu’en eux-mêmes, ils ne sont que des bêtes.</p>
-        <p n="19">Car le sort des fils d’Adam, c’est le sort de la bête,
-          <lb/>c’est un sort identique :
-          <lb/>telle la mort de celle-ci, telle la mort de ceux-là ;
-          <lb/>ils ont tous un souffle identique :
-          <lb/>la supériorité de l’homme sur la bête est nulle,
-          <lb/>car tout est vanité.</p>
-        <p n="20">Tout va vers un lieu unique,
-          <lb/>tout vient de la poussière
-          <lb/>et tout retourne à la poussière.</p>
-        <p n="21">Qui connaît le souffle des fils d’Adam
-          <lb/>qui monte, lui, vers le haut,
-          <lb/>tandis que le souffle des bêtes
-          <lb/>descend vers le bas, vers la terre ?</p>
-        <p n="22">Je vois qu’il n’y a rien de mieux pour l’homme
+        <lg>
+          <l n="16">J’ai encore vu sous le soleil
+            <lb/>qu’au siège du jugement, là était la méchanceté,
+            <lb/>et qu’au siège de la justice, là était la méchanceté.</l>
+          <l n="17">Je me suis dit en moi-même :
+            <lb/>Dieu jugera le juste et le méchant,
+            <lb/>car il y a là un temps
+            <lb/>pour chaque chose et pour chaque action.</l>
+        </lg>
+        <lg>
+          <l n="18">Je me suis dit en moi-même,
+            <lb/>au sujet des fils d’Adam,
+            <lb/>que Dieu veut les éprouver ;
+            <lb/>alors on verra qu’en eux-mêmes, ils ne sont que des bêtes.</l>
+          <l n="19">Car le sort des fils d’Adam, c’est le sort de la bête,
+            <lb/>c’est un sort identique :
+            <lb/>telle la mort de celle-ci, telle la mort de ceux-là ;
+            <lb/>ils ont tous un souffle identique :
+            <lb/>la supériorité de l’homme sur la bête est nulle,
+            <lb/>car tout est vanité.</l>
+        </lg>
+        <lg>
+          <l n="20">Tout va vers un lieu unique,
+            <lb/>tout vient de la poussière
+            <lb/>et tout retourne à la poussière.</l>
+          <l n="21">Qui connaît le souffle des fils d’Adam
+            <lb/>qui monte, lui, vers le haut,
+            <lb/>tandis que le souffle des bêtes
+            <lb/>descend vers le bas, vers la terre ?</l>
+        </lg>
+        <l n="22">Je vois qu’il n’y a rien de mieux pour l’homme
           <lb/>que de jouir de ses œuvres, car telle est sa part.
-          <lb/>Qui en effet l’emmènera voir ce qui sera après lui ?</p>
+          <lb/>Qui en effet l’emmènera voir ce qui sera après lui ?</l>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 4</head>
         <label>Le sort des opprimés</label>
-        <p n="1">D’autre part, je vois toutes les oppressions
+        <l n="1">D’autre part, je vois toutes les oppressions
           <lb/>qui se pratiquent sous le soleil.
           <lb/>Regardez les pleurs des opprimés :
           <lb/>ils n’ont pas de consolateur ;
           <lb/>la force est du côté des oppresseurs :
-          <lb/>ils n’ont pas de consolateur.</p>
-        <p n="2">Et moi, de féliciter les morts qui sont déjà morts
-          <lb/>plutôt que les vivants qui sont encore en vie.</p>
-        <p n="3">Et plus heureux que les deux
-          <lb/>celui qui n’a pas encore été,
-          <lb/>puisqu’il n’a pas vu l’œuvre mauvaise
-          <lb/>qui se pratique sous le soleil.</p>
+          <lb/>ils n’ont pas de consolateur.</l>
+        <lg>
+          <l n="2">Et moi, de féliciter les morts qui sont déjà morts
+            <lb/>plutôt que les vivants qui sont encore en vie.</l>
+          <l n="3">Et plus heureux que les deux
+            <lb/>celui qui n’a pas encore été,
+            <lb/>puisqu’il n’a pas vu l’œuvre mauvaise
+            <lb/>qui se pratique sous le soleil.</l>
+        </lg>
         <label>Le travail et ses risques</label>
-        <p n="4">Je vois, moi, que tout le travail,
+        <l n="4">Je vois, moi, que tout le travail,
           <lb/>tout le succès d’une œuvre,
           <lb/>c’est jalousie des uns envers les autres :
-          <lb/>cela est aussi vanité et poursuite de vent.</p>
-        <p n="5">L’insensé se croise les bras
-          <lb/>et dévore sa propre chair :</p>
-        <p n="6">Mieux vaut le creux de la main plein de repos
-          <lb/>que deux poignées de travail, de poursuite de vent.</p>
+          <lb/>cela est aussi vanité et poursuite de vent.</l>
+        <lg>
+          <l n="5">L’insensé se croise les bras
+            <lb/>et dévore sa propre chair :</l>
+          <l n="6">Mieux vaut le creux de la main plein de repos
+            <lb/>que deux poignées de travail, de poursuite de vent.</l>
+        </lg>
         <label>La solitude et ses inconvénients</label>
-        <p n="7">Par ailleurs je vois une vanité sous le soleil.</p>
-        <p n="8">Voici un homme seul, sans compagnon,
-          <lb/>n’ayant ni fils ni frère.
-          <lb/>Pas de limite à tout son travail,
-          <lb/>même ses yeux ne sont jamais rassasiés de richesses.
-          <lb/>Alors, moi, je travaille,
-          <lb/>je me prive de bonheur : c’est pour qui ?
-          <lb/>Cela est aussi vanité, c’est une mauvaise affaire.</p>
-        <p n="9">Deux hommes valent mieux qu’un seul,
-          <lb/>car ils ont un bon salaire pour leur travail.</p>
-        <p n="10">En effet, s’ils tombent, l’un relève l’autre.
-          <lb/>Mais malheur à celui qui est seul !
-          <lb/>S’il tombe, il n’a pas de second pour le relever.</p>
-        <p n="11">De plus, s’ils couchent à deux, ils ont chaud,
-          <lb/>mais celui qui est seul, comment se réchauffera-t-il ?</p>
-        <p n="12">Et si quelqu’un vient à bout de celui qui est seul,
-          <lb/>deux lui tiendront tête ;
-          <lb/>un fil triple ne rompt pas vite.</p>
+        <lg>
+          <l n="7">Par ailleurs je vois une vanité sous le soleil.</l>
+          <l n="8">Voici un homme seul, sans compagnon,
+            <lb/>n’ayant ni fils ni frère.
+            <lb/>Pas de limite à tout son travail,
+            <lb/>même ses yeux ne sont jamais rassasiés de richesses.
+            <lb/>Alors, moi, je travaille,
+            <lb/>je me prive de bonheur : c’est pour qui ?
+            <lb/>Cela est aussi vanité, c’est une mauvaise affaire.</l>
+        </lg>
+        <lg>
+          <l n="9">Deux hommes valent mieux qu’un seul,
+            <lb/>car ils ont un bon salaire pour leur travail.</l>
+          <l n="10">En effet, s’ils tombent, l’un relève l’autre.
+            <lb/>Mais malheur à celui qui est seul !
+            <lb/>S’il tombe, il n’a pas de second pour le relever.</l>
+          <l n="11">De plus, s’ils couchent à deux, ils ont chaud,
+            <lb/>mais celui qui est seul, comment se réchauffera-t-il ?</l>
+          <l n="12">Et si quelqu’un vient à bout de celui qui est seul,
+            <lb/>deux lui tiendront tête ;
+            <lb/>un fil triple ne rompt pas vite.</l>
+        </lg>
         <label>Le pouvoir politique et ses risques</label>
-        <p n="13">Mieux vaut un gamin indigent, mais sage,
-          <lb/>qu’un roi vieux, mais insensé, qui ne sait plus se laisser conseiller.</p>
-        <p n="14">Que ce garçon soit sorti de prison pour régner,
-          <lb/>qu’il soit même né mendiant pour exercer sa royauté,</p>
-        <p n="15">j’ai vu tous les vivants qui marchent sous le soleil
-          <lb/>être du côté du gamin, du second,
-          <lb/>celui qui surgit à la place de l’autre.</p>
-        <p n="16">Pas de fin à tout ce peuple, à tous ceux dont il est le chef.
-          <lb/>Toutefois la postérité pourrait bien ne pas s’en réjouir,
-          <lb/>car cela aussi est vanité et poursuite de vent.</p>
+        <lg>
+          <l n="13">Mieux vaut un gamin indigent, mais sage,
+            <lb/>qu’un roi vieux, mais insensé, qui ne sait plus se laisser conseiller.</l>
+          <l n="14">Que ce garçon soit sorti de prison pour régner,
+            <lb/>qu’il soit même né mendiant pour exercer sa royauté,</l>
+          <l n="15">j’ai vu tous les vivants qui marchent sous le soleil
+            <lb/>être du côté du gamin, du second,
+            <lb/>celui qui surgit à la place de l’autre.</l>
+          <l n="16">Pas de fin à tout ce peuple, à tous ceux dont il est le chef.
+            <lb/>Toutefois la postérité pourrait bien ne pas s’en réjouir,
+            <lb/>car cela aussi est vanité et poursuite de vent.</l>
+        </lg>
         <label>Le geste rituel et ses risques</label>
-        <p n="17">Surveille tes pas quand tu vas à la Maison de Dieu,
+        <l n="17">Surveille tes pas quand tu vas à la Maison de Dieu,
           <lb/>approche-toi pour écouter plutôt que pour offrir le sacrifice des insensés ;
-          <lb/>car ils ne savent pas qu’ils font le mal.</p>
+          <lb/>car ils ne savent pas qu’ils font le mal.</l>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 5</head>
-        <p n="1">Que ta bouche ne se précipite pas
-          <lb/>et que ton cœur ne se hâte pas
-          <lb/>de proférer une parole devant Dieu.
-          <lb/>Car Dieu est dans le ciel, et toi sur la terre.
-          <lb/>Donc, que tes paroles soient peu nombreuses !</p>
-        <p n="2">Car de l’abondance des occupations vient le rêve
-          <lb/>et de l’abondance des paroles, les propos ineptes.</p>
-        <p n="3">Si tu fais un vœu à Dieu,
+        <lg>
+          <l n="1">Que ta bouche ne se précipite pas
+            <lb/>et que ton cœur ne se hâte pas
+            <lb/>de proférer une parole devant Dieu.
+            <lb/>Car Dieu est dans le ciel, et toi sur la terre.
+            <lb/>Donc, que tes paroles soient peu nombreuses !</l>
+          <l n="2">Car de l’abondance des occupations vient le rêve
+            <lb/>et de l’abondance des paroles, les propos ineptes.</l>
+        </lg>
+        <l n="3">Si tu fais un vœu à Dieu,
           <lb/>ne tarde pas à l’accomplir.
           <lb/>Car il n’y a pas de faveur pour les insensés ;
-          <lb/>le vœu que tu as fait, accomplis-le.</p>
-        <p n="4">Mieux vaut pour toi ne pas faire de vœu
-          <lb/>que faire un vœu et ne pas l’accomplir.</p>
-        <p n="5">Ne laisse pas ta bouche te rendre coupable tout entier,
-          <lb/>et ne va pas dire au messager de Dieu : « C’est une méprise. »
-          <lb/>Pourquoi Dieu devrait-il s’irriter de tes propos
-          <lb/>et ruiner l’œuvre de tes mains ?</p>
-        <p n="6">Quand il y a abondance de rêves, de vanités,
-          <lb/>et beaucoup de paroles, alors, crains Dieu.</p>
+          <lb/>le vœu que tu as fait, accomplis-le.</l>
+        <lg>
+          <l n="4">Mieux vaut pour toi ne pas faire de vœu
+            <lb/>que faire un vœu et ne pas l’accomplir.</l>
+          <l n="5">Ne laisse pas ta bouche te rendre coupable tout entier,
+            <lb/>et ne va pas dire au messager de Dieu : « C’est une méprise. »
+            <lb/>Pourquoi Dieu devrait-il s’irriter de tes propos
+            <lb/>et ruiner l’œuvre de tes mains ?</l>
+          <l n="6">Quand il y a abondance de rêves, de vanités,
+            <lb/>et beaucoup de paroles, alors, crains Dieu.</l>
+        </lg>
         <label>L’inévitable autorité et ses abus</label>
-        <p n="7">Si, dans l’Etat, tu vois l’indigent opprimé,
-          <lb/>le droit et la justice violés,
-          <lb/>ne sois pas surpris de la chose ;
-          <lb/>car au-dessus d’un grand personnage
-          <lb/>veille un autre grand,
-          <lb/>et au-dessus d’eux, il y a encore des grands.</p>
-        <p n="8">Et à tous, la terre profite ;
-          <lb/>le roi est tributaire de l’agriculture.</p>
+        <lg>
+          <l n="7">Si, dans l’Etat, tu vois l’indigent opprimé,
+            <lb/>le droit et la justice violés,
+            <lb/>ne sois pas surpris de la chose ;
+            <lb/>car au-dessus d’un grand personnage
+            <lb/>veille un autre grand,
+            <lb/>et au-dessus d’eux, il y a encore des grands.</l>
+          <l n="8">Et à tous, la terre profite ;
+            <lb/>le roi est tributaire de l’agriculture.</l>
+        </lg>
         <label>La richesse et ses risques</label>
-        <p n="9">Qui aime l’argent ne se rassasiera pas d’argent,
-          <lb/>ni du revenu celui qui aime le luxe.
-          <lb/>Cela est aussi vanité.</p>
-        <p n="10">Avec l’abondance des biens abondent ceux qui les consomment,
-          <lb/>et quel bénéfice pour le propriétaire,
-          <lb/>sinon un spectacle pour les yeux ?</p>
-        <p n="11">Doux est le sommeil de l’ouvrier,
-          <lb/>qu’il ait mangé peu ou beaucoup ;
-          <lb/>mais la satiété du riche, elle, ne le laisse pas dormir.</p>
-        <p n="12">Il y a un mal affligeant que j’ai vu sous le soleil :
-          <lb/>la richesse conservée par son propriétaire pour son malheur.</p>
-        <p n="13">Cette richesse périt dans une mauvaise affaire ;
-          <lb/>s’il engendre un fils, celui-ci n’a plus rien en main.</p>
-        <p n="14">Comme il est sorti du sein de sa mère,
-          <lb/>nu, il s’en retournera comme il était venu :
-          <lb/>il n’a rien retiré de son travail
-          <lb/>qu’il puisse emporter avec lui.</p>
-        <p n="15">Et cela est aussi un mal affligeant
-          <lb/>qu’il s’en aille ainsi qu’il était venu :
-          <lb/>quel profit pour lui d’avoir travaillé pour du vent ?</p>
-        <p n="16">De plus, il consume tous ses jours dans les ténèbres ;
-          <lb/>il est grandement affligé, déprimé, irrité.</p>
-        <p n="17">Ce que, moi, je reconnais comme bien, le voici :
-          <lb/>il convient de manger et de boire,
-          <lb/>de goûter le bonheur dans tout le travail
-          <lb/>que l’homme fait sous le soleil,
-          <lb/>pendant le nombre des jours de vie que Dieu lui donne,
-          <lb/>car telle est sa part.</p>
-        <p n="18">De plus, tout homme à qui Dieu donne richesse et ressources
-          <lb/>et à qui Il a laissé la faculté d’en manger,
-          <lb/>d’en prendre sa part et de jouir de son travail,
-          <lb/>c’est là un don de Dieu ;</p>
-        <p n="19">non, il ne songe guère aux jours de sa vie,
-          <lb/>tant que Dieu le tient attentif à la joie de son cœur.</p>
+        <lg>
+          <l n="9">Qui aime l’argent ne se rassasiera pas d’argent,
+            <lb/>ni du revenu celui qui aime le luxe.
+            <lb/>Cela est aussi vanité.</l>
+          <l n="10">Avec l’abondance des biens abondent ceux qui les consomment,
+            <lb/>et quel bénéfice pour le propriétaire,
+            <lb/>sinon un spectacle pour les yeux ?</l>
+          <l n="11">Doux est le sommeil de l’ouvrier,
+            <lb/>qu’il ait mangé peu ou beaucoup ;
+            <lb/>mais la satiété du riche, elle, ne le laisse pas dormir.</l>
+        </lg>
+        <lg>
+          <l n="12">Il y a un mal affligeant que j’ai vu sous le soleil :
+            <lb/>la richesse conservée par son propriétaire pour son malheur.</l>
+          <l n="13">Cette richesse périt dans une mauvaise affaire ;
+            <lb/>s’il engendre un fils, celui-ci n’a plus rien en main.</l>
+          <l n="14">Comme il est sorti du sein de sa mère,
+            <lb/>nu, il s’en retournera comme il était venu :
+            <lb/>il n’a rien retiré de son travail
+            <lb/>qu’il puisse emporter avec lui.</l>
+          <l n="15">Et cela est aussi un mal affligeant
+            <lb/>qu’il s’en aille ainsi qu’il était venu :
+            <lb/>quel profit pour lui d’avoir travaillé pour du vent ?</l>
+          <l n="16">De plus, il consume tous ses jours dans les ténèbres ;
+            <lb/>il est grandement affligé, déprimé, irrité.</l>
+          <l n="17">Ce que, moi, je reconnais comme bien, le voici :
+            <lb/>il convient de manger et de boire,
+            <lb/>de goûter le bonheur dans tout le travail
+            <lb/>que l’homme fait sous le soleil,
+            <lb/>pendant le nombre des jours de vie que Dieu lui donne,
+            <lb/>car telle est sa part.</l>
+          <l n="18">De plus, tout homme à qui Dieu donne richesse et ressources
+            <lb/>et à qui Il a laissé la faculté d’en manger,
+            <lb/>d’en prendre sa part et de jouir de son travail,
+            <lb/>c’est là un don de Dieu ;</l>
+          <l n="19">non, il ne songe guère aux jours de sa vie,
+            <lb/>tant que Dieu le tient attentif à la joie de son cœur.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 6</head>
-        <p n="1">Il y a un mal que j’ai vu sous le soleil,
-          <lb/>et il est immense pour l’humanité.</p>
-        <p n="2">Soit un homme à qui Dieu donne richesse, ressources et gloire,
-          <lb/>à qui rien ne manque pour lui-même de tout ce qu’il désire,
-          <lb/>mais à qui Dieu ne laisse pas la faculté d’en manger,
-          <lb/>car c’est quelqu’un d’étranger qui le mange :
-          <lb/>cela aussi est vanité et mal affligeant.</p>
+        <lg>
+          <l n="1">Il y a un mal que j’ai vu sous le soleil,
+            <lb/>et il est immense pour l’humanité.</l>
+          <l n="2">Soit un homme à qui Dieu donne richesse, ressources et gloire,
+            <lb/>à qui rien ne manque pour lui-même de tout ce qu’il désire,
+            <lb/>mais à qui Dieu ne laisse pas la faculté d’en manger,
+            <lb/>car c’est quelqu’un d’étranger qui le mange :
+            <lb/>cela aussi est vanité et mal affligeant.</l>
+        </lg>
         <label>La longévité et ses déceptions</label>
-        <p n="3">Soit un homme qui engendre cent fois
-          <lb/>et vit de nombreuses années,
-          <lb/>mais qui, si nombreux soient les jours de ses années,
-          <lb/>ne se rassasie pas de bonheur
-          <lb/>et n’a même pas de sépulture.
-          <lb/>Je dis : L’avorton vaut mieux que lui,</p>
-        <p n="4">car c’est en vain qu’il est venu
-          <lb/>et il s’en va dans les ténèbres,
-          <lb/>et par les ténèbres son nom sera recouvert ;</p>
-        <p n="5">il n’a même pas vu le soleil et ne l’a pas connu,
-          <lb/>il a du repos plus que l’autre.</p>
-        <p n="6">Même si celui-ci avait vécu deux fois mille ans,
-          <lb/>il n’aurait pas goûté le bonheur.
-          <lb/>N’est-ce pas vers un lieu unique que tout va ?</p>
+        <lg>
+          <l n="3">Soit un homme qui engendre cent fois
+            <lb/>et vit de nombreuses années,
+            <lb/>mais qui, si nombreux soient les jours de ses années,
+            <lb/>ne se rassasie pas de bonheur
+            <lb/>et n’a même pas de sépulture.
+            <lb/>Je dis : L’avorton vaut mieux que lui,</l>
+          <l n="4">car c’est en vain qu’il est venu
+            <lb/>et il s’en va dans les ténèbres,
+            <lb/>et par les ténèbres son nom sera recouvert ;</l>
+          <l n="5">il n’a même pas vu le soleil et ne l’a pas connu,
+            <lb/>il a du repos plus que l’autre.</l>
+          <l n="6">Même si celui-ci avait vécu deux fois mille ans,
+            <lb/>il n’aurait pas goûté le bonheur.
+            <lb/>N’est-ce pas vers un lieu unique que tout va ?</l>
+        </lg>
         <label>L’homme demeure insatisfait</label>
-        <p n="7">Tout le travail de l’homme est pour sa bouche,
-          <lb/>et pourtant l’appétit n’est pas comblé.</p>
-        <p n="8">En effet, qu’a de plus le sage que l’insensé,
-          <lb/>qu’a le pauvre qui sait aller de l’avant face à la vie ?</p>
-        <p n="9">Mieux vaut la vision des yeux que le mouvement de l’appétit :
-          <lb/>cela est aussi vanité et poursuite de vent.</p>
-        <p n="10">Ce qui a été a déjà reçu un nom
-          <lb/>et on sait ce que c’est, l’homme ;
-          <lb/>mais il ne peut entrer en procès
-          <lb/>avec plus fort que lui.</p>
-        <p n="11">Quand il y a des paroles en abondance,
-          <lb/>elles font abonder la vanité :
-          <lb/>qu’est-ce que l’homme a de plus ?</p>
-        <p n="12">En effet, qui sait ce qui est le mieux pour l’homme pendant l’existence,
+        <lg>
+          <l n="7">Tout le travail de l’homme est pour sa bouche,
+            <lb/>et pourtant l’appétit n’est pas comblé.</l>
+          <l n="8">En effet, qu’a de plus le sage que l’insensé,
+            <lb/>qu’a le pauvre qui sait aller de l’avant face à la vie ?</l>
+          <l n="9">Mieux vaut la vision des yeux que le mouvement de l’appétit :
+            <lb/>cela est aussi vanité et poursuite de vent.</l>
+        </lg>
+        <lg>
+          <l n="10">Ce qui a été a déjà reçu un nom
+            <lb/>et on sait ce que c’est, l’homme ;
+            <lb/>mais il ne peut entrer en procès
+            <lb/>avec plus fort que lui.</l>
+          <l n="11">Quand il y a des paroles en abondance,
+            <lb/>elles font abonder la vanité :
+            <lb/>qu’est-ce que l’homme a de plus ?</l>
+        </lg>
+        <l n="12">En effet, qui sait ce qui est le mieux pour l’homme pendant l’existence,
           <lb/>pendant les nombreux jours de sa vaine existence
           <lb/>qu’il passe comme une ombre ?
           <lb/>Qui indiquera donc à l’homme
-          <lb/>ce qui sera après lui sous le soleil ?</p>
+          <lb/>ce qui sera après lui sous le soleil ?</l>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 7</head>
         <label>Relativité des biens</label>
-        <p n="1">Mieux vaut le renom que l’huile exquise,
-          <lb/>et le jour de la mort que le jour de la naissance.</p>
-        <p n="2">Mieux vaut aller à la maison de deuil
-          <lb/>qu’à la maison du banquet ;
-          <lb/>puisque c’est la fin de tout homme,
-          <lb/>il faut que les vivants y appliquent leur cœur.</p>
-        <p n="3">Mieux vaut le chagrin que le rire,
-          <lb/>car sous un visage en peine, le cœur peut être heureux ;</p>
-        <p n="4">le cœur des sages est dans la maison de deuil,
-          <lb/>et le cœur des insensés, dans la maison de joie.</p>
-        <p n="5">Mieux vaut écouter la semonce du sage,
-          <lb/>qu’être homme à écouter la chanson des insensés.</p>
-        <p n="6">Car, tel le pétillement des broussailles sous la marmite,
-          <lb/>tel est le rire de l’insensé.
-          <lb/>Mais cela aussi est vanité,</p>
-        <p n="7">que l’oppression rende fou le sage
-          <lb/>et qu’un présent perde le cœur.</p>
-        <p n="8">Mieux vaut l’aboutissement d’une chose que ses prémices,
-          <lb/>mieux vaut un esprit patient qu’un esprit prétentieux.</p>
-        <p n="9">Que ton esprit ne se hâte pas de s’irriter,
-          <lb/>car l’irritation vit au cœur des insensés.</p>
-        <p n="10">Ne dis pas : Comment se fait-il
-          <lb/>que les temps anciens aient été meilleurs que ceux-ci ?
-          <lb/>Ce n’est pas la sagesse
-          <lb/>qui te fait poser cette question.</p>
-        <p n="11">La sagesse est bonne comme un héritage ;
-          <lb/>elle profite à ceux qui voient le soleil :</p>
-        <p n="12">Car être à l’ombre de la sagesse,
-          <lb/>c’est être à l’ombre de l’argent,
-          <lb/>et le profit du savoir,
-          <lb/>c’est que la sagesse fait vivre ceux qui la possèdent.</p>
-        <p n="13">Regarde l’œuvre de Dieu :
-          <lb/>Qui donc pourra réparer ce qu’Il a courbé ?</p>
-        <p n="14">Au jour du bonheur, sois heureux,
-          <lb/>et au jour du malheur, regarde :
-          <lb/>celui-ci autant que celui-là, Dieu les a faits
-          <lb/>de façon que l’homme ne puisse rien découvrir
-          <lb/>de ce qui sera après lui.</p>
+        <l n="1">Mieux vaut le renom que l’huile exquise,
+          <lb/>et le jour de la mort que le jour de la naissance.</l>
+        <lg>
+          <l n="2">Mieux vaut aller à la maison de deuil
+            <lb/>qu’à la maison du banquet ;
+            <lb/>puisque c’est la fin de tout homme,
+            <lb/>il faut que les vivants y appliquent leur cœur.</l>
+          <l n="3">Mieux vaut le chagrin que le rire,
+            <lb/>car sous un visage en peine, le cœur peut être heureux ;</l>
+          <l n="4">le cœur des sages est dans la maison de deuil,
+            <lb/>et le cœur des insensés, dans la maison de joie.</l>
+        </lg>
+        <lg>
+          <l n="5">Mieux vaut écouter la semonce du sage,
+            <lb/>qu’être homme à écouter la chanson des insensés.</l>
+          <l n="6">Car, tel le pétillement des broussailles sous la marmite,
+            <lb/>tel est le rire de l’insensé.
+            <lb/>Mais cela aussi est vanité,</l>
+          <l n="7">que l’oppression rende fou le sage
+            <lb/>et qu’un présent perde le cœur.</l>
+        </lg>
+        <lg>
+          <l n="8">Mieux vaut l’aboutissement d’une chose que ses prémices,
+            <lb/>mieux vaut un esprit patient qu’un esprit prétentieux.</l>
+          <l n="9">Que ton esprit ne se hâte pas de s’irriter,
+            <lb/>car l’irritation vit au cœur des insensés.</l>
+          <l n="10">Ne dis pas : Comment se fait-il
+            <lb/>que les temps anciens aient été meilleurs que ceux-ci ?
+            <lb/>Ce n’est pas la sagesse
+            <lb/>qui te fait poser cette question.</l>
+        </lg>
+        <lg>
+          <l n="11">La sagesse est bonne comme un héritage ;
+            <lb/>elle profite à ceux qui voient le soleil :</l>
+          <l n="12">Car être à l’ombre de la sagesse,
+            <lb/>c’est être à l’ombre de l’argent,
+            <lb/>et le profit du savoir,
+            <lb/>c’est que la sagesse fait vivre ceux qui la possèdent.</l>
+          <l n="13">Regarde l’œuvre de Dieu :
+            <lb/>Qui donc pourra réparer ce qu’Il a courbé ?</l>
+          <l n="14">Au jour du bonheur, sois heureux,
+            <lb/>et au jour du malheur, regarde :
+            <lb/>celui-ci autant que celui-là, Dieu les a faits
+            <lb/>de façon que l’homme ne puisse rien découvrir
+            <lb/>de ce qui sera après lui.</l>
+        </lg>
         <label>Justice et sagesse</label>
-        <p n="15">Dans ma vaine existence, j’ai tout vu :
-          <lb/>un juste qui se perd par sa justice,
-          <lb/>un méchant qui survit par sa malice.</p>
-        <p n="16">Ne sois pas juste à l’excès,
-          <lb/>ne te fais pas trop sage ;
-          <lb/>pourquoi te détruire ?</p>
-        <p n="17">Ne fais pas trop le méchant
-          <lb/>et ne deviens pas insensé ;
-          <lb/>pourquoi mourir avant ton temps ?</p>
-        <p n="18">Il est bon que tu tiennes à ceci
-          <lb/>sans laisser ta main lâcher cela.
-          <lb/>Car celui qui craint Dieu
-          <lb/>fera aboutir l’une et l’autre chose.</p>
-        <p n="19">La sagesse rend le sage plus fort
-          <lb/>que dix gouverneurs présents dans une ville.</p>
-        <p n="20">Car aucun homme n’est assez juste sur terre
-          <lb/>pour faire le bien sans pécher.</p>
-        <p n="21">D’ailleurs à tous les propos qu’on profère,
-          <lb/>ne prête pas attention :
-          <lb/>ainsi, tu n’entendras pas ton serviteur te dénigrer,</p>
-        <p n="22">car bien des fois, tu as eu conscience,
-          <lb/>toi aussi, de dénigrer les autres.</p>
+        <lg>
+          <l n="15">Dans ma vaine existence, j’ai tout vu :
+            <lb/>un juste qui se perd par sa justice,
+            <lb/>un méchant qui survit par sa malice.</l>
+          <l n="16">Ne sois pas juste à l’excès,
+            <lb/>ne te fais pas trop sage ;
+            <lb/>pourquoi te détruire ?</l>
+          <l n="17">Ne fais pas trop le méchant
+            <lb/>et ne deviens pas insensé ;
+            <lb/>pourquoi mourir avant ton temps ?</l>
+        </lg>
+        <lg>
+          <l n="18">Il est bon que tu tiennes à ceci
+            <lb/>sans laisser ta main lâcher cela.
+            <lb/>Car celui qui craint Dieu
+            <lb/>fera aboutir l’une et l’autre chose.</l>
+          <l n="19">La sagesse rend le sage plus fort
+            <lb/>que dix gouverneurs présents dans une ville.</l>
+        </lg>
+        <lg>
+          <l n="20">Car aucun homme n’est assez juste sur terre
+            <lb/>pour faire le bien sans pécher.</l>
+          <l n="21">D’ailleurs à tous les propos qu’on profère,
+            <lb/>ne prête pas attention :
+            <lb/>ainsi, tu n’entendras pas ton serviteur te dénigrer,</l>
+          <l n="22">car bien des fois, tu as eu conscience,
+            <lb/>toi aussi, de dénigrer les autres.</l>
+        </lg>
         <label>Introuvable sagesse chez l’homme et la femme</label>
-        <p n="23">J’ai essayé tout cela avec sagesse,
-          <lb/>je disais : Je serai un sage.
-          <lb/>Mais elle est loin de ma portée.</p>
-        <p n="24">Ce qui est venu à l’existence est lointain
-          <lb/>et profond, profond ! Qui le découvrira ?</p>
-        <p n="25">Moi, je m’appliquerai de tout cœur
-          <lb/>à connaître, à explorer, à rechercher
-          <lb/>la sagesse et la logique,
-          <lb/>à connaître aussi que la méchanceté est une sottise,
-          <lb/>une sottise affolante.</p>
-        <p n="26">Et je trouve, moi, plus amère que la mort
-          <lb/>une femme quand elle est un traquenard,
-          <lb/>et son cœur un filet, ses mains des liens :
-          <lb/>celui qui plaît à Dieu lui échappera,
-          <lb/>mais le pécheur se laissera prendre par elle.</p>
-        <p n="27">Voilà ce que j’ai trouvé, a dit Qohéleth,
-          <lb/>en les voyant l’une après l’autre pour trouver une opinion.</p>
-        <p n="28">J’en suis encore à chercher et n’ai pas trouvé :
-          <lb/>Un homme sur mille, je l’ai trouvé,
-          <lb/>mais une femme parmi elles toutes,
-          <lb/>je ne l’ai pas trouvée.</p>
-        <p n="29">Seulement, vois-tu ce que j’ai trouvé :
-          <lb/>Dieu a fait l’homme droit,
-          <lb/>mais eux ils ont cherché une foule de complications.</p>
+        <lg>
+          <l n="23">J’ai essayé tout cela avec sagesse,
+            <lb/>je disais : Je serai un sage.
+            <lb/>Mais elle est loin de ma portée.</l>
+          <l n="24">Ce qui est venu à l’existence est lointain
+            <lb/>et profond, profond ! Qui le découvrira ?</l>
+          <l n="25">Moi, je m’appliquerai de tout cœur
+            <lb/>à connaître, à explorer, à rechercher
+            <lb/>la sagesse et la logique,
+            <lb/>à connaître aussi que la méchanceté est une sottise,
+            <lb/>une sottise affolante.</l>
+        </lg>
+        <lg>
+          <l n="26">Et je trouve, moi, plus amère que la mort
+            <lb/>une femme quand elle est un traquenard,
+            <lb/>et son cœur un filet, ses mains des liens :
+            <lb/>celui qui plaît à Dieu lui échappera,
+            <lb/>mais le pécheur se laissera prendre par elle.</l>
+          <l n="27">Voilà ce que j’ai trouvé, a dit Qohéleth,
+            <lb/>en les voyant l’une après l’autre pour trouver une opinion.</l>
+          <l n="28">J’en suis encore à chercher et n’ai pas trouvé :
+            <lb/>Un homme sur mille, je l’ai trouvé,
+            <lb/>mais une femme parmi elles toutes,
+            <lb/>je ne l’ai pas trouvée.</l>
+          <l n="29">Seulement, vois-tu ce que j’ai trouvé :
+            <lb/>Dieu a fait l’homme droit,
+            <lb/>mais eux ils ont cherché une foule de complications.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 8</head>
         <label>Le sage face au pouvoir</label>
-        <p n="1">Qui est comme le sage
+        <l n="1">Qui est comme le sage
           <lb/>et sait interpréter cette parole :
           <lb/>« La sagesse d’un homme illumine son visage
-          <lb/>et la dureté de son visage en est transformée » ?</p>
-        <p n="2">Moi ! Observe l’ordre du roi,
-          <lb/>et, à cause du serment divin,</p>
-        <p n="3">ne te presse pas de t’écarter de lui,
-          <lb/>ne t’obstine pas dans un mauvais cas.
-          <lb/>car il fera tout ce qui lui plaira,</p>
-        <p n="4">car la parole du roi est souveraine,
-          <lb/>et qui lui dira : « Que fais-tu ? »</p>
+          <lb/>et la dureté de son visage en est transformée » ?</l>
+        <lg>
+          <l n="2">Moi ! Observe l’ordre du roi,
+            <lb/>et, à cause du serment divin,</l>
+          <l n="3">ne te presse pas de t’écarter de lui,
+            <lb/>ne t’obstine pas dans un mauvais cas.
+            <lb/>car il fera tout ce qui lui plaira,</l>
+          <l n="4">car la parole du roi est souveraine,
+            <lb/>et qui lui dira : « Que fais-tu ? »</l>
+        </lg>
         <label>Le juste ignore l’heure du jugement</label>
-        <p n="5">« Celui qui observe le commandement
-          <lb/>ne connaîtra rien de mauvais.
-          <lb/>Le temps et le jugement, le cœur du sage les connaît. »</p>
-        <p n="6">Oui, il y a pour chaque chose un temps et un jugement,
-          <lb/>mais il y a un grand malheur pour l’homme :</p>
-        <p n="7">il ne sait pas ce qui arrivera,
-          <lb/>qui lui indiquera quand cela arrivera ?</p>
-        <p n="8">Personne n’a de pouvoir sur le souffle vital
-          <lb/>pour retenir ce souffle ;
-          <lb/>personne n’a de pouvoir sur le jour de la mort ;
-          <lb/>il n’y a pas de relâche dans le combat,
-          <lb/>et la méchanceté ne sauve pas son homme.</p>
-        <p n="9">Tout cela, je l’ai vu en portant mon attention
+        <lg>
+          <l n="5">« Celui qui observe le commandement
+            <lb/>ne connaîtra rien de mauvais.
+            <lb/>Le temps et le jugement, le cœur du sage les connaît. »</l>
+          <l n="6">Oui, il y a pour chaque chose un temps et un jugement,
+            <lb/>mais il y a un grand malheur pour l’homme :</l>
+          <l n="7">il ne sait pas ce qui arrivera,
+            <lb/>qui lui indiquera quand cela arrivera ?</l>
+          <l n="8">Personne n’a de pouvoir sur le souffle vital
+            <lb/>pour retenir ce souffle ;
+            <lb/>personne n’a de pouvoir sur le jour de la mort ;
+            <lb/>il n’y a pas de relâche dans le combat,
+            <lb/>et la méchanceté ne sauve pas son homme.</l>
+        </lg>
+        <l n="9">Tout cela, je l’ai vu en portant mon attention
           <lb/>sur tout ce qui se fait sous le soleil,
           <lb/>au temps où l’homme a sur l’homme
-          <lb/>le pouvoir de lui faire du mal.</p>
+          <lb/>le pouvoir de lui faire du mal.</l>
         <label>La joie reste possible malgré l’absence de rétribution</label>
-        <p n="10">Ainsi, j’ai vu des méchants mis au tombeau ;
-          <lb/>on allait et venait depuis le lieu saint
-          <lb/>et on oubliait dans la ville comme ils avaient agi.
-          <lb/>Cela aussi est vanité.</p>
-        <p n="11">Parce que la sentence contre l’œuvre mauvaise
-          <lb/>n’est pas vite exécutée,
-          <lb/>le cœur des fils d’Adam est rempli de malfaisance.</p>
-        <p n="12">Que le pécheur fasse le mal cent fois,
-          <lb/>alors même il prolonge sa vie.
-          <lb/>Je sais pourtant, moi aussi,
-          <lb/>« qu’il y aura du bonheur pour ceux qui craignent Dieu,
-          <lb/>parce qu’ils ont de la crainte devant sa face,</p>
-        <p n="13">mais qu’il n’y aura pas de bonheur pour le méchant
-          <lb/>et que, passant comme l’ombre, il ne prolongera pas ses jours,
-          <lb/>parce qu’il est sans crainte devant la face de Dieu ».</p>
-        <p n="14">Il est un fait, sur la terre, qui est vanité :
-          <lb/>il est des justes qui sont traités selon le fait des méchants,
-          <lb/>et des méchants qui sont traités selon le fait des justes.
-          <lb/>J’ai déjà dit que cela est aussi vanité,</p>
-        <p n="15">et je fais l’éloge de la joie ;
-          <lb/>car il n’y a pour l’homme sous le soleil
-          <lb/>rien de bon, sinon de manger, de boire, de se réjouir ;
-          <lb/>et cela l’accompagne dans son travail
-          <lb/>durant les jours d’existence
-          <lb/>que Dieu lui donne sous le soleil.</p>
+        <lg>
+          <l n="10">Ainsi, j’ai vu des méchants mis au tombeau ;
+            <lb/>on allait et venait depuis le lieu saint
+            <lb/>et on oubliait dans la ville comme ils avaient agi.
+            <lb/>Cela aussi est vanité.</l>
+          <l n="11">Parce que la sentence contre l’œuvre mauvaise
+            <lb/>n’est pas vite exécutée,
+            <lb/>le cœur des fils d’Adam est rempli de malfaisance.</l>
+          <l n="12">Que le pécheur fasse le mal cent fois,
+            <lb/>alors même il prolonge sa vie.
+            <lb/>Je sais pourtant, moi aussi,
+            <lb/>« qu’il y aura du bonheur pour ceux qui craignent Dieu,
+            <lb/>parce qu’ils ont de la crainte devant sa face,</l>
+          <l n="13">mais qu’il n’y aura pas de bonheur pour le méchant
+            <lb/>et que, passant comme l’ombre, il ne prolongera pas ses jours,
+            <lb/>parce qu’il est sans crainte devant la face de Dieu ».</l>
+          <l n="14">Il est un fait, sur la terre, qui est vanité :
+            <lb/>il est des justes qui sont traités selon le fait des méchants,
+            <lb/>et des méchants qui sont traités selon le fait des justes.
+            <lb/>J’ai déjà dit que cela est aussi vanité,</l>
+          <l n="15">et je fais l’éloge de la joie ;
+            <lb/>car il n’y a pour l’homme sous le soleil
+            <lb/>rien de bon, sinon de manger, de boire, de se réjouir ;
+            <lb/>et cela l’accompagne dans son travail
+            <lb/>durant les jours d’existence
+            <lb/>que Dieu lui donne sous le soleil.</l>
+        </lg>
         <label>La sagesse dépose son bilan de faillite</label>
-        <p n="16">Quand j’eus à cœur de connaître la sagesse
-          <lb/>et de voir les occupations auxquelles on s’affaire sur terre,
-          <lb/>– même si, le jour et la nuit, l’homme ne voit pas de ses yeux le sommeil –</p>
-        <p n="17">alors j’ai vu toute l’œuvre de Dieu ;
-          <lb/>l’homme ne peut découvrir l’œuvre qui se fait sous le soleil,
-          <lb/>bien que l’homme travaille à la rechercher, mais sans la découvrir ;
-          <lb/>et même si le sage affirme qu’il sait,
-          <lb/>il ne peut la découvrir.</p>
+        <lg>
+          <l n="16">Quand j’eus à cœur de connaître la sagesse
+            <lb/>et de voir les occupations auxquelles on s’affaire sur terre,
+            <lb/>– même si, le jour et la nuit, l’homme ne voit pas de ses yeux le sommeil –</l>
+          <l n="17">alors j’ai vu toute l’œuvre de Dieu ;
+            <lb/>l’homme ne peut découvrir l’œuvre qui se fait sous le soleil,
+            <lb/>bien que l’homme travaille à la rechercher, mais sans la découvrir ;
+            <lb/>et même si le sage affirme qu’il sait,
+            <lb/>il ne peut la découvrir.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 9</head>
         <label>Un même sort pour tous</label>
-        <p n="1">Oui, tout cela, je l’ai pris à cœur,
-          <lb/>et voici tout ce que j’ai éprouvé :
-          <lb/>c’est que les justes, les sages et leurs travaux
-          <lb/>sont entre les mains de Dieu.
-          <lb/>Ni l’amour, ni la haine, l’homme ne les connaît,
-          <lb/>tout cela le devance ;</p>
-        <p n="2">tout est pareil pour tous,
-          <lb/>un sort identique échoit au juste et au méchant,
-          <lb/>au bon et au pur comme à l’impur,
-          <lb/>à celui qui sacrifie et à celui qui ne sacrifie pas ;
-          <lb/>il en est du bon comme du pécheur,
-          <lb/>de celui qui prête serment comme de celui qui craint de le faire.</p>
-        <p n="3">C’est un mal dans tout ce qui se fait sous le soleil
+        <lg>
+          <l n="1">Oui, tout cela, je l’ai pris à cœur,
+            <lb/>et voici tout ce que j’ai éprouvé :
+            <lb/>c’est que les justes, les sages et leurs travaux
+            <lb/>sont entre les mains de Dieu.
+            <lb/>Ni l’amour, ni la haine, l’homme ne les connaît,
+            <lb/>tout cela le devance ;</l>
+          <l n="2">tout est pareil pour tous,
+            <lb/>un sort identique échoit au juste et au méchant,
+            <lb/>au bon et au pur comme à l’impur,
+            <lb/>à celui qui sacrifie et à celui qui ne sacrifie pas ;
+            <lb/>il en est du bon comme du pécheur,
+            <lb/>de celui qui prête serment comme de celui qui craint de le faire.</l>
+        </lg>
+        <l n="3">C’est un mal dans tout ce qui se fait sous le soleil
           <lb/>qu’un sort identique pour tous ;
           <lb/>aussi le cœur des fils d’Adam est-il plein de malice,
           <lb/>la folie est dans leur cœur pendant leur vie,
-          <lb/>et après…, on s’en va vers les morts.</p>
-        <p n="4">En effet, qui sera préféré ?
-          <lb/>Pour tous les vivants, il y a une chose certaine :
-          <lb/>un chien vivant vaut mieux qu’un lion mort.</p>
-        <p n="5">Car les vivants savent qu’ils mourront ;
-          <lb/>mais les morts ne savent rien du tout ;
-          <lb/>pour eux, il n’y a plus de rétribution,
-          <lb/>puisque leur souvenir est oublié.</p>
-        <p n="6">Leurs amours, leurs haines, leurs jalousies
-          <lb/>ont déjà péri ; ils n’auront plus jamais de part
-          <lb/>à tout ce qui se fait sous le soleil.</p>
+          <lb/>et après…, on s’en va vers les morts.</l>
+        <lg>
+          <l n="4">En effet, qui sera préféré ?
+            <lb/>Pour tous les vivants, il y a une chose certaine :
+            <lb/>un chien vivant vaut mieux qu’un lion mort.</l>
+          <l n="5">Car les vivants savent qu’ils mourront ;
+            <lb/>mais les morts ne savent rien du tout ;
+            <lb/>pour eux, il n’y a plus de rétribution,
+            <lb/>puisque leur souvenir est oublié.</l>
+          <l n="6">Leurs amours, leurs haines, leurs jalousies
+            <lb/>ont déjà péri ; ils n’auront plus jamais de part
+            <lb/>à tout ce qui se fait sous le soleil.</l>
+        </lg>
         <label>Jouir de la vie comme d’un don de Dieu</label>
-        <p n="7">Va, mange avec joie ton pain
-          <lb/>et bois de bon cœur ton vin,
-          <lb/>car déjà Dieu a agréé tes œuvres.</p>
-        <p n="8">Que tes vêtements soient toujours blancs
-          <lb/>et que l’huile ne manque pas sur ta tête !</p>
-        <p n="9">Goûte la vie avec la femme que tu aimes
-          <lb/>durant tous les jours de ta vaine existence,
-          <lb/>puisque Dieu te donne sous le soleil tous tes jours vains ;
-          <lb/>car c’est là ta part dans la vie
-          <lb/>et dans le travail que tu fais sous le soleil.</p>
-        <p n="10">Tout ce que ta main se trouve capable de faire,
-          <lb/>fais-le par tes propres forces ;
-          <lb/>car il n’y a ni œuvre, ni bilan, ni savoir, ni sagesse
-          <lb/>dans le séjour des morts où tu t’en iras.</p>
+        <lg>
+          <l n="7">Va, mange avec joie ton pain
+            <lb/>et bois de bon cœur ton vin,
+            <lb/>car déjà Dieu a agréé tes œuvres.</l>
+          <l n="8">Que tes vêtements soient toujours blancs
+            <lb/>et que l’huile ne manque pas sur ta tête !</l>
+        </lg>
+        <lg>
+          <l n="9">Goûte la vie avec la femme que tu aimes
+            <lb/>durant tous les jours de ta vaine existence,
+            <lb/>puisque Dieu te donne sous le soleil tous tes jours vains ;
+            <lb/>car c’est là ta part dans la vie
+            <lb/>et dans le travail que tu fais sous le soleil.</l>
+        </lg>
+        <lg>
+          <l n="10">Tout ce que ta main se trouve capable de faire,
+            <lb/>fais-le par tes propres forces ;
+            <lb/>car il n’y a ni œuvre, ni bilan, ni savoir, ni sagesse
+            <lb/>dans le séjour des morts où tu t’en iras.</l>
+        </lg>
         <label>Les contretemps imprévisibles</label>
-        <p n="11">Je vois encore sous le soleil
-          <lb/>que la course n’appartient pas aux plus robustes,
-          <lb/>ni la bataille aux plus forts,
-          <lb/>ni le pain aux plus sages,
-          <lb/>ni la richesse aux plus intelligents,
-          <lb/>ni la faveur aux plus savants,
-          <lb/>car à tous leur arrivent heur et malheur.</p>
-        <p n="12">En effet, l’homme ne connaît pas plus son heure
-          <lb/>que les poissons qui se font prendre au filet de malheur,
-          <lb/>que les passereaux pris au piège.
-          <lb/>Ainsi les fils d’Adam sont surpris par le malheur
-          <lb/>quand il tombe sur eux à l’improviste.</p>
+        <lg>
+          <l n="11">Je vois encore sous le soleil
+            <lb/>que la course n’appartient pas aux plus robustes,
+            <lb/>ni la bataille aux plus forts,
+            <lb/>ni le pain aux plus sages,
+            <lb/>ni la richesse aux plus intelligents,
+            <lb/>ni la faveur aux plus savants,
+            <lb/>car à tous leur arrivent heur et malheur.</l>
+        </lg>
+        <lg>
+          <l n="12">En effet, l’homme ne connaît pas plus son heure
+            <lb/>que les poissons qui se font prendre au filet de malheur,
+            <lb/>que les passereaux pris au piège.
+            <lb/>Ainsi les fils d’Adam sont surpris par le malheur
+            <lb/>quand il tombe sur eux à l’improviste.</l>
+        </lg>
         <label>La sagesse méconnue</label>
-        <p n="13">J’ai encore vu sous le soleil, en fait de sagesse,
-          <lb/>une chose importante à mes yeux.</p>
-        <p n="14">Il y avait une petite ville, de peu d’habitants.
-          <lb/>Un grand roi marcha contre elle, l’investit
-          <lb/>et dressa contre elle de grandes embuscades.</p>
-        <p n="15">Il s’y trouvait un homme indigent et sage ;
-          <lb/>il sauva la ville par sa sagesse,
-          <lb/>mais personne ne se souvint de cet indigent.</p>
-        <p n="16">Alors je dis, moi :
-          <lb/>mieux vaut la sagesse que la puissance,
-          <lb/>mais la sagesse de l’indigent est méprisée
-          <lb/>et ses paroles ne sont pas écoutées.</p>
-        <p n="17">Les paroles des sages se font entendre dans le calme,
-          <lb/>mieux que les cris d’un souverain parmi les insensés.</p>
-        <p n="18">Mieux vaut la sagesse que des engins de combat,
-          <lb/>mais un seul maladroit annule beaucoup de bien.</p>
+        <lg>
+          <l n="13">J’ai encore vu sous le soleil, en fait de sagesse,
+            <lb/>une chose importante à mes yeux.</l>
+          <l n="14">Il y avait une petite ville, de peu d’habitants.
+            <lb/>Un grand roi marcha contre elle, l’investit
+            <lb/>et dressa contre elle de grandes embuscades.</l>
+          <l n="15">Il s’y trouvait un homme indigent et sage ;
+            <lb/>il sauva la ville par sa sagesse,
+            <lb/>mais personne ne se souvint de cet indigent.</l>
+          <l n="16">Alors je dis, moi :
+            <lb/>mieux vaut la sagesse que la puissance,
+            <lb/>mais la sagesse de l’indigent est méprisée
+            <lb/>et ses paroles ne sont pas écoutées.</l>
+          <l n="17">Les paroles des sages se font entendre dans le calme,
+            <lb/>mieux que les cris d’un souverain parmi les insensés.</l>
+          <l n="18">Mieux vaut la sagesse que des engins de combat,
+            <lb/>mais un seul maladroit annule beaucoup de bien.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 10</head>
-        <p n="1">Des mouches mortes infectent et font fermenter
+        <l n="1">Des mouches mortes infectent et font fermenter
           <lb/>l’huile du parfumeur.
           <lb/>Un peu de sottise pèse plus
-          <lb/>que la sagesse, que la gloire.</p>
-        <p n="2">L’esprit du sage va du bon côté,
-          <lb/>mais l’esprit de l’insensé va gauchement.</p>
-        <p n="3">Même en chemin, quand l’insensé s’avance,
-          <lb/>l’esprit lui fait défaut ;
-          <lb/>il fait dire à tout le monde qu’il est insensé.</p>
+          <lb/>que la sagesse, que la gloire.</l>
+        <lg>
+          <l n="2">L’esprit du sage va du bon côté,
+            <lb/>mais l’esprit de l’insensé va gauchement.</l>
+          <l n="3">Même en chemin, quand l’insensé s’avance,
+            <lb/>l’esprit lui fait défaut ;
+            <lb/>il fait dire à tout le monde qu’il est insensé.</l>
+        </lg>
         <label>Le sage préfère la stabilité</label>
-        <p n="4">Si l’humeur du chef s’élève contre toi,
+        <l n="4">Si l’humeur du chef s’élève contre toi,
           <lb/>n’abandonne pas ton poste,
-          <lb/>car le sang-froid évite de grandes maladresses.</p>
-        <p n="5">Il y a un mal que j’ai vu sous le soleil,
-          <lb/>comme une méprise échappée au souverain :</p>
-        <p n="6">la sottise élevée aux plus hautes situations,
-          <lb/>et des riches demeurant dans l’abaissement ;</p>
-        <p n="7">j’ai vu des esclaves sur des chevaux,
-          <lb/>et des princes marcher à pied comme des esclaves.</p>
+          <lb/>car le sang-froid évite de grandes maladresses.</l>
+        <lg>
+          <l n="5">Il y a un mal que j’ai vu sous le soleil,
+            <lb/>comme une méprise échappée au souverain :</l>
+          <l n="6">la sottise élevée aux plus hautes situations,
+            <lb/>et des riches demeurant dans l’abaissement ;</l>
+          <l n="7">j’ai vu des esclaves sur des chevaux,
+            <lb/>et des princes marcher à pied comme des esclaves.</l>
+        </lg>
         <label>Les risques de l’action</label>
-        <p n="8">Qui creuse une fosse tombe dedans,
-          <lb/>qui sape un mur, un serpent le mord,</p>
-        <p n="9">qui extrait des pierres peut se blesser avec,
-          <lb/>qui fend du bois encourt un danger.</p>
-        <p n="10">Si le fer est émoussé et qu’on n’en aiguise pas le tranchant,
-          <lb/>il faut redoubler de forces ;
-          <lb/>il y a profit à exercer comme il convient la sagesse.</p>
-        <p n="11">Si le serpent mord faute d’être charmé,
-          <lb/>pas de profit pour le charmeur.</p>
+        <lg>
+          <l n="8">Qui creuse une fosse tombe dedans,
+            <lb/>qui sape un mur, un serpent le mord,</l>
+          <l n="9">qui extrait des pierres peut se blesser avec,
+            <lb/>qui fend du bois encourt un danger.</l>
+          <l n="10">Si le fer est émoussé et qu’on n’en aiguise pas le tranchant,
+            <lb/>il faut redoubler de forces ;
+            <lb/>il y a profit à exercer comme il convient la sagesse.</l>
+          <l n="11">Si le serpent mord faute d’être charmé,
+            <lb/>pas de profit pour le charmeur.</l>
+        </lg>
         <label>Sagesse et sottise</label>
-        <p n="12">Ce que dit la bouche d’un sage plaît,
-          <lb/>mais les lèvres de l’insensé le ravalent ;</p>
-        <p n="13">le début de ses propos est sottise,
-          <lb/>et la fin de ses propos, folie mauvaise.</p>
-        <p n="14">L’insensé multiplie les paroles ;
-          <lb/>l’homme ne sait plus ce qui arrivera :
-          <lb/>qui lui indiquera ce qui arrivera après lui ?</p>
-        <p n="15">Le travail de l’insensé l’épuise,
-          <lb/>il ne sait même pas comment aller à la ville.</p>
+        <lg>
+          <l n="12">Ce que dit la bouche d’un sage plaît,
+            <lb/>mais les lèvres de l’insensé le ravalent ;</l>
+          <l n="13">le début de ses propos est sottise,
+            <lb/>et la fin de ses propos, folie mauvaise.</l>
+          <l n="14">L’insensé multiplie les paroles ;
+            <lb/>l’homme ne sait plus ce qui arrivera :
+            <lb/>qui lui indiquera ce qui arrivera après lui ?</l>
+          <l n="15">Le travail de l’insensé l’épuise,
+            <lb/>il ne sait même pas comment aller à la ville.</l>
+        </lg>
         <label>Le roi et le pouvoir</label>
-        <p n="16">Malheur à toi, pays dont le roi est un gamin
-          <lb/>et dont les princes festoient dès le matin !</p>
-        <p n="17">Heureux es-tu, pays dont le roi est de souche noble
-          <lb/>et dont les princes festoient en temps voulu,
-          <lb/>pour prendre des forces et non pour boire !</p>
-        <p n="18">Avec deux bras paresseux, la poutre cède,
-          <lb/>quand les mains se relâchent, il pleut dans la maison.</p>
-        <p n="19">Pour se divertir, on fait un repas,
-          <lb/>et le vin réjouit la vie,
-          <lb/>et l’argent répond à tout.</p>
-        <p n="20">Ne maudis pas le roi dans ton for intérieur,
-          <lb/>ne maudis pas le riche même en ta chambre à coucher,
-          <lb/>car l’oiseau du ciel en emporte le bruit,
-          <lb/>et la bête ailée fera connaître ce qu’on dit.</p>
+        <lg>
+          <l n="16">Malheur à toi, pays dont le roi est un gamin
+            <lb/>et dont les princes festoient dès le matin !</l>
+          <l n="17">Heureux es-tu, pays dont le roi est de souche noble
+            <lb/>et dont les princes festoient en temps voulu,
+            <lb/>pour prendre des forces et non pour boire !</l>
+          <l n="18">Avec deux bras paresseux, la poutre cède,
+            <lb/>quand les mains se relâchent, il pleut dans la maison.</l>
+          <l n="19">Pour se divertir, on fait un repas,
+            <lb/>et le vin réjouit la vie,
+            <lb/>et l’argent répond à tout.</l>
+          <l n="20">Ne maudis pas le roi dans ton for intérieur,
+            <lb/>ne maudis pas le riche même en ta chambre à coucher,
+            <lb/>car l’oiseau du ciel en emporte le bruit,
+            <lb/>et la bête ailée fera connaître ce qu’on dit.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 11</head>
         <label>Trop de prudence nuit</label>
-        <p n="1">Lance ton pain à la surface des eaux,
-          <lb/>car à la longue tu le retrouveras.</p>
-        <p n="2">Donne une part à sept ou même à huit personnes,
-          <lb/>car tu ne sais pas quel malheur peut arriver sur la terre.</p>
-        <p n="3">Si les nuages se remplissent,
-          <lb/>ils déversent la pluie sur la terre ;
-          <lb/>qu’un arbre tombe au sud aussi bien qu’au nord,
-          <lb/>à l’endroit où il est tombé, il reste.</p>
-        <p n="4">Qui observe le vent ne sème pas,
-          <lb/>qui regarde les nuages ne moissonne pas.</p>
-        <p n="5">De même que tu ignores le cheminement du souffle vital,
-          <lb/>comme celui de l’ossification dans le ventre d’une femme enceinte,
-          <lb/>ainsi tu ne peux connaître l’œuvre de Dieu,
-          <lb/>Lui qui fait toutes choses.</p>
-        <p n="6">Le matin, sème ta semence,
-          <lb/>et le soir, ne laisse pas de repos à ta main,
-          <lb/>car tu ne sais pas, de l’une ou de l’autre activité, celle qui convient, ou si toutes deux sont également bonnes.</p>
+        <lg>
+          <l n="1">Lance ton pain à la surface des eaux,
+            <lb/>car à la longue tu le retrouveras.</l>
+          <l n="2">Donne une part à sept ou même à huit personnes,
+            <lb/>car tu ne sais pas quel malheur peut arriver sur la terre.</l>
+          <l n="3">Si les nuages se remplissent,
+            <lb/>ils déversent la pluie sur la terre ;
+            <lb/>qu’un arbre tombe au sud aussi bien qu’au nord,
+            <lb/>à l’endroit où il est tombé, il reste.</l>
+          <l n="4">Qui observe le vent ne sème pas,
+            <lb/>qui regarde les nuages ne moissonne pas.</l>
+          <l n="5">De même que tu ignores le cheminement du souffle vital,
+            <lb/>comme celui de l’ossification dans le ventre d’une femme enceinte,
+            <lb/>ainsi tu ne peux connaître l’œuvre de Dieu,
+            <lb/>Lui qui fait toutes choses.</l>
+          <l n="6">Le matin, sème ta semence,
+            <lb/>et le soir, ne laisse pas de repos à ta main,
+            <lb/>car tu ne sais pas, de l’une ou de l’autre activité, celle qui convient, ou si toutes deux sont également bonnes.</l>
+        </lg>
         <label>Jouir de la vie avec retenue</label>
-        <p n="7">Douce est la lumière,
-          <lb/>c’est un plaisir pour les yeux de voir le soleil.</p>
-        <p n="8">Si l’homme vit de nombreuses années,
-          <lb/>qu’il se réjouisse en elles toutes,
-          <lb/>mais qu’il se souvienne que les jours sombres sont nombreux,
-          <lb/>que tout ce qui vient est vanité.</p>
-        <p n="9">Réjouis-toi, jeune homme, dans ta jeunesse,
-          <lb/>que ton cœur soit heureux aux jours de ton adolescence,
-          <lb/>marche selon les voies de ton cœur
-          <lb/>et selon la vision de tes yeux.
-          <lb/>Mais sache que pour tout cela,
-          <lb/>Dieu te fera comparaître en jugement.</p>
-        <p n="10">Eloigne de ton cœur l’affliction,
-          <lb/>écarte de ta chair le mal,
-          <lb/>car la jeunesse et l’aurore de la vie sont vanité.</p>
+        <lg>
+          <l n="7">Douce est la lumière,
+            <lb/>c’est un plaisir pour les yeux de voir le soleil.</l>
+          <l n="8">Si l’homme vit de nombreuses années,
+            <lb/>qu’il se réjouisse en elles toutes,
+            <lb/>mais qu’il se souvienne que les jours sombres sont nombreux,
+            <lb/>que tout ce qui vient est vanité.</l>
+        </lg>
+        <lg>
+          <l n="9">Réjouis-toi, jeune homme, dans ta jeunesse,
+            <lb/>que ton cœur soit heureux aux jours de ton adolescence,
+            <lb/>marche selon les voies de ton cœur
+            <lb/>et selon la vision de tes yeux.
+            <lb/>Mais sache que pour tout cela,
+            <lb/>Dieu te fera comparaître en jugement.</l>
+          <l n="10">Eloigne de ton cœur l’affliction,
+            <lb/>écarte de ta chair le mal,
+            <lb/>car la jeunesse et l’aurore de la vie sont vanité.</l>
+        </lg>
       </div>
-      <div subtype="level1">
+      <div>
         <head>Chapitre 12</head>
         <label>La vieillesse et la mort</label>
-        <p n="1">Et souviens-toi de ton Créateur
-          <lb/>aux jours de ton adolescence,
-          <lb/>– avant que ne viennent les mauvais jours
-          <lb/>et que n’arrivent les années dont tu diras :
-          <lb/>« Je n’y ai aucun plaisir »,</p>
-        <p n="2">– avant que ne s’assombrissent le soleil et la lumière
-          <lb/>et la lune et les étoiles,
-          <lb/>et que les nuages ne reviennent, puis la pluie,</p>
-        <p n="3">au jour où tremblent les gardiens de la maison,
-          <lb/>où se courbent les hommes vigoureux,
-          <lb/>où s’arrêtent celles qui meulent, trop peu nombreuses,
-          <lb/>où perdent leur éclat celles qui regardent par la fenêtre,</p>
-        <p n="4">quand les battants se ferment sur la rue,
-          <lb/>tandis que tombe la voix de la meule,
-          <lb/>quand on se lève au chant de l’oiseau
-          <lb/>et que les vocalises s’éteignent ;</p>
-        <p n="5">alors, on a peur de la montée,
-          <lb/>on a des frayeurs en chemin,
-          <lb/>tandis que l’amandier est en fleur,
-          <lb/>que la sauterelle s’alourdit
-          <lb/>et que le fruit du câprier éclate ;
-          <lb/>alors que l’homme s’en va vers sa maison d’éternité,
-          <lb/>et que déjà les pleureuses rôdent dans la rue ;</p>
-        <p n="6">– avant que ne se détache le fil argenté
-          <lb/>et que la coupe d’or ne se brise,
-          <lb/>que la jarre ne se casse à la fontaine
-          <lb/>et qu’à la citerne la poulie ne se brise,</p>
-        <p n="7">– avant que la poussière ne retourne à la terre, selon ce qu’elle était,
-          <lb/>et que le souffle ne retourne à Dieu qui l’avait donné.</p>
+        <lg>
+          <l n="1">Et souviens-toi de ton Créateur
+            <lb/>aux jours de ton adolescence,
+            <lb/>– avant que ne viennent les mauvais jours
+            <lb/>et que n’arrivent les années dont tu diras :
+            <lb/>« Je n’y ai aucun plaisir »,</l>
+          <l n="2">– avant que ne s’assombrissent le soleil et la lumière
+            <lb/>et la lune et les étoiles,
+            <lb/>et que les nuages ne reviennent, puis la pluie,</l>
+          <l n="3">au jour où tremblent les gardiens de la maison,
+            <lb/>où se courbent les hommes vigoureux,
+            <lb/>où s’arrêtent celles qui meulent, trop peu nombreuses,
+            <lb/>où perdent leur éclat celles qui regardent par la fenêtre,</l>
+          <l n="4">quand les battants se ferment sur la rue,
+            <lb/>tandis que tombe la voix de la meule,
+            <lb/>quand on se lève au chant de l’oiseau
+            <lb/>et que les vocalises s’éteignent ;</l>
+          <l n="5">alors, on a peur de la montée,
+            <lb/>on a des frayeurs en chemin,
+            <lb/>tandis que l’amandier est en fleur,
+            <lb/>que la sauterelle s’alourdit
+            <lb/>et que le fruit du câprier éclate ;
+            <lb/>alors que l’homme s’en va vers sa maison d’éternité,
+            <lb/>et que déjà les pleureuses rôdent dans la rue ;</l>
+          <l n="6">– avant que ne se détache le fil argenté
+            <lb/>et que la coupe d’or ne se brise,
+            <lb/>que la jarre ne se casse à la fontaine
+            <lb/>et qu’à la citerne la poulie ne se brise,</l>
+          <l n="7">– avant que la poussière ne retourne à la terre, selon ce qu’elle était,
+            <lb/>et que le souffle ne retourne à Dieu qui l’avait donné.</l>
+        </lg>
         <label>Appendice</label>
-        <p n="8">Vanité des vanités, a dit le Qohéleth, tout est vanité.</p>
-        <p n="9">Ce qui ajoute à la sagesse de Qohéleth,
-          <lb/>c’est qu’il a encore enseigné la science au peuple ;
-          <lb/>il a pesé, examiné, ajusté un grand nombre de proverbes.</p>
-        <p n="10">Qohéleth s’est appliqué à trouver des paroles plaisantes
-          <lb/>dont la teneur exacte est ici transcrite :
-          <lb/>ce sont les paroles authentiques.</p>
-        <p n="11">Les paroles des sages sont comme des aiguillons,
-          <lb/>les auteurs des recueils sont des jalons bien plantés ;
-          <lb/>tel est le don d’un berger unique.</p>
-        <p n="12">Garde-toi, mon fils, d’y ajouter :
-          <lb/>à multiplier les livres, il n’y a pas de limites,
-          <lb/>et à beaucoup étudier, le corps s’épuise.</p>
-        <p n="13">Fin du discours : Tout a été entendu.
-          <lb/>Crains Dieu et observe ses commandements,
-          <lb/>car c’est là tout l’homme :</p>
-        <p n="14">Dieu fera venir toute œuvre en jugement
-          <lb/>sur tout ce qu’elle recèle de bon ou de mauvais.</p>
+        <l n="8">Vanité des vanités, a dit le Qohéleth, tout est vanité.</l>
+        <lg>
+          <l n="9">Ce qui ajoute à la sagesse de Qohéleth,
+            <lb/>c’est qu’il a encore enseigné la science au peuple ;
+            <lb/>il a pesé, examiné, ajusté un grand nombre de proverbes.</l>
+          <l n="10">Qohéleth s’est appliqué à trouver des paroles plaisantes
+            <lb/>dont la teneur exacte est ici transcrite :
+            <lb/>ce sont les paroles authentiques.</l>
+          <l n="11">Les paroles des sages sont comme des aiguillons,
+            <lb/>les auteurs des recueils sont des jalons bien plantés ;
+            <lb/>tel est le don d’un berger unique.</l>
+          <l n="12">Garde-toi, mon fils, d’y ajouter :
+            <lb/>à multiplier les livres, il n’y a pas de limites,
+            <lb/>et à beaucoup étudier, le corps s’épuise.</l>
+          <l n="13">Fin du discours : Tout a été entendu.
+            <lb/>Crains Dieu et observe ses commandements,
+            <lb/>car c’est là tout l’homme :</l>
+        </lg>
+        <l n="14">Dieu fera venir toute œuvre en jugement
+          <lb/>sur tout ce qu’elle recèle de bon ou de mauvais.</l>
         <p/>
       </div>
     </body>
