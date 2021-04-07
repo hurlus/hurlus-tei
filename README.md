@@ -32,6 +32,7 @@ qui se fait dans le navigateur.
 1. [lafargue1910_retraites.xml](https://hurlus.github.io/hurlus-tei/lafargue1910_retraites.xml)
 1. [louis-xiv1715_memoires.xml](https://hurlus.github.io/hurlus-tei/louis-xiv1715_memoires.xml)
 1. [luxemburg1915_socdem.xml](https://hurlus.github.io/hurlus-tei/luxemburg1915_socdem.xml)
+1. [michel-louise1886_memoires.xml](https://hurlus.github.io/hurlus-tei/michel-louise1886_memoires.xml)
 1. [montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/hurlus-tei/montesquieu1721_lettres-persanes.xml)
 1. [montesquieu1734_rome.xml](https://hurlus.github.io/hurlus-tei/montesquieu1734_rome.xml)
 1. [montesquieu1758_esprit-lois.xml](https://hurlus.github.io/hurlus-tei/montesquieu1758_esprit-lois.xml)
