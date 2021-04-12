@@ -4,5 +4,5 @@
 /([^  ])([;:!?»])/$1 $2/ # Attention, abréviations, URL
 / ([;:!?»])/ $1/ # espace -> insécable (fiable)
 /([«]) /$1 / # espace -> insécable (fiable)
-/.../…/
+/\.\.\./…/
 
