@@ -43,6 +43,8 @@ qui se fait dans le navigateur.
 1. [montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/hurlus-tei/montesquieu1721_lettres-persanes.xml)
 1. [montesquieu1734_rome.xml](https://hurlus.github.io/hurlus-tei/montesquieu1734_rome.xml)
 1. [montesquieu1758_esprit-lois.xml](https://hurlus.github.io/hurlus-tei/montesquieu1758_esprit-lois.xml)
+1. [reclus1894_frere-paysan.xml](https://hurlus.github.io/hurlus-tei/reclus1894_frere-paysan.xml)
+1. [reclus1897_ideal-anarchique.xml](https://hurlus.github.io/hurlus-tei/reclus1897_ideal-anarchique.xml)
 1. [renan1863_vie-de-jesus.xml](https://hurlus.github.io/hurlus-tei/renan1863_vie-de-jesus.xml)
 1. [renan1870_allemagne.xml](https://hurlus.github.io/hurlus-tei/renan1870_allemagne.xml)
 1. [renan1870_monarchie-constitutionnelle.xml](https://hurlus.github.io/hurlus-tei/renan1870_monarchie-constitutionnelle.xml)
