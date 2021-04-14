@@ -8,15 +8,8 @@
         <title>Oppression et liberté</title>
         <author key="Weil, Simone (1909-1943)">Simone Weil</author>
       </titleStmt>
-      <editionStmt>
-        <edition>Algone</edition>
-        <respStmt>
-          <name xml:id="FG" ref="frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>2012 – Encodage TEI</resp>
-        </respStmt>
-      </editionStmt>
       <publicationStmt>
-        <date when="2012"/>
+        <publisher>hurlus.fr</publisher>
       </publicationStmt>
       <sourceDesc>
         <bibl>Simone Weil. <title>Oppression et liberté</title> [Texte écrit en 1934.]</bibl>
