@@ -46,36 +46,40 @@ qui se fait dans le navigateur.
 |37.|Latini, Brunetto|1267|Li livres dou tresor|[latini1267_tresor.xml](https://hurlus.github.io/hurlus-tei/latini1267_tresor.xml)|
 |38.|Louis 14|1715|Mémoires pour l’instruction du Dauphin|[louis-xiv1715_memoires.xml](https://hurlus.github.io/hurlus-tei/louis-xiv1715_memoires.xml)|
 |39.|Luxemburg, Rosa|1915|La crise de la social-démocratie (Brochure de Junius)|[luxemburg1915_socdem.xml](https://hurlus.github.io/hurlus-tei/luxemburg1915_socdem.xml)|
-|40.|Marinetti, Filippo Tommaso|1909|Manifeste du Futurisme|[marinetti1909_futurisme.xml](https://hurlus.github.io/hurlus-tei/marinetti1909_futurisme.xml)|
-|41.|Melville, Hermann||Moby Dick|[melville1851_mobydick.xml](https://hurlus.github.io/hurlus-tei/melville1851_mobydick.xml)|
-|42.|Michel, Louise|1886|Mémoires de Louise Michel écrits par elle-même|[michel-louise1886_memoires.xml](https://hurlus.github.io/hurlus-tei/michel-louise1886_memoires.xml)|
-|43.|Montesquieu, Charles-Louis de Secondat|1721|Lettres persanes|[montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/hurlus-tei/montesquieu1721_lettres-persanes.xml)|
-|44.|Montesquieu, Charles-Louis de Secondat|1734|Considérations sur les causes de la grandeur des Romains et de leur décadence|[montesquieu1734_rome.xml](https://hurlus.github.io/hurlus-tei/montesquieu1734_rome.xml)|
-|45.|Montesquieu, Charles-Louis de Secondat|1758|De l’esprit des lois|[montesquieu1758_esprit-lois.xml](https://hurlus.github.io/hurlus-tei/montesquieu1758_esprit-lois.xml)|
-|46.|Reclus, Élisée|1925|A mon Frère le paysan|[reclus1894_frere-paysan.xml](https://hurlus.github.io/hurlus-tei/reclus1894_frere-paysan.xml)|
-|47.|Reclus, Élisée|1914|L’évolution, la révolution et l’idéal anarchique|[reclus1897_ideal-anarchique.xml](https://hurlus.github.io/hurlus-tei/reclus1897_ideal-anarchique.xml)|
-|48.|Renan, Ernest|1863|Histoire des origines du christianisme. Livre premier. Vie de Jésus|[renan1863_vie-de-jesus.xml](https://hurlus.github.io/hurlus-tei/renan1863_vie-de-jesus.xml)|
-|49.|Renan, Ernest|1870|Ernest Renan et l’Allemagne.|[renan1870_allemagne.xml](https://hurlus.github.io/hurlus-tei/renan1870_allemagne.xml)|
-|50.|Renan, Ernest|1870|Monarchie constitutionnelle|[renan1870_monarchie-constitutionnelle.xml](https://hurlus.github.io/hurlus-tei/renan1870_monarchie-constitutionnelle.xml)|
-|51.|Renan, Ernest|1882|Qu’est-ce qu’une nation ?|[renan1882_nation.xml](https://hurlus.github.io/hurlus-tei/renan1882_nation.xml)|
-|52.|Renan, Ernest|1883|La Réforme intellectuelle et morale de la France|[renan1883_reforme.xml](https://hurlus.github.io/hurlus-tei/renan1883_reforme.xml)|
-|53.|Renan, Ernest|1887|Discours et conférences|[renan1887_discours-et-conferences.xml](https://hurlus.github.io/hurlus-tei/renan1887_discours-et-conferences.xml)|
-|54.|Renan, Ernest|1890|L’avenir de la science|[renan1890_avenir-science.xml](https://hurlus.github.io/hurlus-tei/renan1890_avenir-science.xml)|
-|55.|Robespierre, Maximilien|1794|Rapport du 7 mai 1794|[robespierre1794_rapport.xml](https://hurlus.github.io/hurlus-tei/robespierre1794_rapport.xml)|
-|56.|Rousseau, Jean-Jacques||title: Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/hurlus-tei/rousseau1762_contrat-social.xml)|
-|57.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/hurlus-tei/salaville1798_homme-societe.xml)|
-|58.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/hurlus-tei/sieyes1788_essai-privileges.xml)|
-|59.|Siéyès, Emmanuel Joseph||Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/hurlus-tei/sieyes1789_tiers-etat.xml)|
-|60.|Sorel, Georges|1910|Réflexions sur la violence|[sorel1908_violence.xml](https://hurlus.github.io/hurlus-tei/sorel1908_violence.xml)|
-|61.|Stirner, Max|1844|L’unique et sa propriété (traduction Reclaire, 1899)|[stirner1844_unique-reclaire1899.xml](https://hurlus.github.io/hurlus-tei/stirner1844_unique-reclaire1899.xml)|
-|62.|Swift, Jonathan|1729|Modeste proposition pour empêcher les enfants des pauvres d’être à la charge de leurs parents ou de leur pays et pour les rendre utiles au public|[swift1729_proposition.xml](https://hurlus.github.io/hurlus-tei/swift1729_proposition.xml)|
-|63.|Taine, Hippolyte-Adolphe|1875|Les origines de la France contemporaine. L’Ancien Régime. Tomes I et II|[taine1875_france.xml](https://hurlus.github.io/hurlus-tei/taine1875_france.xml)|
-|64.|Tarde, Gabriel|1902|Psychologie économique|[tarde1902_psyeco.xml](https://hurlus.github.io/hurlus-tei/tarde1902_psyeco.xml)|
-|65.|Trotsky, Léon|1936|Où va la France ?|[trotsky1936_france.xml](https://hurlus.github.io/hurlus-tei/trotsky1936_france.xml)|
-|66.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/hurlus-tei/vico1827_michelet.xml)|
-|67.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/hurlus-tei/weil-simone1934_oppression-liberte.xml)|
-|68.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/hurlus-tei/weil-simone1934_reflexions.xml)|
-|69.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/hurlus-tei/weil-simone1942_attente-dieu.xml)|
-|70.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/hurlus-tei/weil-simone1942_condition-ouvriere.xml)|
-|71.|Weil, Simone||Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/hurlus-tei/weil-simone1943_ecrits.xml)|
-|72.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/hurlus-tei/weil-simone1949_enracinement.xml)|
+|40.|Malatesta, Errico|1931|Sur Pierre Kropotkine, souvenirs et critiques d’un de ses vieux amis|[malatesta1931_kropotkine.xml](https://hurlus.github.io/hurlus-tei/malatesta1931_kropotkine.xml)|
+|41.|Marinetti, Filippo Tommaso|1909|Manifeste du Futurisme|[marinetti1909_futurisme.xml](https://hurlus.github.io/hurlus-tei/marinetti1909_futurisme.xml)|
+|42.|Melville, Hermann||Moby Dick|[melville1851_mobydick.xml](https://hurlus.github.io/hurlus-tei/melville1851_mobydick.xml)|
+|43.|Michel, Louise|1886|Mémoires de Louise Michel écrits par elle-même|[michel-louise1886_memoires.xml](https://hurlus.github.io/hurlus-tei/michel-louise1886_memoires.xml)|
+|44.|Montesquieu, Charles-Louis de Secondat|1721|Lettres persanes|[montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/hurlus-tei/montesquieu1721_lettres-persanes.xml)|
+|45.|Montesquieu, Charles-Louis de Secondat|1734|Considérations sur les causes de la grandeur des Romains et de leur décadence|[montesquieu1734_rome.xml](https://hurlus.github.io/hurlus-tei/montesquieu1734_rome.xml)|
+|46.|Montesquieu, Charles-Louis de Secondat|1758|De l’esprit des lois|[montesquieu1758_esprit-lois.xml](https://hurlus.github.io/hurlus-tei/montesquieu1758_esprit-lois.xml)|
+|47.||1941|État français, loi du 4 octobre 1941, dite Charte du Travail|[petain1941_charte-travail.xml](https://hurlus.github.io/hurlus-tei/petain1941_charte-travail.xml)|
+|48.|Reclus, Élisée|1925|A mon Frère le paysan|[reclus1894_frere-paysan.xml](https://hurlus.github.io/hurlus-tei/reclus1894_frere-paysan.xml)|
+|49.|Reclus, Élisée|1914|L’évolution, la révolution et l’idéal anarchique|[reclus1897_ideal-anarchique.xml](https://hurlus.github.io/hurlus-tei/reclus1897_ideal-anarchique.xml)|
+|50.|Renan, Ernest|1863|Histoire des origines du christianisme. Livre premier. Vie de Jésus|[renan1863_vie-de-jesus.xml](https://hurlus.github.io/hurlus-tei/renan1863_vie-de-jesus.xml)|
+|51.|Renan, Ernest|1870|Ernest Renan et l’Allemagne.|[renan1870_allemagne.xml](https://hurlus.github.io/hurlus-tei/renan1870_allemagne.xml)|
+|52.|Renan, Ernest|1870|Monarchie constitutionnelle|[renan1870_monarchie-constitutionnelle.xml](https://hurlus.github.io/hurlus-tei/renan1870_monarchie-constitutionnelle.xml)|
+|53.|Renan, Ernest|1882|Qu’est-ce qu’une nation ?|[renan1882_nation.xml](https://hurlus.github.io/hurlus-tei/renan1882_nation.xml)|
+|54.|Renan, Ernest|1883|La Réforme intellectuelle et morale de la France|[renan1883_reforme.xml](https://hurlus.github.io/hurlus-tei/renan1883_reforme.xml)|
+|55.|Renan, Ernest|1887|Discours et conférences|[renan1887_discours-et-conferences.xml](https://hurlus.github.io/hurlus-tei/renan1887_discours-et-conferences.xml)|
+|56.|Renan, Ernest|1890|L’avenir de la science|[renan1890_avenir-science.xml](https://hurlus.github.io/hurlus-tei/renan1890_avenir-science.xml)|
+|57.|Robespierre, Maximilien|1794|Rapport du 7 mai 1794|[robespierre1794_rapport.xml](https://hurlus.github.io/hurlus-tei/robespierre1794_rapport.xml)|
+|58.|Rousseau, Jean-Jacques||title: Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/hurlus-tei/rousseau1762_contrat-social.xml)|
+|59.|Sade, Donatien Alphonse François de|1795|La philosophie dans le boudoir|[sade1795_philosophie-boudoir.xml](https://hurlus.github.io/hurlus-tei/sade1795_philosophie-boudoir.xml)|
+|60.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/hurlus-tei/salaville1798_homme-societe.xml)|
+|61.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/hurlus-tei/sieyes1788_essai-privileges.xml)|
+|62.|Siéyès, Emmanuel Joseph||Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/hurlus-tei/sieyes1789_tiers-etat.xml)|
+|63.|Sorel, Georges|1910|Réflexions sur la violence|[sorel1908_violence.xml](https://hurlus.github.io/hurlus-tei/sorel1908_violence.xml)|
+|64.|Stirner, Max|1844|L’unique et sa propriété (traduction Reclaire, 1899)|[stirner1844_unique-reclaire1899.xml](https://hurlus.github.io/hurlus-tei/stirner1844_unique-reclaire1899.xml)|
+|65.|Swift, Jonathan|1729|Modeste proposition pour empêcher les enfants des pauvres d’être à la charge de leurs parents ou de leur pays et pour les rendre utiles au public|[swift1729_proposition.xml](https://hurlus.github.io/hurlus-tei/swift1729_proposition.xml)|
+|66.|Taine, Hippolyte-Adolphe|1875|Les origines de la France contemporaine. L’Ancien Régime. Tomes I et II|[taine1875_france.xml](https://hurlus.github.io/hurlus-tei/taine1875_france.xml)|
+|67.|Tarde, Gabriel|1902|Psychologie économique|[tarde1902_psyeco.xml](https://hurlus.github.io/hurlus-tei/tarde1902_psyeco.xml)|
+|68.|Trotsky, Léon|1936|Où va la France ?|[trotsky1936_france.xml](https://hurlus.github.io/hurlus-tei/trotsky1936_france.xml)|
+|69.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/hurlus-tei/vico1827_michelet.xml)|
+|70.|Voltaire|1742|Le fanatisme|[voltaire1741_fanatisme.xml](https://hurlus.github.io/hurlus-tei/voltaire1741_fanatisme.xml)|
+|71.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/hurlus-tei/weil-simone1934_oppression-liberte.xml)|
+|72.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/hurlus-tei/weil-simone1934_reflexions.xml)|
+|73.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/hurlus-tei/weil-simone1942_attente-dieu.xml)|
+|74.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/hurlus-tei/weil-simone1942_condition-ouvriere.xml)|
+|75.|Weil, Simone||Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/hurlus-tei/weil-simone1943_ecrits.xml)|
+|76.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/hurlus-tei/weil-simone1949_enracinement.xml)|
