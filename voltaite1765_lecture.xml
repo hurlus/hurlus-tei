@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De l’horrible danger de la lecture</title>
+        <author key="Voltaire (1694, 1778)"/>
+      </titleStmt>
+      <editionStmt>
+        <edition>hurlus.fr</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>hurlus.fr</publisher>
+        <date when="2021"/>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><ref target="https://fr.wikisource.org/wiki/De_l’horrible_danger_de_la_lecture">https://fr.wikisource.org/wiki/De_l%E2%80%99horrible_danger_de_la_lecture</ref></bibl>
+        <bibl><emph>Œuvres complètes de Voltaire</emph>, Texte établi par Louis Moland, Garnier, 1883.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="1765"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>De l’horrible danger de la lecture</head>
+      <p>Nous Joussouf-Chéribi, par la grâce de Dieu mouphti du Saint-Empire ottoman, lumière des lumières, élu entre les élus, à tous les fidèles qui ces présentes verront, sottise et bénédiction.</p>
+      <p>Comme ainsi soit que Saïd-Effendi, ci-devant ambassadeur de la Sublime-Porte vers un petit État nommé <emph>Frankrom</emph><note place="bottom">Ce mot, composé de deux mots allemands, désigne à peu près cette portion de la France voisine du golfe appelé anciennement <emph>Gallicus sinus</emph>, et plus particulièrement soumise à la domination romaine. Mais la partie se prend ici pour le tout ; et peut-être faut-il lire, au lieu de <emph>Frankrom</emph>, le mot anglais <emph>Frenchdom</emph>, qui signifie <emph>royaume de France.</emph> (Cl.)</note>, situé entre l’Espagne et l’Italie, a rapporté parmi nous le pernicieux usage de l’imprimerie<note place="bottom">On imprima à Constantinople dès la fin du xve siècle. Toderini cite, d’après Wolf, un livre de <emph>Leçon des enfants, ou Lexique hébraïque</emph>, imprimé dans cette ville en 1488. Mais l’imprimerie turque n’y date que de 1726. On en doit l’établissement à Saïd-Effendi, qui, en 1721, avait, en qualité de secrétaire d’ambassade, accompagné Mehemet-Effendi, son père, ambassadeur à la cour de France, et qui y fut lui-même ambassadeur en 1741. Au moment où Voltaire écrivait, l’imprimerie turque était depuis huit ans entièrement anéantie à Constantinople, et ne fut relevée qu’en 1784. (B.)</note>, ayant consulté sur cette nouveauté nos vénérables frères les cadis et imans de la ville impériale de Stamboul, et surtout les fakirs connus par leur zèle contre l’esprit, il a semblé bon à Mahomet et à nous de condamner, proscrire, anathématiser ladite infernale invention de l’imprimerie, pour les causes ci-dessous énoncées.</p>
+      <p>1° Cette facilité de comuniquer ses pensées tend évidemment à dissiper l’ignorance, qui est la gardienne et la sauvegarde des États bien policés.</p>
+      <p>2° Il est à craindre que, parmi les livres apportés d’Occident, il ne s’en trouve quelques-uns sur l’agriculture et sur les moyens de perfectionner les arts mécaniques, lesquels ouvrages pourraient à la longue, ce qu’à Dieu ne plaise, réveiller le génie de nos cultivateurs et de nos manufacturiers, exciter leur industrie, augmenter leurs richesses, et leur inspirer un jour quelque élévation d’âme, quelque amour du bien public, sentiments absolument opposés à la saine doctrine.</p>
+      <p>3° Il arriverait à la fin que nous aurions des livres d’histoire dégagés du merveilleux qui entretient la nation dans une heureuse stupidité. On aurait dans ces livres l’imprudence de rendre justice aux bonnes et aux mauvaises actions, et de recommander l’équité et l’amour de la patrie, ce qui est visiblement contraire aux droits de notre place.</p>
+      <p>4° Il se pourrait, dans la suite des temps, que de misérables philosophes, sous le prétexte spécieux, mais punissable, d’éclairer les hommes et de les rendre meilleurs, viendraient nous enseigner des vertus dangereuses dont le peuple ne doit jamais avoir de connaissance.</p>
+      <p>5° Ils pourraient, en augmentant le respect qu’ils ont pour Dieu, et en imprimant scandaleusement qu’il remplit tout de sa présence, diminuer le nombre des pèlerins de la Mecque, au grand détriment du salut des âmes.</p>
+      <p>6° Il arriverait sans doute qu’à force de lire les auteurs occidentaux qui ont traité des maladies contagieuses, et de la manière de les prévenir, nous serions assez malheureux pour nous garantir de la peste, ce qui serait un attentat énorme contre les ordres de la Providence.</p>
+      <p>À ces causes et autres, pour l’édification des fidèles et pour le bien de leurs âmes, nous leur défendons de jamais lire aucun livre, sous peine de damnation éternelle. Et, de peur que la tentation diabolique ne leur prenne de s’instruire, nous défendons aux pères et aux mères d’enseigner à lire à leurs enfants. Et, pour prévenir toute contravention à notre ordonnance, nous leur défendons expressément de penser, sous les mêmes peines ; enjoignons à tous les vrais croyants de dénoncer à notre officialité quiconque aurait prononcé quatre phrases liées ensemble, desquelles on pourrait inférer un sens clair et net. Ordonnons que dans toutes les conversations on ait à se servir de termes qui ne signifient rien, selon l’ancien usage de la Sublime-Porte.</p>
+      <p>Et pour empêcher qu’il n’entre quelque pensée en contrebande dans la sacrée ville impériale, commettons spécialement le premier médecin de Sa Hautesse<note place="bottom">
+          <p>Van Swieten, premier médecin de l’impératrice-reine, voulut se mêler de la médecine des âmes, et se fit donner l’emploi d’empêcher les bons livres français de pénétrer dans la ville de Vienne. Personne n’eût pu prévoir alors que Vienne donnerait, vingt ans après, à l’Europe catholique, l’exemple de la tolérance, de la liberté de la presse, de la destruction des abus de l’autorité ecclésiastique, enfin de la réforme du clergé.</p>
+          <p>Les ouvrages de M. de Voltaire étaient le principal objet de la sévérité de Van Swieten, qui haïssait l’inoculation encore plus que la philosophie. Cependant plusieurs personnes de la famille impériale étant mortes entre ses mains de la petite vérole, il ne put empêcher que l’inoculation ne s’introduisît sous ses yeux dans le palais de Vienne, ainsi que les lumières qui ont produit une si étonnante révolution. (K.) — Van Swieten (Gérard) était né à Leyde le 7 mai 1700, et mourut le 18 juin 1772. Voltaire lui a consacré quelques vers peu flatteurs, en 1771, dans son <emph>Épître au roi de Danemark</emph> : voyez tome X. Le souverain dont les éditeurs de Kehl parlent avec éloge dans leur note est Joseph II.</p></note>, né dans un marais de l’Occident septentrional ; lequel médecin, ayant déjà tué quatre personnes augustes<note place="bottom">Ces quatre personnes augustes sont : <emph>Charles-Joseph-Emmanuel</emph>, fils de l’empereur Étienne-François, né en 1745, mort le 18 janvier 1761 ; <emph>Jeanne-Gabrielle-Joséphine</emph> ou <emph>Marie-Jeanne-Gabrielle</emph>, née en 1750, morte le 23 décembre 1762 ; <emph>Marie-Christine</emph>, née et morte le 22 novembre 1763 ; et <emph>Marie-Élisabeth</emph> de Parme, femme du prince impérial, depuis Joseph II, morte de la petite vérole le 27 novembre 1763. (B.)</note> de la famille ottomane, est intéressé plus que personne à prévenir toute introduction de connaissances dans le pays ; lui donnons pouvoir, par ces présentes, de faire saisir toute idée qui se présenterait par écrit ou de bouche aux portes de la ville, et nous amener ladite idée pieds et poings liés, pour lui être infligé par nous tel châtiment qu’il nous plaira.</p>
+      <p>Donné dans notre palais de la stupidité, le 7 de la lune de Muharem, l’an 1143 de l’hégire<note place="bottom">Correspondant au 23 juillet 1730.</note>.</p>
+      <p rend="center">fin de l’horrible danger, etc.</p>
+    </body>
+  </text>
+</TEI>
