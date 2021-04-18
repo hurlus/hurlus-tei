@@ -5,7 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bible, l’Ecclésiaste</title>
+        <title>l’Ecclésiaste</title>
+        <author key="Bible"/>
       </titleStmt>
       <editionStmt>
         <edition>hurlus.fr</edition>
