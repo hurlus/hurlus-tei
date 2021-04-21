@@ -33,7 +33,7 @@ qui se fait dans le navigateur.
       $teidoc = new Teidoc($srcfile);
       $meta = $teidoc->meta();
       $readme .= "|$i.|".$meta['byline'].'|'.$meta['date'].'|'.$meta['title'];
-      $readme .= "|[$name.xml](https://hurlus.github.io/hurlus-tei/$name.xml)";
+      $readme .= "|[$name.xml](https://hurlus.github.io/tei/$name.xml)";
       $readme .= "|\n";
       $i++;
     }
