@@ -27,16 +27,17 @@ qui se fait dans le navigateur.
 | -: | :----- | ---: | :---- | ------: |
 ";
     $glob = dirname(__FILE__)."/*.xml";
-    $i = 1;
+    $i = 0;
     foreach (glob($glob) as $srcfile) {
+      $i++;
       $name = pathinfo($srcfile,  PATHINFO_FILENAME);
       $teidoc = new Teidoc($srcfile);
       $meta = $teidoc->meta();
       $readme .= "|$i.|".$meta['byline'].'|'.$meta['date'].'|'.$meta['title'];
       $readme .= "|[$name.xml](https://hurlus.github.io/tei/$name.xml)";
       $readme .= "|\n";
-      $i++;
     }
+    echo $i, " textes\n";
     return $readme;
   }
 }
