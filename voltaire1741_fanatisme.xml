@@ -48,16 +48,10 @@
           <titlePart type="sub">ou MAHOMET LE PROPHÈTE.</titlePart>
           <titlePart type="sub">TRAGÉDIE.</titlePart>
         </docTitle>
+        <docAuthor id="VOLTAIRE" bio="voltaire">PAR M<hi rend="sup">R</hi>. DE VOLTAIRE</docAuthor>
+        <docImprint><emph>À AMSTERDAM</emph>,
+          <lb/>chez ESTIENNE LEDET et COMPAGNIE</docImprint>
         <docDate value="1753">M DCC LIII.</docDate>
-        <docAuthor id="VOLTAIRE" bio="voltaire">PAAR MR DE VOLTAIRE</docAuthor>
-        <docImprint>
-          <privilege id="17**-**-**"/>
-          <imprimeur id="LEDET">À AMSTERDAM, chez ESTIENNE LEDET et COMPAGNIE</imprimeur>
-          <acheveImprime id="17**-**-**"/>
-        </docImprint>
-        <performance>
-        <premiere date="1742-08-09" location="Théâtre de la rue des Fossés Saint-Germain">représentée, pour la première fois à Lille en avril 1741 et à Paris, le 8 septembre 1742 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
-      </performance>
       </titlePage>
       <div type="preface">
         <head>AVIS DE L’ÉDITEUR</head>
@@ -144,7 +138,7 @@
           <castItem><role xml:id="TROUPEDEMECQUOIS">TROUPE DE MÉCQUOIS</role>.</castItem>
           <castItem><role xml:id="TROUPEDEMUSULMANS">TROUPE DE MUSULMANS</role>.</castItem>
         </castList>
-        <set location="La Mecque" country="Arabie Saoudite" periode="VIIème" link="">La scène est à la Mecque.</set>
+        <stage>La scène est à la Mecque.</stage>
       </div>
     </front>
     <body>
