@@ -93,7 +93,7 @@ qui se fait dans le navigateur.
 |84.|Sade, Donatien Alphonse François de|1795|La philosophie dans le boudoir|[sade1795_philosophie-boudoir.xml](https://hurlus.github.io/tei/sade1795_philosophie-boudoir.xml)|
 |85.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/tei/salaville1798_homme-societe.xml)|
 |86.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/tei/sieyes1788_essai-privileges.xml)|
-|87.|Siéyès, Emmanuel Joseph||Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/tei/sieyes1789_tiers-etat.xml)|
+|87.|Siéyès, Emmanuel Joseph|1789|Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/tei/sieyes1789_tiers-etat.xml)|
 |88.|Sorel, Georges|1910|Réflexions sur la violence|[sorel1908_violence.xml](https://hurlus.github.io/tei/sorel1908_violence.xml)|
 |89.|Stirner, Max|1844|L’unique et sa propriété (traduction Reclaire, 1899)|[stirner1844_unique-reclaire1899.xml](https://hurlus.github.io/tei/stirner1844_unique-reclaire1899.xml)|
 |90.|Swift, Jonathan|1729|Modeste proposition pour empêcher les enfants des pauvres d’être à la charge de leurs parents ou de leur pays et pour les rendre utiles au public|[swift1729_proposition.xml](https://hurlus.github.io/tei/swift1729_proposition.xml)|
