@@ -27,26 +27,26 @@ qui se fait dans le navigateur.
 |18.|Debord, Guy|1988|Commentaires sur la société du spectacle|[debord1988_spectacle-commentaire.xml](https://hurlus.github.io/tei/debord1988_spectacle-commentaire.xml)|
 |19.|Déjacque, Joseph|1864|À bas les chefs|[dejacques1864_chefs.xml](https://hurlus.github.io/tei/dejacques1864_chefs.xml)|
 |20.|Descartes, René|1637|Discours de la méthode|[descartes_discours.xml](https://hurlus.github.io/tei/descartes_discours.xml)|
-|21.|d’Holbach, baron|1764|Essai sur l’art de ramper, à l’usage des Courtisans|[dholbach1764_ramper-art.xml](https://hurlus.github.io/tei/dholbach1764_ramper-art.xml)|
-|22.|Diderot, Denis|1773|Le neveu de Rameau|[diderot1773_neveu-rameau.xml](https://hurlus.github.io/tei/diderot1773_neveu-rameau.xml)|
-|23.|Durkheim, Émile|1895|Les règles de la méthode sociologique|[durkheim1895_regles-methode-sociologique.xml](https://hurlus.github.io/tei/durkheim1895_regles-methode-sociologique.xml)|
-|24.|Durkheim, Émile|1911|Jugements de valeur et jugements de réalité|[durkheim1911_jugements-de-valeur.xml](https://hurlus.github.io/tei/durkheim1911_jugements-de-valeur.xml)|
-|25.|Faguet, Émile|1906|L’anticléricalisme|[faguet1906_anticlericalisme.xml](https://hurlus.github.io/tei/faguet1906_anticlericalisme.xml)|
-|26.|Fanon, Frantz|1961|Les damnés de la terre|[fanon1961_damnes.xml](https://hurlus.github.io/tei/fanon1961_damnes.xml)|
-|27.|Fustel de Coulanges, Numa Denis|1898|La cité antique|[fustel-de-coulanges1898_cite-antique.xml](https://hurlus.github.io/tei/fustel-de-coulanges1898_cite-antique.xml)|
-|28.|Gide, André|1936|Retour de l’URSS|[gide1936_urss.xml](https://hurlus.github.io/tei/gide1936_urss.xml)|
-|29.|Gobineau, Arthur de|1855|Essai sur l'inégalité des races humaines|[gobineau1855_racisme.xml](https://hurlus.github.io/tei/gobineau1855_racisme.xml)|
-|30.|Gourmont, Remy de|1899|Esthétique de la langue française|[gourmont1899_esthetique-francais.xml](https://hurlus.github.io/tei/gourmont1899_esthetique-francais.xml)|
-|31.|Gramsci, Antonio|1935|Problèmes de civilisation et de culture|[gramsci1935_culture.xml](https://hurlus.github.io/tei/gramsci1935_culture.xml)|
-|32.|Guibert, Jacques-Antoine-Hippolyte de|1772|Essai général de tactique (extraits)|[guibert1772_tactique.xml](https://hurlus.github.io/tei/guibert1772_tactique.xml)|
-|33.|Guyau, Jean-Marie|1884|Les problèmes de l’esthétique contemporaine|[guyau1884_problemes-esthetique.xml](https://hurlus.github.io/tei/guyau1884_problemes-esthetique.xml)|
-|34.|Guyau, Jean-Marie|1885|Esquisse d’une morale sans obligation ni sanction|[guyau1885_morale.xml](https://hurlus.github.io/tei/guyau1885_morale.xml)|
-|35.|Guyau, Jean-Marie|1889|L’art au point de vue sociologique|[guyau1889_art.xml](https://hurlus.github.io/tei/guyau1889_art.xml)|
-|36.|Hitler, Adolph|1925|Mein Kampf|[hitler1925_moncombat.xml](https://hurlus.github.io/tei/hitler1925_moncombat.xml)|
-|37.|Holbach, Paul-Henri Thiry D’|1776|La Morale universelle ou Les Devoirs de l’homme fondés sur sa nature|[holbach1776_morale.xml](https://hurlus.github.io/tei/holbach1776_morale.xml)|
+|21.|Diderot, Denis|1773|Le neveu de Rameau|[diderot1773_neveu-rameau.xml](https://hurlus.github.io/tei/diderot1773_neveu-rameau.xml)|
+|22.|Durkheim, Émile|1895|Les règles de la méthode sociologique|[durkheim1895_regles-methode-sociologique.xml](https://hurlus.github.io/tei/durkheim1895_regles-methode-sociologique.xml)|
+|23.|Durkheim, Émile|1911|Jugements de valeur et jugements de réalité|[durkheim1911_jugements-de-valeur.xml](https://hurlus.github.io/tei/durkheim1911_jugements-de-valeur.xml)|
+|24.|Faguet, Émile|1906|L’anticléricalisme|[faguet1906_anticlericalisme.xml](https://hurlus.github.io/tei/faguet1906_anticlericalisme.xml)|
+|25.|Fanon, Frantz|1961|Les damnés de la terre|[fanon1961_damnes.xml](https://hurlus.github.io/tei/fanon1961_damnes.xml)|
+|26.|Fustel de Coulanges, Numa Denis|1898|La cité antique|[fustel-de-coulanges1898_cite-antique.xml](https://hurlus.github.io/tei/fustel-de-coulanges1898_cite-antique.xml)|
+|27.|Gide, André|1936|Retour de l’URSS|[gide1936_urss.xml](https://hurlus.github.io/tei/gide1936_urss.xml)|
+|28.|Gobineau, Arthur de|1855|Essai sur l'inégalité des races humaines|[gobineau1855_racisme.xml](https://hurlus.github.io/tei/gobineau1855_racisme.xml)|
+|29.|Gourmont, Remy de|1899|Esthétique de la langue française|[gourmont1899_esthetique-francais.xml](https://hurlus.github.io/tei/gourmont1899_esthetique-francais.xml)|
+|30.|Gramsci, Antonio|1935|Problèmes de civilisation et de culture|[gramsci1935_culture.xml](https://hurlus.github.io/tei/gramsci1935_culture.xml)|
+|31.|Guibert, Jacques-Antoine-Hippolyte de|1772|Essai général de tactique (extraits)|[guibert1772_tactique.xml](https://hurlus.github.io/tei/guibert1772_tactique.xml)|
+|32.|Guyau, Jean-Marie|1884|Les problèmes de l’esthétique contemporaine|[guyau1884_problemes-esthetique.xml](https://hurlus.github.io/tei/guyau1884_problemes-esthetique.xml)|
+|33.|Guyau, Jean-Marie|1885|Esquisse d’une morale sans obligation ni sanction|[guyau1885_morale.xml](https://hurlus.github.io/tei/guyau1885_morale.xml)|
+|34.|Guyau, Jean-Marie|1889|L’art au point de vue sociologique|[guyau1889_art.xml](https://hurlus.github.io/tei/guyau1889_art.xml)|
+|35.|Hitler, Adolph|1925|Mein Kampf|[hitler1925_moncombat.xml](https://hurlus.github.io/tei/hitler1925_moncombat.xml)|
+|36.|Holbach, Paul-Henri Dietrich|1764|Essai sur l’art de ramper, à l’usage des Courtisans|[holbach1764_ramper-art.xml](https://hurlus.github.io/tei/holbach1764_ramper-art.xml)|
+|37.|Holbach, Paul-Henri Dietrich|1776|La Morale universelle ou Les Devoirs de l’homme fondés sur sa nature|[holbach1776_morale.xml](https://hurlus.github.io/tei/holbach1776_morale.xml)|
 |38.|Hugo, Victor|1829|Le dernier jour d’un condamné|[hugo1829_dernier-jour-condamne.xml](https://hurlus.github.io/tei/hugo1829_dernier-jour-condamne.xml)|
 |39.|Hugo, Victor|1834|Claude Gueux|[hugo1834_claude-gueux.xml](https://hurlus.github.io/tei/hugo1834_claude-gueux.xml)|
-|40.|Hugo, Victor||Les Misérables|[hugo1862_miserables.xml](https://hurlus.github.io/tei/hugo1862_miserables.xml)|
+|40.|Hugo, Victor|1862|Les Misérables|[hugo1862_miserables.xml](https://hurlus.github.io/tei/hugo1862_miserables.xml)|
 |41.|Hugo, Victor|1866|Les travailleurs de la mer|[hugo1866_travailleurs-mer.xml](https://hurlus.github.io/tei/hugo1866_travailleurs-mer.xml)|
 |42.|Hugo, Victor|1874|Quatrevingt-Treize|[hugo1874_93.xml](https://hurlus.github.io/tei/hugo1874_93.xml)|
 |43.|Kollontaï, Alexandra|1909|Les problèmes de la prostitution|[kolontai1909_prostitution.xml](https://hurlus.github.io/tei/kolontai1909_prostitution.xml)|
@@ -89,7 +89,7 @@ qui se fait dans le navigateur.
 |80.|Renan, Ernest|1887|Discours et conférences|[renan1887_discours-et-conferences.xml](https://hurlus.github.io/tei/renan1887_discours-et-conferences.xml)|
 |81.|Renan, Ernest|1890|L’avenir de la science|[renan1890_avenir-science.xml](https://hurlus.github.io/tei/renan1890_avenir-science.xml)|
 |82.|Robespierre, Maximilien|1794|Rapport du 7 mai 1794|[robespierre1794_rapport.xml](https://hurlus.github.io/tei/robespierre1794_rapport.xml)|
-|83.|Rousseau, Jean-Jacques||title: Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/tei/rousseau1762_contrat-social.xml)|
+|83.|Rousseau, Jean-Jacques|1762|Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/tei/rousseau1762_contrat-social.xml)|
 |84.|Sade, Donatien Alphonse François de|1795|La philosophie dans le boudoir|[sade1795_philosophie-boudoir.xml](https://hurlus.github.io/tei/sade1795_philosophie-boudoir.xml)|
 |85.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/tei/salaville1798_homme-societe.xml)|
 |86.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/tei/sieyes1788_essai-privileges.xml)|

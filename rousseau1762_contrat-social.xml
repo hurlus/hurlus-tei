@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><anchor xml:id="_GoBack"/>title: Du contrat social</title>
+        <title>Du contrat social</title>
         <author>Rousseau, Jean-Jacques (1712-1778)</author>
       </titleStmt>
       <editionStmt/>
@@ -13,25 +13,27 @@
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Jean-Jacques Rousseau, <hi rend="i">Du contrat social, ou Principes du droit politique par J. J. Rousseau, citoyen de Genève</hi> [1762, éd. Du Peyrou/Moultou, <hi rend="i">Collection complète des œuvres de Rousseau</hi>, Genève, 1782, in-4, t. I, p. 187-360]. Document : <ref target="http://beq.ebooksgratuits.com/vents-word/Stendhal-rouge.doc">Site</ref> <ref target="http://www.rousseauonline.ch/tdm.php">Jean</ref>-Jacques Rousseau.</bibl>
+        <bibl>Jean-Jacques Rousseau, <hi rend="i">Du contrat social, ou Principes du droit politique par J. J. Rousseau, citoyen de Genève</hi> [1762, éd. Du Peyrou/Moultou, <hi rend="i">Collection complète des œuvres de Rousseau</hi>, Genève, 1782, in-4, t. I, p. 187-360]. Document : <ref target="http://www.rousseauonline.ch/tdm.php">rousseauonline.ch</ref></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1762"/>
+      </creation>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <div type="epigraph">
-        <p><hi rend="i">                         fœderis æquas <lb/>Dicamus leges </hi><lb/>                              <hi rend="sc">Æneid.</hi> <num>xi</num>.</p>
-      </div>
-    </front>
     <body>
       <div>
         <head>Avertissement</head>
+        <epigraph>
+          <l>fœderis æquas</l>
+          <l>Dicamus leges</l>
+          <bibl><hi rend="sc">Æneid.</hi> <num>xi</num>.</bibl>
+        </epigraph>
         <p>
           <hi rend="i">Ce petit Traité est extrait d’un Ouvrage plus étendu, entrepris autrefois sans avoir consulté mes forces, et abandonné depuis longtemps. Des divers morceaux qu’on pouvait tirer de ce qui était fait, celui-ci est le plus considérable, et m’a paru le moins indigne d’être offert au Public. Le reste n’est déjà plus.</hi>
         </p>
@@ -642,7 +644,7 @@
         <div>
           <head>Chapitre IX. <lb/>Conclusion.</head>
           <p>Après avoir posé les vrais principes du droit politique et tâché de fonder l’État sur sa base, il resterait à l’appuyer par ses relations externes ; ce qui comprendrait le droit des gens, le commerce, le droit de la guerre et les conquêtes, le droit public, les ligues, les négociations, les traités, etc. Mais tout cela forme un nouvel objet trop vaste pour ma courte vue ; j’aurais dû la fixer toujours plus près de moi.</p>
-          <p rend="center">FIN.</p>
+          <trailer>FIN.</trailer>
         </div>
       </div>
     </body>
