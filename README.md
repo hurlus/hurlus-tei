@@ -105,15 +105,16 @@ qui se fait dans le navigateur.
 |96.|Tarde, Gabriel|1902|Psychologie économique|[tarde1902_psyeco.xml](https://hurlus.github.io/tei/tarde1902_psyeco.xml)|
 |97.|Alexis de Tocqueville|1835|Mémoire sur le paupérisme|[tocqueville1835_pauperisme.xml](https://hurlus.github.io/tei/tocqueville1835_pauperisme.xml)|
 |98.|Trotsky, Léon|1936|Où va la France ?|[trotsky1936_france.xml](https://hurlus.github.io/tei/trotsky1936_france.xml)|
-|99.|Vaneigem, Raoul|1967|Traité de savoir-vivre à l’usage des jeunes générations|[vaneigem1967_savoir-vivre.xml](https://hurlus.github.io/tei/vaneigem1967_savoir-vivre.xml)|
-|100.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/tei/vico1827_michelet.xml)|
-|101.|Villiers de L’Isle-Adam, Comte de|1888|Histoires insolites|[villiers1888_histoires-insolites.xml](https://hurlus.github.io/tei/villiers1888_histoires-insolites.xml)|
-|102.|Voltaire|1742|Le fanatisme|[voltaire1741_fanatisme.xml](https://hurlus.github.io/tei/voltaire1741_fanatisme.xml)|
-|103.|Voltaire|1765|De l’horrible danger de la lecture|[voltaire1765_lecture.xml](https://hurlus.github.io/tei/voltaire1765_lecture.xml)|
-|104.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/tei/weil-simone1934_oppression-liberte.xml)|
-|105.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/tei/weil-simone1934_reflexions.xml)|
-|106.|Weil, Simone|1940|Note sur la suppression générale des partis politiques|[weil-simone1940_partis-suppression.xml](https://hurlus.github.io/tei/weil-simone1940_partis-suppression.xml)|
-|107.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/tei/weil-simone1942_attente-dieu.xml)|
-|108.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/tei/weil-simone1942_condition-ouvriere.xml)|
-|109.|Weil, Simone|1943|Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/tei/weil-simone1943_ecrits.xml)|
-|110.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/tei/weil-simone1949_enracinement.xml)|
+|99.|Vallès, Jules|1879|L’enfant|[valles1879_enfant.xml](https://hurlus.github.io/tei/valles1879_enfant.xml)|
+|100.|Vaneigem, Raoul|1967|Traité de savoir-vivre à l’usage des jeunes générations|[vaneigem1967_savoir-vivre.xml](https://hurlus.github.io/tei/vaneigem1967_savoir-vivre.xml)|
+|101.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/tei/vico1827_michelet.xml)|
+|102.|Villiers de L’Isle-Adam, Comte de|1888|Histoires insolites|[villiers1888_histoires-insolites.xml](https://hurlus.github.io/tei/villiers1888_histoires-insolites.xml)|
+|103.|Voltaire|1742|Le fanatisme|[voltaire1741_fanatisme.xml](https://hurlus.github.io/tei/voltaire1741_fanatisme.xml)|
+|104.|Voltaire|1765|De l’horrible danger de la lecture|[voltaire1765_lecture.xml](https://hurlus.github.io/tei/voltaire1765_lecture.xml)|
+|105.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/tei/weil-simone1934_oppression-liberte.xml)|
+|106.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/tei/weil-simone1934_reflexions.xml)|
+|107.|Weil, Simone|1940|Note sur la suppression générale des partis politiques|[weil-simone1940_partis-suppression.xml](https://hurlus.github.io/tei/weil-simone1940_partis-suppression.xml)|
+|108.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/tei/weil-simone1942_attente-dieu.xml)|
+|109.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/tei/weil-simone1942_condition-ouvriere.xml)|
+|110.|Weil, Simone|1943|Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/tei/weil-simone1943_ecrits.xml)|
+|111.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/tei/weil-simone1949_enracinement.xml)|
