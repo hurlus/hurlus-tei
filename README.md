@@ -48,73 +48,74 @@ qui se fait dans le navigateur.
 |39.|Holbach, Paul-Henri Dietrich|1776|La Morale universelle ou Les Devoirs de l’homme fondés sur sa nature|[holbach1776_morale.xml](https://hurlus.github.io/tei/holbach1776_morale.xml)|
 |40.|Hugo, Victor|1829|Le dernier jour d’un condamné|[hugo1829_dernier-jour-condamne.xml](https://hurlus.github.io/tei/hugo1829_dernier-jour-condamne.xml)|
 |41.|Hugo, Victor|1834|Claude Gueux|[hugo1834_claude-gueux.xml](https://hurlus.github.io/tei/hugo1834_claude-gueux.xml)|
-|42.|Hugo, Victor|1862|Les Misérables|[hugo1862_miserables.xml](https://hurlus.github.io/tei/hugo1862_miserables.xml)|
-|43.|Hugo, Victor|1866|Les travailleurs de la mer|[hugo1866_travailleurs-mer.xml](https://hurlus.github.io/tei/hugo1866_travailleurs-mer.xml)|
-|44.|Hugo, Victor|1874|Quatrevingt-Treize|[hugo1874_93.xml](https://hurlus.github.io/tei/hugo1874_93.xml)|
-|45.|Kollontaï, Alexandra|1909|Les problèmes de la prostitution|[kolontai1909_prostitution.xml](https://hurlus.github.io/tei/kolontai1909_prostitution.xml)|
-|46.|Kropotkin, Petr Alekseevič|1889|La morale anarchiste|[kropotkin1889_morale-anarchiste.xml](https://hurlus.github.io/tei/kropotkin1889_morale-anarchiste.xml)|
-|47.|La Boétie, Étienne de|1576|Discours de la servitude volontaire|[laboetie1562_servitude.xml](https://hurlus.github.io/tei/laboetie1562_servitude.xml)|
-|48.|La Bruyère, Jean de|1688|les caractères|[labruyere1688_caracteres.xml](https://hurlus.github.io/tei/labruyere1688_caracteres.xml)|
-|49.|Lafargue, Paul|1883|Le droit à la paresse : Réfutation du droit au travail de 1848|[lafargue1883_paresse.xml](https://hurlus.github.io/tei/lafargue1883_paresse.xml)|
-|50.|Lafargue, Paul|1885|La légende de Victor Hugo|[lafargue1885_hugo.xml](https://hurlus.github.io/tei/lafargue1885_hugo.xml)|
-|51.|Lafargue, Paul|1887|La religion du capital|[lafargue1887_religion-capital.xml](https://hurlus.github.io/tei/lafargue1887_religion-capital.xml)|
-|52.|Lafargue, Paul|1896|Les origines du romantisme : étude critique sur la période révolutionnaire|[lafargue1896_romantisme.xml](https://hurlus.github.io/tei/lafargue1896_romantisme.xml)|
-|53.|Lafargue, Paul|1910|Intervention contre la loi des retraites au congrès de la S.F.I.O.|[lafargue1910_retraites.xml](https://hurlus.github.io/tei/lafargue1910_retraites.xml)|
-|54.|La Rochefoucauld, François de|1665|Réflexions ou Sentences et maximes morales|[larochefoucauld1665_maximes.xml](https://hurlus.github.io/tei/larochefoucauld1665_maximes.xml)|
-|55.|Latini, Brunetto|1267|Li livres dou tresor|[latini1267_tresor.xml](https://hurlus.github.io/tei/latini1267_tresor.xml)|
-|56.|Lebon, Gustave|1905|Psychologie des foules|[lebon1905_foules.xml](https://hurlus.github.io/tei/lebon1905_foules.xml)|
-|57.|Lénine|1918|Sur l’infantilisme "de gauche" et les idées petites-bourgeoises|[lenine1918_infantilisme.xml](https://hurlus.github.io/tei/lenine1918_infantilisme.xml)|
-|58.|Lois|1685|Code noir|[loi1685_code-noir.xml](https://hurlus.github.io/tei/loi1685_code-noir.xml)|
-|59.|Lois|1941|État français, loi du 4 octobre 1941, dite Charte du Travail|[loi1941_charte-travail.xml](https://hurlus.github.io/tei/loi1941_charte-travail.xml)|
-|60.|London, Jack|1909|Le rêve de Debs|[london1909_reve-debs.xml](https://hurlus.github.io/tei/london1909_reve-debs.xml)|
-|61.|Louis 14|1715|Mémoires pour l’instruction du Dauphin|[louis-xiv1715_memoires.xml](https://hurlus.github.io/tei/louis-xiv1715_memoires.xml)|
-|62.|Luxemburg, Rosa|1915|La crise de la social-démocratie (Brochure de Junius)|[luxemburg1915_socdem.xml](https://hurlus.github.io/tei/luxemburg1915_socdem.xml)|
-|63.|Malatesta, Errico|1931|Sur Pierre Kropotkine, souvenirs et critiques d’un de ses vieux amis|[malatesta1931_kropotkine.xml](https://hurlus.github.io/tei/malatesta1931_kropotkine.xml)|
-|64.|Marinetti, Filippo Tommaso|1909|Manifeste du Futurisme|[marinetti1909_futurisme.xml](https://hurlus.github.io/tei/marinetti1909_futurisme.xml)|
-|65.|Marx, Karl ; Engels, Friedrich|1848|Le manifeste du parti communiste|[marx1848_manifeste.xml](https://hurlus.github.io/tei/marx1848_manifeste.xml)|
-|66.|Marx, Karl|1851|Le 18 Brumaire de Louis Bonaparte|[marx1851_18-brumaire.xml](https://hurlus.github.io/tei/marx1851_18-brumaire.xml)|
-|67.|Marx, Karl|1867|Le Capital. Livre I, Section I : Marchandise et monnaie|[marx1867_capital1-1.xml](https://hurlus.github.io/tei/marx1867_capital1-1.xml)|
-|68.|Melville, Hermann||Moby Dick|[melville1851_mobydick.xml](https://hurlus.github.io/tei/melville1851_mobydick.xml)|
-|69.|Michel, Louise|1886|Mémoires de Louise Michel écrits par elle-même|[michel-louise1886_memoires.xml](https://hurlus.github.io/tei/michel-louise1886_memoires.xml)|
-|70.|Molière|1666|Le médecin malgré lui|[moliere1666_medecin-malgre-lui.xml](https://hurlus.github.io/tei/moliere1666_medecin-malgre-lui.xml)|
-|71.|Montesquieu, Charles-Louis de Secondat|1721|Lettres persanes|[montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/tei/montesquieu1721_lettres-persanes.xml)|
-|72.|Montesquieu, Charles-Louis de Secondat|1734|Considérations sur les causes de la grandeur des Romains et de leur décadence|[montesquieu1734_rome.xml](https://hurlus.github.io/tei/montesquieu1734_rome.xml)|
-|73.|Montesquieu, Charles-Louis de Secondat|1758|De l’esprit des lois|[montesquieu1758_esprit-lois.xml](https://hurlus.github.io/tei/montesquieu1758_esprit-lois.xml)|
-|74.|Μottaz, Eugène|1903|Les Bourla-Papey et la Révolution vaudoise|[mottaz1903_boulapapey.xml](https://hurlus.github.io/tei/mottaz1903_boulapapey.xml)|
-|75.|Poe, Edgar Allan|1856|Histoires extraordinaires (traduction Baudelaire)|[poe1856_histoires1.xml](https://hurlus.github.io/tei/poe1856_histoires1.xml)|
-|76.|Reclus, Élisée|1925|A mon Frère le paysan|[reclus1894_frere-paysan.xml](https://hurlus.github.io/tei/reclus1894_frere-paysan.xml)|
-|77.|Reclus, Élisée|1914|L’évolution, la révolution et l’idéal anarchique|[reclus1897_ideal-anarchique.xml](https://hurlus.github.io/tei/reclus1897_ideal-anarchique.xml)|
-|78.|Renan, Ernest|1863|Histoire des origines du christianisme. Livre premier. Vie de Jésus|[renan1863_vie-de-jesus.xml](https://hurlus.github.io/tei/renan1863_vie-de-jesus.xml)|
-|79.|Renan, Ernest|1870|Ernest Renan et l’Allemagne.|[renan1870_allemagne.xml](https://hurlus.github.io/tei/renan1870_allemagne.xml)|
-|80.|Renan, Ernest|1870|Monarchie constitutionnelle|[renan1870_monarchie-constitutionnelle.xml](https://hurlus.github.io/tei/renan1870_monarchie-constitutionnelle.xml)|
-|81.|Renan, Ernest|1882|Qu’est-ce qu’une nation ?|[renan1882_nation.xml](https://hurlus.github.io/tei/renan1882_nation.xml)|
-|82.|Renan, Ernest|1883|La Réforme intellectuelle et morale de la France|[renan1883_reforme.xml](https://hurlus.github.io/tei/renan1883_reforme.xml)|
-|83.|Renan, Ernest|1887|Discours et conférences|[renan1887_discours-et-conferences.xml](https://hurlus.github.io/tei/renan1887_discours-et-conferences.xml)|
-|84.|Renan, Ernest|1890|L’avenir de la science|[renan1890_avenir-science.xml](https://hurlus.github.io/tei/renan1890_avenir-science.xml)|
-|85.|Robespierre, Maximilien|1794|Rapport du 7 mai 1794|[robespierre1794_rapport.xml](https://hurlus.github.io/tei/robespierre1794_rapport.xml)|
-|86.|Rousseau, Jean-Jacques|1762|Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/tei/rousseau1762_contrat-social.xml)|
-|87.|Sade, Donatien Alphonse François de|1795|La philosophie dans le boudoir|[sade1795_philosophie-boudoir.xml](https://hurlus.github.io/tei/sade1795_philosophie-boudoir.xml)|
-|88.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/tei/salaville1798_homme-societe.xml)|
-|89.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/tei/sieyes1788_essai-privileges.xml)|
-|90.|Siéyès, Emmanuel Joseph|1789|Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/tei/sieyes1789_tiers-etat.xml)|
-|91.|Sorel, Georges|1910|Réflexions sur la violence|[sorel1908_violence.xml](https://hurlus.github.io/tei/sorel1908_violence.xml)|
-|92.|Stirner, Max|1844|L’unique et sa propriété (traduction Reclaire, 1899)|[stirner1844_unique-reclaire1899.xml](https://hurlus.github.io/tei/stirner1844_unique-reclaire1899.xml)|
-|93.|Swift, Jonathan|1729|Modeste proposition pour empêcher les enfants des pauvres d’être à la charge de leurs parents ou de leur pays et pour les rendre utiles au public|[swift1729_proposition.xml](https://hurlus.github.io/tei/swift1729_proposition.xml)|
-|94.|Tacite|110|Les Annales (traduction Burnouf, 1859)|[tacite110_annales.xml](https://hurlus.github.io/tei/tacite110_annales.xml)|
-|95.|Taine, Hippolyte-Adolphe|1875|Les origines de la France contemporaine. L’Ancien Régime. Tomes I et II|[taine1875_france.xml](https://hurlus.github.io/tei/taine1875_france.xml)|
-|96.|Tarde, Gabriel|1902|Psychologie économique|[tarde1902_psyeco.xml](https://hurlus.github.io/tei/tarde1902_psyeco.xml)|
-|97.|Alexis de Tocqueville|1835|Mémoire sur le paupérisme|[tocqueville1835_pauperisme.xml](https://hurlus.github.io/tei/tocqueville1835_pauperisme.xml)|
-|98.|Trotsky, Léon|1936|Où va la France ?|[trotsky1936_france.xml](https://hurlus.github.io/tei/trotsky1936_france.xml)|
-|99.|Vallès, Jules|1879|L’enfant|[valles1879_enfant.xml](https://hurlus.github.io/tei/valles1879_enfant.xml)|
-|100.|Vaneigem, Raoul|1967|Traité de savoir-vivre à l’usage des jeunes générations|[vaneigem1967_savoir-vivre.xml](https://hurlus.github.io/tei/vaneigem1967_savoir-vivre.xml)|
-|101.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/tei/vico1827_michelet.xml)|
-|102.|Villiers de L’Isle-Adam, Comte de|1888|Histoires insolites|[villiers1888_histoires-insolites.xml](https://hurlus.github.io/tei/villiers1888_histoires-insolites.xml)|
-|103.|Voltaire|1742|Le fanatisme|[voltaire1741_fanatisme.xml](https://hurlus.github.io/tei/voltaire1741_fanatisme.xml)|
-|104.|Voltaire|1765|De l’horrible danger de la lecture|[voltaire1765_lecture.xml](https://hurlus.github.io/tei/voltaire1765_lecture.xml)|
-|105.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/tei/weil-simone1934_oppression-liberte.xml)|
-|106.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/tei/weil-simone1934_reflexions.xml)|
-|107.|Weil, Simone|1940|Note sur la suppression générale des partis politiques|[weil-simone1940_partis-suppression.xml](https://hurlus.github.io/tei/weil-simone1940_partis-suppression.xml)|
-|108.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/tei/weil-simone1942_attente-dieu.xml)|
-|109.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/tei/weil-simone1942_condition-ouvriere.xml)|
-|110.|Weil, Simone|1943|Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/tei/weil-simone1943_ecrits.xml)|
-|111.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/tei/weil-simone1949_enracinement.xml)|
+|42.|Hugo, Victor|1852|Napoléon le petit|[hugo1852_napoleon-petit.xml](https://hurlus.github.io/tei/hugo1852_napoleon-petit.xml)|
+|43.|Hugo, Victor|1862|Les Misérables|[hugo1862_miserables.xml](https://hurlus.github.io/tei/hugo1862_miserables.xml)|
+|44.|Hugo, Victor|1866|Les travailleurs de la mer|[hugo1866_travailleurs-mer.xml](https://hurlus.github.io/tei/hugo1866_travailleurs-mer.xml)|
+|45.|Hugo, Victor|1874|Quatrevingt-Treize|[hugo1874_93.xml](https://hurlus.github.io/tei/hugo1874_93.xml)|
+|46.|Kollontaï, Alexandra|1909|Les problèmes de la prostitution|[kolontai1909_prostitution.xml](https://hurlus.github.io/tei/kolontai1909_prostitution.xml)|
+|47.|Kropotkin, Petr Alekseevič|1889|La morale anarchiste|[kropotkin1889_morale-anarchiste.xml](https://hurlus.github.io/tei/kropotkin1889_morale-anarchiste.xml)|
+|48.|La Boétie, Étienne de|1576|Discours de la servitude volontaire|[laboetie1562_servitude.xml](https://hurlus.github.io/tei/laboetie1562_servitude.xml)|
+|49.|La Bruyère, Jean de|1688|les caractères|[labruyere1688_caracteres.xml](https://hurlus.github.io/tei/labruyere1688_caracteres.xml)|
+|50.|Lafargue, Paul|1883|Le droit à la paresse : Réfutation du droit au travail de 1848|[lafargue1883_paresse.xml](https://hurlus.github.io/tei/lafargue1883_paresse.xml)|
+|51.|Lafargue, Paul|1885|La légende de Victor Hugo|[lafargue1885_hugo.xml](https://hurlus.github.io/tei/lafargue1885_hugo.xml)|
+|52.|Lafargue, Paul|1887|La religion du capital|[lafargue1887_religion-capital.xml](https://hurlus.github.io/tei/lafargue1887_religion-capital.xml)|
+|53.|Lafargue, Paul|1896|Les origines du romantisme : étude critique sur la période révolutionnaire|[lafargue1896_romantisme.xml](https://hurlus.github.io/tei/lafargue1896_romantisme.xml)|
+|54.|Lafargue, Paul|1910|Intervention contre la loi des retraites au congrès de la S.F.I.O.|[lafargue1910_retraites.xml](https://hurlus.github.io/tei/lafargue1910_retraites.xml)|
+|55.|La Rochefoucauld, François de|1665|Réflexions ou Sentences et maximes morales|[larochefoucauld1665_maximes.xml](https://hurlus.github.io/tei/larochefoucauld1665_maximes.xml)|
+|56.|Latini, Brunetto|1267|Li livres dou tresor|[latini1267_tresor.xml](https://hurlus.github.io/tei/latini1267_tresor.xml)|
+|57.|Lebon, Gustave|1905|Psychologie des foules|[lebon1905_foules.xml](https://hurlus.github.io/tei/lebon1905_foules.xml)|
+|58.|Lénine|1918|Sur l’infantilisme "de gauche" et les idées petites-bourgeoises|[lenine1918_infantilisme.xml](https://hurlus.github.io/tei/lenine1918_infantilisme.xml)|
+|59.|Lois|1685|Code noir|[loi1685_code-noir.xml](https://hurlus.github.io/tei/loi1685_code-noir.xml)|
+|60.|Lois|1941|État français, loi du 4 octobre 1941, dite Charte du Travail|[loi1941_charte-travail.xml](https://hurlus.github.io/tei/loi1941_charte-travail.xml)|
+|61.|London, Jack|1909|Le rêve de Debs|[london1909_reve-debs.xml](https://hurlus.github.io/tei/london1909_reve-debs.xml)|
+|62.|Louis 14|1715|Mémoires pour l’instruction du Dauphin|[louis-xiv1715_memoires.xml](https://hurlus.github.io/tei/louis-xiv1715_memoires.xml)|
+|63.|Luxemburg, Rosa|1915|La crise de la social-démocratie (Brochure de Junius)|[luxemburg1915_socdem.xml](https://hurlus.github.io/tei/luxemburg1915_socdem.xml)|
+|64.|Malatesta, Errico|1931|Sur Pierre Kropotkine, souvenirs et critiques d’un de ses vieux amis|[malatesta1931_kropotkine.xml](https://hurlus.github.io/tei/malatesta1931_kropotkine.xml)|
+|65.|Marinetti, Filippo Tommaso|1909|Manifeste du Futurisme|[marinetti1909_futurisme.xml](https://hurlus.github.io/tei/marinetti1909_futurisme.xml)|
+|66.|Marx, Karl ; Engels, Friedrich|1848|Le manifeste du parti communiste|[marx1848_manifeste.xml](https://hurlus.github.io/tei/marx1848_manifeste.xml)|
+|67.|Marx, Karl|1851|Le 18 Brumaire de Louis Bonaparte|[marx1851_18-brumaire.xml](https://hurlus.github.io/tei/marx1851_18-brumaire.xml)|
+|68.|Marx, Karl|1867|Le Capital. Livre I, Section I : Marchandise et monnaie|[marx1867_capital1-1.xml](https://hurlus.github.io/tei/marx1867_capital1-1.xml)|
+|69.|Melville, Hermann||Moby Dick|[melville1851_mobydick.xml](https://hurlus.github.io/tei/melville1851_mobydick.xml)|
+|70.|Michel, Louise|1886|Mémoires de Louise Michel écrits par elle-même|[michel-louise1886_memoires.xml](https://hurlus.github.io/tei/michel-louise1886_memoires.xml)|
+|71.|Molière|1666|Le médecin malgré lui|[moliere1666_medecin-malgre-lui.xml](https://hurlus.github.io/tei/moliere1666_medecin-malgre-lui.xml)|
+|72.|Montesquieu, Charles-Louis de Secondat|1721|Lettres persanes|[montesquieu1721_lettres-persanes.xml](https://hurlus.github.io/tei/montesquieu1721_lettres-persanes.xml)|
+|73.|Montesquieu, Charles-Louis de Secondat|1734|Considérations sur les causes de la grandeur des Romains et de leur décadence|[montesquieu1734_rome.xml](https://hurlus.github.io/tei/montesquieu1734_rome.xml)|
+|74.|Montesquieu, Charles-Louis de Secondat|1758|De l’esprit des lois|[montesquieu1758_esprit-lois.xml](https://hurlus.github.io/tei/montesquieu1758_esprit-lois.xml)|
+|75.|Μottaz, Eugène|1903|Les Bourla-Papey et la Révolution vaudoise|[mottaz1903_boulapapey.xml](https://hurlus.github.io/tei/mottaz1903_boulapapey.xml)|
+|76.|Poe, Edgar Allan|1856|Histoires extraordinaires (traduction Baudelaire)|[poe1856_histoires1.xml](https://hurlus.github.io/tei/poe1856_histoires1.xml)|
+|77.|Reclus, Élisée|1925|A mon Frère le paysan|[reclus1894_frere-paysan.xml](https://hurlus.github.io/tei/reclus1894_frere-paysan.xml)|
+|78.|Reclus, Élisée|1914|L’évolution, la révolution et l’idéal anarchique|[reclus1897_ideal-anarchique.xml](https://hurlus.github.io/tei/reclus1897_ideal-anarchique.xml)|
+|79.|Renan, Ernest|1863|Histoire des origines du christianisme. Livre premier. Vie de Jésus|[renan1863_vie-de-jesus.xml](https://hurlus.github.io/tei/renan1863_vie-de-jesus.xml)|
+|80.|Renan, Ernest|1870|Ernest Renan et l’Allemagne.|[renan1870_allemagne.xml](https://hurlus.github.io/tei/renan1870_allemagne.xml)|
+|81.|Renan, Ernest|1870|Monarchie constitutionnelle|[renan1870_monarchie-constitutionnelle.xml](https://hurlus.github.io/tei/renan1870_monarchie-constitutionnelle.xml)|
+|82.|Renan, Ernest|1882|Qu’est-ce qu’une nation ?|[renan1882_nation.xml](https://hurlus.github.io/tei/renan1882_nation.xml)|
+|83.|Renan, Ernest|1883|La Réforme intellectuelle et morale de la France|[renan1883_reforme.xml](https://hurlus.github.io/tei/renan1883_reforme.xml)|
+|84.|Renan, Ernest|1887|Discours et conférences|[renan1887_discours-et-conferences.xml](https://hurlus.github.io/tei/renan1887_discours-et-conferences.xml)|
+|85.|Renan, Ernest|1890|L’avenir de la science|[renan1890_avenir-science.xml](https://hurlus.github.io/tei/renan1890_avenir-science.xml)|
+|86.|Robespierre, Maximilien|1794|Rapport du 7 mai 1794|[robespierre1794_rapport.xml](https://hurlus.github.io/tei/robespierre1794_rapport.xml)|
+|87.|Rousseau, Jean-Jacques|1762|Du contrat social|[rousseau1762_contrat-social.xml](https://hurlus.github.io/tei/rousseau1762_contrat-social.xml)|
+|88.|Sade, Donatien Alphonse François de|1795|La philosophie dans le boudoir|[sade1795_philosophie-boudoir.xml](https://hurlus.github.io/tei/sade1795_philosophie-boudoir.xml)|
+|89.|Salaville, Jean-Baptiste|1798|L’Homme et la Société|[salaville1798_homme-societe.xml](https://hurlus.github.io/tei/salaville1798_homme-societe.xml)|
+|90.|Siéyès, Emmanuel Joseph|1788|Essai sur les privilèges|[sieyes1788_essai-privileges.xml](https://hurlus.github.io/tei/sieyes1788_essai-privileges.xml)|
+|91.|Siéyès, Emmanuel Joseph|1789|Qu’est-ce que le Tiers-État ?|[sieyes1789_tiers-etat.xml](https://hurlus.github.io/tei/sieyes1789_tiers-etat.xml)|
+|92.|Sorel, Georges|1910|Réflexions sur la violence|[sorel1908_violence.xml](https://hurlus.github.io/tei/sorel1908_violence.xml)|
+|93.|Stirner, Max|1844|L’unique et sa propriété (traduction Reclaire, 1899)|[stirner1844_unique-reclaire1899.xml](https://hurlus.github.io/tei/stirner1844_unique-reclaire1899.xml)|
+|94.|Swift, Jonathan|1729|Modeste proposition pour empêcher les enfants des pauvres d’être à la charge de leurs parents ou de leur pays et pour les rendre utiles au public|[swift1729_proposition.xml](https://hurlus.github.io/tei/swift1729_proposition.xml)|
+|95.|Tacite|110|Les Annales (traduction Burnouf, 1859)|[tacite110_annales.xml](https://hurlus.github.io/tei/tacite110_annales.xml)|
+|96.|Taine, Hippolyte-Adolphe|1875|Les origines de la France contemporaine. L’Ancien Régime. Tomes I et II|[taine1875_france.xml](https://hurlus.github.io/tei/taine1875_france.xml)|
+|97.|Tarde, Gabriel|1902|Psychologie économique|[tarde1902_psyeco.xml](https://hurlus.github.io/tei/tarde1902_psyeco.xml)|
+|98.|Alexis de Tocqueville|1835|Mémoire sur le paupérisme|[tocqueville1835_pauperisme.xml](https://hurlus.github.io/tei/tocqueville1835_pauperisme.xml)|
+|99.|Trotsky, Léon|1936|Où va la France ?|[trotsky1936_france.xml](https://hurlus.github.io/tei/trotsky1936_france.xml)|
+|100.|Vallès, Jules|1879|L’enfant|[valles1879_enfant.xml](https://hurlus.github.io/tei/valles1879_enfant.xml)|
+|101.|Vaneigem, Raoul|1967|Traité de savoir-vivre à l’usage des jeunes générations|[vaneigem1967_savoir-vivre.xml](https://hurlus.github.io/tei/vaneigem1967_savoir-vivre.xml)|
+|102.|Vico, Giambattista|1827|Principes de la philosophie de l’histoire (trad. Michelet)|[vico1827_michelet.xml](https://hurlus.github.io/tei/vico1827_michelet.xml)|
+|103.|Villiers de L’Isle-Adam, Comte de|1888|Histoires insolites|[villiers1888_histoires-insolites.xml](https://hurlus.github.io/tei/villiers1888_histoires-insolites.xml)|
+|104.|Voltaire|1742|Le fanatisme|[voltaire1741_fanatisme.xml](https://hurlus.github.io/tei/voltaire1741_fanatisme.xml)|
+|105.|Voltaire|1765|De l’horrible danger de la lecture|[voltaire1765_lecture.xml](https://hurlus.github.io/tei/voltaire1765_lecture.xml)|
+|106.|Weil, Simone|1934|Oppression et liberté|[weil-simone1934_oppression-liberte.xml](https://hurlus.github.io/tei/weil-simone1934_oppression-liberte.xml)|
+|107.|Weil, Simone|1934|Réflexions sur les causes de la liberté et de l’oppression sociale|[weil-simone1934_reflexions.xml](https://hurlus.github.io/tei/weil-simone1934_reflexions.xml)|
+|108.|Weil, Simone|1940|Note sur la suppression générale des partis politiques|[weil-simone1940_partis-suppression.xml](https://hurlus.github.io/tei/weil-simone1940_partis-suppression.xml)|
+|109.|Weil, Simone|1942|Attente de Dieu|[weil-simone1942_attente-dieu.xml](https://hurlus.github.io/tei/weil-simone1942_attente-dieu.xml)|
+|110.|Weil, Simone|1942|La condition ouvrière|[weil-simone1942_condition-ouvriere.xml](https://hurlus.github.io/tei/weil-simone1942_condition-ouvriere.xml)|
+|111.|Weil, Simone|1943|Écrits historiques et politiques|[weil-simone1943_ecrits.xml](https://hurlus.github.io/tei/weil-simone1943_ecrits.xml)|
+|112.|Weil, Simone|1949|L'enracinement|[weil-simone1949_enracinement.xml](https://hurlus.github.io/tei/weil-simone1949_enracinement.xml)|
