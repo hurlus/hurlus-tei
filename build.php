@@ -20,7 +20,7 @@ class Hurlus
 # Hurlus, les sources
 
 Liens vers les fichiers XML/TEI. En cliquant, un texte devrait vous apparaître 
-sans balises et proprement mis en page, avec une transformatoin XSLT à la volée
+sans balises et proprement mis en page, avec une transformation XSLT à la volée
 qui se fait dans le navigateur.
 
 | N° | Auteur | Date | Titre | XML/TEI |

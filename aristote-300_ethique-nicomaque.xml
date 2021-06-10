@@ -8,12 +8,18 @@
         <title>Éthique à Nicomaque</title>
         <author>Aristote (-384, -322)</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>hurlus.fr</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>hurlus.fr</publisher>
+        <date when="2021"/>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"/>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Aristote, <hi rend="i">Éthique à Nicomaque</hi></bibl>
+        <bibl/>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
