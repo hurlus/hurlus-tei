@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
+<?xml-stylesheet type="text/css" href="../teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -60,7 +60,7 @@
         </p>
         <quote>
           <p>On ne voyait pas qu’on pût garder l’exactitude littérale dans la traduction de Saint Paul, sans la rendre si obscure en plusieurs endroits que l’on n’aurait pu y rien comprendre.</p>
-          <p>En faisant réflexion sur saint Jérôme, qui est comme le modèle des traducteurs de l’Écriture, puisque l’Église a si solennellement approuvé sa version, on reconnaissait qu’il n’avait point cru être obligé de s’attacher servilement à la lettre, puisque l’on voit par la manière dont il a traduit Job &amp; les Prophètes, que bien loin de n’en faire qu’une glose, il a tellement éclairci ces Écrits divins qui étaient beaucoup plus obscurs dans les Septante [<hi rend="i">en grec</hi>], &amp; il leur a donné dans sa traduction tant de force &amp; tant de vigueur, que saint Augustin en cite les paroles, lors même qu’elle n’était pas encore en usage dans l’Église, pour faire voir l’éclat &amp; la majesté de l’Écriture.</p>
+          <p>En faisant réflexion sur saint Jérôme, qui est comme le modèle des traducteurs de l’Écriture, puisque l’Église a si solennellement approuvé sa version, on reconnaissait qu’il n’avait point cru être obligé de s’attacher servilement à la lettre, puisque l’on voit par la manière dont il a traduit Job &amp; les Prophètes, que bien loin de n’en faire qu’une glose, il a tellement éclairci ces Écrits divins qui étaient beaucoup plus obscurs dans les Septante [<emph>en grec</emph>], &amp; il leur a donné dans sa traduction tant de force &amp; tant de vigueur, que saint Augustin en cite les paroles, lors même qu’elle n’était pas encore en usage dans l’Église, pour faire voir l’éclat &amp; la majesté de l’Écriture.</p>
           <bibl>Sacy, 1667, <title>Préface à la première édition du Nouveau Testament</title>.</bibl>
         </quote>
         <p>
