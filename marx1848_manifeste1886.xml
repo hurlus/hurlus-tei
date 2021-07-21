@@ -6,10 +6,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le manifeste du parti communiste <emph>(traduction Laura Marx-Lafargue, 1886)</emph></title>
+        <title>Le manifeste du parti communiste</title>
+        <title type="sub">traduction Laura Marx-Lafargue, 1886</title>
         <title type="desc">Avec notes et préfaces de Friedrich Engels</title>
-        <author key="Marx, Karl (1818, 1883)"/>
-        <author key="Engels, Friedrich (1820, 1895)"/>
+        <author key="Marx, Karl (1818, 1883)">Marx</author>
+        <author key="Engels, Friedrich (1820, 1895)">Engels</author>
       </titleStmt>
       <editionStmt>
         <edition>hurlus.fr</edition>
@@ -29,24 +30,20 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-
-        <label>Les prolétaires n’ont-ils vraiment pas de patrie ? (<ref target="#par49">49</ref>)</label>
+        <label>Les prolétaires de tous les pays ne vont pas s’unir</label>
         <p>
-          Marx est un prophète. Il a reçu une éducation juive complète et se réfère souvent à <title>la Bible</title>.
-          Il ne croit pas en un dieu mais interroge l’histoire, dont il cherche le moteur et l’avenir.
-        </p>
-        <p>
-          En 1848, il prophétisait la généralisation de l’exploitation rationnelle de la nature et de l’humain ;
-          «  […] 
-          <emph>guerre industrielle d’extermination des nations
-            entre elles, dissolution des vieilles mœurs, des vieilles
-            relations familiales, des vieilles nationalités</emph> » (<ref target="#extermination">60</ref>) ;
-          et donc, que la planète tout entière serait soumise au calcul.
+          Marx a reçu une éducation juive complète, se réfère souvent à <title>la Bible</title>, c’est un prophète (athée).
+          Il interroge l’histoire, dont il cherche le moteur et l’avenir.
+          En 1848, il prophétisait la généralisation de l’exploitation rationnelle de la nature et de l’humanité. 
+          En conséquence, la planète tout entière serait soumise au calcul.
           Il en déduisait que partageant les mêmes conditions d’exploitation, l’humanité s’unirait pour renverser ses exploiteurs. 
         </p>
-        <p>« <emph>La Bourgeoisie produit avant tout ses propres fossoyeurs. Sa chute et la victoire du Prolétariat sont également inévitables.</emph> » (<ref target="#fossoyeur">32</ref>) « <emph>À la place de l’ancienne société bourgeoise, avec ses
+        <quote>
+          <p>« La Bourgeoisie produit avant tout ses propres fossoyeurs. Sa chute et la victoire du Prolétariat sont également inévitables. » (<ref target="#fossoyeur">32</ref>)</p>
+          <p>« À la place de l’ancienne société bourgeoise, avec ses
           classes et ses antagonismes de classes, surgit une association où le libre développement de chacun est la condition
-          du libre développement pour tous.</emph> » (<ref target="#utopie">54</ref>)</p>
+          du libre développement pour tous. » (<ref target="#utopie">54</ref>)</p>
+        </quote>
         <p>
           Après un siècle et demi d’expériences parfois meurtrières,
           il faut l’admettre, ce n’est pas ce qui s’est passé.
@@ -63,13 +60,12 @@
           -->
         </p>
         <p>
-          Comme le paysan monté à la ville a trouvé dans le salariat une émancipation provisoire,
-          dégagée du tissu féodal d’obligations et de soumissions ;
-          ainsi avec les écrans, des individus ont l’impression de s’ouvrir au monde entier, de 
+          Avec les écrans, des individus ont l’impression de s’ouvrir au monde entier, de 
           sortir de leur famille et de leur quartier, qui ne les reconnaissent pas à la valeur qu’ils s’imaginent avoir.
-          Les grandes réseaux sociaux sont les plus grandes capitalisations boursières.
-          Les masses abandonnent le meilleur de leur vie au numérique,
-          elles se soumettent volontairement au Capital, pour mendier une flatterie.
+          Les grands réseaux sociaux sont les plus grandes capitalisations boursières.
+          Les masses leur abandonnent le meilleur de leur vie,
+          elles se soumettent volontairement au Capital, elles se numérisent,
+          pour mendier une flatterie.
         </p>
         <p>
           Mais plus les individus partagent les mêmes logiciels et les mêmes interfaces,
@@ -78,11 +74,8 @@
           La personne violentée par la standardisation de ses conditions matérielles
           réagit d’abord  par la fureur identitaire.
         </p>
-        <quote>
-          Il ne faut pas lire <title>le Manifeste</title> en attendant que la prophétie se réalise,
-          mais le prendre comme une incitation à repenser l’histoire, toujours unique à chaque moment,
-          afin d’y peser dans le sens que l’on croit bon, en sachant que bien d’autres tirent par ailleurs.
-        </quote>
+        <label>Il ne faut pas lire <title>le Manifeste</title> en attendant que la prophétie se réalise,
+          mais comme une invitation à repenser l’histoire, et à agir.</label>
         <p>
           Le parti communiste du temps de Marx ou de Lafargue était 
           une assemblée houleuse mais encore pleine de débats honnêtes, d’amitiés et de combats ;
@@ -97,14 +90,14 @@
           le « <emph>socialisme conservateur et bourgeois</emph> » (<ref target="#III2">III.2</ref>)
           caractérise bien le PS français depuis plusieurs décennies ;
           et sous les socialismes « <emph>critico-utopique</emph> » (<ref target="#III3">III.3</ref>), on trouvera 
-          les inventeurs de constitutions, de tirages au sort, de revenus universels et autres coopératives auto-organisées.
+          les inventeurs de constitutions, de tirages au sort et autres revenus universels.
         </p>
         <p>
           Marx ne se mélange pas les repères et se moque déjà des unions électoralistes des gauches.
           Une alliance n’est pas une affaire de personnes, de bonnes ou de mauvaises intentions,
           mais un calcul du rapport des forces historiques.
         </p>
-        <p>« <emph>En France, les communistes se rallient au parti démocrate-socialiste contre les bourgeoisies radicales et conservatrices, tout en se réservant le droit de critiquer les phrases et les illusions léguées par la tradition révolutionnaire.</emph> » (<ref target="#par76">76</ref>)</p>
+        <quote>« En France, les communistes se rallient au parti démocrate-socialiste contre les bourgeoisies radicales [=PS] et conservatrices [=droite], tout en se réservant le droit de critiquer les phrases et les illusions léguées par la tradition révolutionnaire. » (<ref target="#par76">76</ref>)</quote>
         <space/>
         <p>
           Le <title>Manifeste</title> est ici donné dans la <ref target="https://fr.wikisource.org/wiki/Manifeste_du_parti_communiste/Lafargue">première traduction en français de 1886, par Laura Marx-Lafargue</ref> (1845, 1911), fille de Karl Marx et 
@@ -135,7 +128,7 @@
         </list>
         <p>Dans ce but, des communistes de diverses nationalités se sont réunis à Londres et ont rédigé le manifeste suivant, qui sera publié en anglais, français, allemand, italien, flamand et danois.</p>
       </div>
-      <div xml:id="I">
+      <div type="chapter" xml:id="I">
         <head>I. Bourgeois et prolétaires <note place="bottom">(Engels, 1888, ed. anglaise) On entend par bourgeoisie la classe des capitalistes modernes, propriétaires des moyens de production sociale et qui emploient le travail salarié. On entend par prolétariat la classe des ouvriers salariés modernes qui, privés de leurs propres moyens de production, sont obligés pour subsister, de vendre leur force de travail.</note></head>
         <p><hi rend="initial4">L’histoire de toute société</hi> jusqu’à nos jours
           <!-- Faux
@@ -230,7 +223,7 @@
         <p n="32">La condition essentielle d’existence et de suprématie pour la classe bourgeoise est l’accumulation de la richesse dans des mains privées, la formation et l’accroissement du capital ; la condition du capital est le salariat. Le salariat repose exclusivement sur la concurrence des ouvriers entre eux. Le progrès de l’industrie, dont la Bourgeoisie est l’agent passif et inconscient, remplace l’isolement des ouvriers par leur union révolutionnaire au moyen de l’association. Le développement de la grande industrie sape sous les pieds de la bourgeoisie le terrain même sur lequel elle a établi son système de production et d’appropriation.</p>
         <p><anchor xml:id="fossoyeur"/>La Bourgeoisie produit avant tout ses propres fossoyeurs. Sa chute et la victoire du Prolétariat sont également inévitables.</p>
       </div>
-      <div xml:id="II">
+      <div type="chapter" xml:id="II">
         <head>II. Prolétaires et communistes</head>
         <p><hi rend="initial4">Quelle est la position des communistes</hi> vis-à-vis des prolétaires pris en masse ? – Les communistes ne forment pas un parti distinct opposé aux autres partis ouvriers. – Ils n’ont point d’intérêts qui les séparent du prolétariat en général. – Ils ne proclament pas de principes sectaires sur lesquels ils voudraient modeler le mouvement ouvrier.</p>
         <p>Les communistes ne se distinguent des autres partis ouvriers que sur deux points :</p>
@@ -343,7 +336,7 @@
         <p n="54">Les antagonismes de classes une fois disparus dans le cours du développement, et toute la production concentrée dans les mains des individus associés, le pouvoir public perd son caractère politique. Le pouvoir politique, à proprement parler, est le pouvoir organisé d’une classe pour l’oppression d’une autre. Si le prolétariat, dans sa lutte contre la bourgeoisie, se constitue forcément en classe, s’il s’érige par une révolution en classe régnante, et, comme classe régnante détruit violemment les anciens rapports de production, il détruit, en même temps que ces rapports de production, les conditions d’existence de l’antagonisme des classes ; il détruit les classes en général et, par là, sa propre domination comme classe.</p>
         <p>À la place de l’ancienne société bourgeoise, avec ses classes et ses antagonismes de classes, surgit une association où le libre développement de chacun est la condition du libre développement pour tous.</p>
       </div>
-      <div xml:id="III">
+      <div type="chapter" xml:id="III">
         <head>III. Littérature socialiste et communiste</head>
         <div xml:id="III1">
           <head>1. Le Socialisme Réactionnaire</head>
@@ -437,7 +430,7 @@
           <p>Les Owenistes en Angleterre, les Fouriéristes en France réagissent, là contre les Chartistes, ici contre les Réformistes.</p>
         </div>
       </div>
-      <div xml:id="IV">
+      <div type="chapter" xml:id="IV">
         <head>IV. Position des communistes vis-à-vis des différents partis de l’opposition</head>
         <p><hi rend="initial4">D’après</hi> ce que nous avons dit plus haut (voir Section II), la position des communistes vis-à-vis des partis ouvriers déjà constitués, s’explique d’elle-même, et, partant, leur position vis-à-vis des Chartistes en Angleterre et des réformateurs agraires dans l’Amérique du Nord.</p>
         <p>Ils combattent pour les intérêts et les buts immédiats de la classe ouvrière, mais dans le mouvement du présent, ils défendent et représentent en même temps l’avenir du mouvement.</p>
@@ -458,7 +451,7 @@
         <p>Les communistes ne s’abaissent pas à dissimuler leurs opinions et leurs buts. Ils proclament hautement que ces buts ne pourront être atteints sans le renversement violent de tout ordre social actuel. Que les classes régnantes tremblent à l’idée d’une révolution communiste. Les prolétaires n’ont rien à y perdre, hors leurs chaînes. Ils ont un monde à gagner.</p>
         <label>Prolétaires de tous les pays, unissez-vous !</label>
       </div>
-      <div>
+      <div type="chapter">
         <head>Préfaces</head>
         <div>
           <head>Préface à l’édition allemande de 1872</head>

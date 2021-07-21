@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lettres <emph>(traduction Sacy, 1667)</emph></title>
+        <title>Lettres</title>
+        <title type="sub">traduction Sacy, 1667</title>
         <author key="Paul de Tarse (1-10, 68)">Paul de Tarse</author>
       </titleStmt>
       <editionStmt>
@@ -28,7 +29,7 @@
         <language ident="fr"/>
       </langUsage>
       <abstract>
-        <label>Préface</label>
+        <label>Préface hurlue</label>
         <p>
           Les lettres de Paul de Tarse (ou <emph>Épîtres de saint Paul apôtre</emph>)
           sont parmi les textes les plus lus depuis des siècles.
@@ -127,7 +128,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>Première épître de Paul aux Thessaloniciens (50~51)</head>
         <div>
           <head>1 Thess 1</head>
@@ -256,7 +257,7 @@
             <milestone n="28"/> La grâce de notre Seigneur Jésus-Christ soit avec vous ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Seconde épître de Paul aux Thessaloniciens (51~52)</head>
         <div>
           <head>2 Thess 1</head>
@@ -327,7 +328,7 @@
             <milestone n="18"/> La grâce de notre Seigneur Jésus-Christ soit avec vous tous ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Épitre de Paul aux Galates (54~55)</head>
         <div>
           <head>Gal 1</head>
@@ -530,7 +531,7 @@
             <milestone n="18"/> Que la grâce de notre Seigneur Jésus-Christ, mes frères, demeure avec votre esprit ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Épître de Paul aux Philippiens (56~63)</head>
         <div>
           <head>Phil 1</head>
@@ -680,7 +681,7 @@
             <milestone n="23"/> La grâce de notre Seigneur Jésus-Christ soit avec votre esprit ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Épître de Paul à Philémon (55~63)</head>
         <div>
           <head>Phil 1</head>
@@ -715,7 +716,7 @@
             <milestone n="25"/> Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Première épître de Paul aux Corinthiens (56~57)</head>
         <div>
           <head>1 Cor 1</head>
@@ -1293,7 +1294,7 @@
             <milestone n="24"/> J’ai pour vous tous une charité sincère en Jésus-Christ. Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Seconde épître de Paul aux Corinthiens (~57)</head>
         <div>
           <head>2 Cor 1</head>
@@ -1658,7 +1659,7 @@
             <milestone n="13"/> Que la grâce de notre Seigneur Jésus-Christ, l’amour de Dieu, et la communication du Saint-Esprit, demeure avec vous tous ! Amen !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Épître de Paul aux Romains (57~58)</head>
         <div>
           <head>Rom 1</head>
