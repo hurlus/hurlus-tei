@@ -31,7 +31,7 @@ qui se fait dans le navigateur.
 |22.|Debord, Guy|1967|La Société du Spectacle|[debord1967_spectacle.xml](https://hurlus.github.io/tei/debord1967_spectacle.xml)|
 |23.|Debord, Guy|1988|Commentaires sur la société du spectacle|[debord1988_spectacle-commentaire.xml](https://hurlus.github.io/tei/debord1988_spectacle-commentaire.xml)|
 |24.|Déjacque, Joseph|1864|À bas les chefs|[dejacques1864_chefs.xml](https://hurlus.github.io/tei/dejacques1864_chefs.xml)|
-|25.|Descartes, René|1637|Discours de la Méthode|[descartes1637_discours.xml](https://hurlus.github.io/tei/descartes1637_discours.xml)|
+|25.|Descartes, René|1637|Discours de la Méthode|[descartes1637_methode.xml](https://hurlus.github.io/tei/descartes1637_methode.xml)|
 |26.|Diderot, Denis|1773|Le neveu de Rameau|[diderot1773_neveu-rameau.xml](https://hurlus.github.io/tei/diderot1773_neveu-rameau.xml)|
 |27.|Durkheim, Émile|1895|Les règles de la méthode sociologique|[durkheim1895_regles-methode-sociologique.xml](https://hurlus.github.io/tei/durkheim1895_regles-methode-sociologique.xml)|
 |28.|Durkheim, Émile|1911|Jugements de valeur et jugements de réalité|[durkheim1911_jugements-de-valeur.xml](https://hurlus.github.io/tei/durkheim1911_jugements-de-valeur.xml)|
