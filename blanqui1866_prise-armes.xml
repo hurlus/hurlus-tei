@@ -36,7 +36,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div>
         <head>Instructions pour une prise d’armes</head>
         <p>Ce programme est purement militaire et laisse entièrement de côté la question politique et sociale, dont ce n’est point ici la place : il va sans dire d’ailleurs, que la révolution doit se faire au profit du travail contre la tyrannie du capital, et reconstituer la société sur la base de la justice.</p>
         <p>Une insurrection parisienne, d’après les vieux errements, n’a plus aujourd’hui aucune chance de succès.</p>
@@ -251,7 +251,7 @@
         <div>
           <head>Des barricades</head>
           <figure>
-            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes-img/100000000000028A0000036B6D2835043953437F.gif"/>
+            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes/barricade.png"/>
             <head>Diagramme d’une barricade</head>
           </figure>
           <p>Aucun mouvement militaire ne devant avoir lieu que d’après l’ordre du commandant en chef, il ne sera élevé de barricades que sur les emplacements désignés par lui.</p>
@@ -323,7 +323,7 @@
           <p>Tous les îlots ou pâtés de maisons appartenant aux rues barricadées, doivent être percés dans leur pourtour, de manière que les combattants puissent entrer et sortir par la rue parallèle de derrière, hors de la vue et de la portée de l’ennemi.</p>
           <p>Dans ce travail, la garnison de chaque barricade doit se rencontrer à mi-chemin, tant sur le front de défense que dans la rue de derrière avec les deux garnisons des deux barricades voisines, de droite et de gauche.</p>
           <figure>
-            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes-img/100000000000018900000212387522482A2C8A0E.gif"/>
+            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes/phalanstere.png"/>
             <head>Plan d’un phalanstère en grande échelle</head>
           </figure>
           <p>Exemple de barricades sur un front de défense, reliées entre elles par le percement des maisons des îlots adjacents.</p>
@@ -363,7 +363,7 @@
           <p>Quant au retranchement, il ne sera pas facile d’en avoir raison. Le boulet ne pourrait atteindre le rempart que par le tir à ricochet, et le faible intervalle de six mètres, qui le sépare de la contre-garde, rendrait ce tir inefficace.</p>
           <p>L'obus sera également impuissant. il viendra faire explosion en avant ou en arrière ou dans l’intervalle des deux ouvrages, et ses éclats écorcheront le plâtre des murailles, rien de plus. Car il ne trouvera là personne. La barricade sera défendue par les fenêtres.</p>
           <figure>
-            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes-img/100000000000018300000217C4D8F928CCB561D4.gif"/>
+            <graphic url="https://hurlus.github.io/tei/blanqui1866_prise-armes/secteur.png"/>
             <head>Plan du secteur envisagé</head>
           </figure>
           <p>L'assaut serait très meurtrier pour les assaillants. Il faudrait essuyer la fusillade jusqu’au pied du glacis, et à partir de ce point, braver un péril plus redoutable encore, il ne serait possible de descendre du mur interne, puis de franchir le rempart qu’avec des échelles de huit pieds, bagage incommode, et sous une grêle de pavés et de balles.</p>
