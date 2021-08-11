@@ -3649,7 +3649,7 @@
             <p>— C’est juste, dit-il.</p>
             <p>Et il ouvrit la lettre.</p>
             <p>Il lut ceci :</p>
-            <lb type="line"/>
+            <space/>
             <dateline>« En mer, ce 10 mars.</dateline>
             <p>« Mess Lethierry, de Saint-Sampson,</p>
             <p>« Vous recevrez de mes nouvelles avec plaisir.</p>
@@ -3662,13 +3662,13 @@
             <p>« Je vous ai rendu vos capitaux.</p>
             <p>« Je vous avais emprunté, un peu incorrectement, cinquante mille francs. Avant de quitter Saint-Malo, j’ai remis pour vous à votre homme de confiance, sieur Clubin, trois bank-notes de mille livres chaque, ce qui fait soixante-quinze mille francs. Vous trouverez sans doute ce remboursement suffisant.</p>
             <p>« Sieur Clubin a pris vos intérêts et reçu votre argent avec énergie. Il m’a paru très zélé ; c’est pourquoi je vous avertis.</p>
-            <lb type="line"/>
+            <space/>
             <p>« Votre autre homme de confiance,</p>
-            <lb type="line"/>
+            <space/>
             <byline>« R<hi rend="sc">antaine</hi>.</byline>
-            <lb type="line"/>
+            <space/>
             <p>« <emph>Post-scriptum.</emph> Sieur Clubin avait un revolver, ce qui fait que je n’ai pas de reçu. »</p>
-            <lb type="line"/>
+            <space/>
             <p>Touchez une torpille, touchez une bouteille de Leyde chargée, vous ressentirez ce qu’éprouva mess Lethierry en lisant cette lettre.</p>
             <p>Sous cette enveloppe, dans cette feuille de papier pliée en quatre à laquelle il avait au premier moment fait si peu attention, il y avait une commotion.</p>
             <p>Il reconnut cette écriture, il reconnut cette signature. Quant au fait, tout d’abord il n’y comprit rien.</p>
@@ -3909,9 +3909,9 @@
             <pb n="299"/>
             <p>— Entre, et attends.</p>
             <p>Mess Lethierry prit une feuille de papier et se mit à écrire. Si Grâce, debout derrière lui, eût été curieuse et eût avancé la tête pendant qu’il écrivait, elle aurait pu lire, par-dessus son épaule, ceci :</p>
-            <lb type="line"/>
+            <space/>
             <p>« J’écris à Brême pour du bois. J’ai rendez-vous toute la journée avec des charpentiers pour l’estimat. La reconstruction marchera vite. Toi, de ton côté, va chez le doyen pour avoir les dispenses. Je désire que le mariage se fasse le plus tôt possible, tout de suite serait le mieux. Je m’occupe de Durande, occupe-toi de Déruchette. »</p>
-            <lb type="line"/>
+            <space/>
             <p>Il data, et signa : L<hi rend="sc">ethierry</hi>.</p>
             <p>Il ne prit point la peine de cacheter le billet, le plia simplement en quatre et le tendit à Grâce.</p>
             <p>— Porte cela à Gilliatt.</p>
@@ -4236,25 +4236,25 @@
         <pb n="347"/>
         <label>NOTE I.</label>
         <p>Sur la page du titre on lit, dans le manuscrit original, les mentions suivantes :</p>
-        <lb type="line"/>
+        <space/>
         <p>Commencé le 4 juin 1864.</p>
         <p>Interrompu le 4 août.</p>
         <p>Repris le 4 décembre.</p>
         <p>Terminé le 29 avril 1865.</p>
         <p>Publié le 12 mars 1866.</p>
-        <lb type="line"/>
+        <space/>
         <p>A la page qui termine la première partie, <emph>Sieur Clubin</emph>, on lit :</p>
-        <lb type="line"/>
+        <space/>
         <p>3 août, 8 heures 1/2 du matin.</p>
         <p>Interrompu jusqu’à mon retour. Je vais partir pour mon voyage annuel, le 10 ou le 11.</p>
         <pb n="348"/>
         <label>NOTE II.</label>
         <p>Dans la première partie, livre VI, au chapitre II, <emph>Du cognac inespéré</emph>, les lignes qui suivent sont biffées dans le manuscrit :</p>
-        <lb type="line"/>
+        <space/>
         <p>Une volonté dans un mécanisme fait contre-poids à l’infini. L’infini, lui aussi, contient un mécanisme. Ses engrenages sont pour nous invisibles, tant ils sont démesurés. Le zodiaque est une de ses roues. La loi des saisons est liée à cette rotation. Il faut à l’aiguille aimantée six cent vingt ans pour qu’elle accomplisse son oscillation complète à l’ouest et à l’est du méridien. Ainsi l’oscillation actuelle, commencée en 1660, ne s’achèvera qu’en 2280. La loi des tempêtes est liée à cette oscillation. Dans cette révolution de six cent vingt ans, c’est tantôt le pôle asiatique, tantôt le pôle américain, qui est le pôle le plus froid. Une période de quarante et un ans ramène le maximum des taches solaires. Franklin a prouvé que les coups de vent du nord-est avaient leur source au sud-ouest. Au sud de l’équateur, les ouragans tournent dans le sens d’une montre, et au nord de l’équateur en sens inverse.</p>
         <label>NOTE III.</label>
         <p>Le livre septième de la première partie, <emph>Imprudence de faire des questions à un livre</emph>, a, dans le manuscrit, ces variantes du titre : J<hi rend="sc">oli métier que la bible fait la</hi> et D<hi rend="sc">ieu parle aux jeunes plus souvent qu’aux vieux</hi>.</p>
-        <lb type="line"/>
+        <space/>
         <p>Autres variantes de titres :</p>
         <p>Deuxième partie. Livre I. Chapitre VIII. <emph>Imporlunœque volucres</emph>.</p>
         <p>U<hi rend="sc">n romain rentrerait</hi>.</p>

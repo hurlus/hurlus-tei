@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Note sur la suppression générale des partis politiques</title>
-        <author key="Weil, Simone (1909, 1943)"/>
+        <author key="Weil, Simone (1909, 1943)">Simone Weil</author>
       </titleStmt>
       <editionStmt>
         <edition>hurlus.fr</edition>
@@ -33,7 +33,6 @@
   </teiHeader>
   <text>
     <body>
-      <head>Note sur la suppression générale des partis politiques</head>
       <p>Le mot parti est pris ici dans la signification qu’il a sur le continent européen. Le même mot dans les pays anglo-saxons désigne une réalité tout autre. Elle a sa racine dans la tradition anglaise et n’est pas transplantable. Un siècle et demi d’expérience le montre assez. Il y a dans les partis anglo-saxons un élément de jeu, de sport, qui ne peut exister que dans une institution d’origine aristocratique ; tout est sérieux dans une institution qui, au départ, est plébéienne.</p>
       <p>L’idée de parti n’entrait pas dans la conception politique française de 1789, sinon comme mal à éviter. Mais il y eut le club des Jacobins. C’était d’abord seulement un lieu de libre discussion. Ce ne fut aucune espèce de mécanisme fatal qui le transforma. C’est uniquement la pression de la guerre et de la guillotine qui en fit un parti totalitaire.</p>
       <p>Les luttes des factions sous la Terreur furent gouvernées par la pensée si bien formulée par Tomski : « Un parti au pouvoir et tous les autres en prison. » Ainsi sur le continent d’Europe le totalitarisme est le péché originel des partis.</p>

@@ -1471,7 +1471,7 @@
         <p>Le juge et le bourreau sont sortis. Je suis seul. — Seul avec deux gendarmes.</p>
         <p>Oh ! l’horrible peuple avec ses cris d’hyène ! — Qui sait si je ne lui échapperai pas ? si je ne serai pas sauvé ? si ma grâce ?… Il est impossible qu’on ne me fasse pas grâce !</p>
         <p>Ah ! les misérables ! il me semble qu’on monte l’escalier…</p>
-        <lb type="line"/>
+        <space/>
         <p rend="center"><hi rend="sc">quatre heures</hi></p>
         <pb n="454"/>
       </div>
@@ -1484,11 +1484,11 @@
         <pb n="456"/>
         <label>1881</label>
         <p>Le manuscrit original du <emph>Dernier Jour d’un condamné</emph> porte en marge de la première page :</p>
-        <lb type="line"/>
+        <space/>
         <p>Mardi 14 octobre 1828.</p>
-        <lb type="line"/>
+        <space/>
         <p>Au bas de la dernière page :</p>
-        <lb type="line"/>
+        <space/>
         <p>Nuit du 25 décembre 1828 au 26. — 3 heures du matin.</p>
       </div>
     </body>

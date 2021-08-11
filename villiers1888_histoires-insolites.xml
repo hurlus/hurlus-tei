@@ -748,7 +748,7 @@
         <pb n="p. 239"/>
         <head>L’inquiéteur</head>
         <p rend="center">À Monsieur René d’Hubert</p>
-        <lb type="line"/>
+        <space/>
         <epigraph>
           <p>Et j’ai reconnu que tout n’est qu’une vanité des vanités, et que cette parole, même, est encore une vanité.</p>
           <bibl>L’Ecclésiaste.</bibl>
@@ -787,7 +787,7 @@
         <p rend="center">ADMINISTRATION
           <lb/>des
           <lb/>POMPES FUNÈBRES</p>
-        <lb type="line"/>
+        <space/>
         <p rend="center">CABINET DU DIRECTEUR</p>
         <p>Paris, ce 1<hi rend="sup">er</hi> avril 1887.</p>
         <p>Monsieur,</p>

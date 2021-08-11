@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>Le Détail de la France, la cause de la diminution de ses biens, et la facilité du remède, en fournissant en un mois tout l’argent dont le roi a besoin, et enrichissant tout le monde.</head>
         <div>
           <head>Première partie. De la diminution de la richesse nationale.</head>
@@ -305,7 +305,7 @@
           <trailer>FIN DU DÉTAIL DE LA FRANCE.</trailer>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Factum de la France</head>
         <head type="sub">Ou Moyens très faciles de faire recevoir au roi quatre-vingts millions par-dessus la capitation, praticables par deux heures de travail de MM. Les ministres et un mois d’exécution de la part des peuples, sans congédier aucun fermier général ni particulier, ni autre mouvement que de rétablir quatre ou cinq fois davantage de revenu à la France, c’est-à-dire, plus de cinq cents millions sur plus de mille cinq cents anéantis depuis 1661, parce qu’on fait voir clairement, en même temps, que l’on ne peut faire d’objection contre cette proposition, soit par rapport au temps et à la conjoncture, comme n’étant pas propres à aucun changement, soit au prétendu péril, risque, ou quelques autres causes que ce puisse être, sans renoncer à la raison et au sens commun ; en sorte que l’on maintient qu’il n’y a point d’homme sur la terre qui ose mettre sur le papier une pareille contradiction, et là souscrire de son nom, sans se perdre d’honneur ; et que l’on montre en même temps l’impossibilité de sortir autrement de la conjoncture présente.</head>
         <div>
@@ -524,7 +524,7 @@
           <trailer>FIN DU FACTUM DE LA FRANCE.</trailer>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Traité de la nature, culture, commerce et intérêt des grains</head>
         <head type="sub">Tant par rapport au public, qu’à toutes les conditions d’un État ; divisé en deux parties, dont la première fait voir que plus les grains sont à vil prix, plus les pauvres, surtout les ouvriers, sont misérables ; et la seconde, que plus il sort des blés d’un royaume, et plus il se garantit des funestes effets d’une extrême disette.</head>
         <div>
@@ -752,7 +752,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Dissertation sur la nature des richesses, de l’argent et des tributs, où l’on découvre la fausse idée qui règne dans le monde à l’égard de ces trois articles.</head>
         <div>
           <head>Chapitre I.</head>

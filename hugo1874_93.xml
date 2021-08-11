@@ -4944,7 +4944,7 @@
         <head>Notes du manuscrit original</head>
         <label>Note I</label>
         <p>Sur la première page du Livre <emph>la Corvette Claymore :</emph></p>
-        <lb type="line"/>
+        <space/>
         <p>La famille V.......existe peut-être encore. Elle est innocente de la honte de son aïeul. Pourquoi affliger cette famille ? Je mettrai, dans le livre publié, <emph>Gèlambre.</emph></p>
         <label>Note II</label>
         <p>Dans le chapitre <emph>le Massacre de Saint-Barthélemy</emph>, après la phrase : « Une souris passa sans qu’ils y prissent garde..., » la page que voici a été retranchée :</p>
@@ -4968,7 +4968,7 @@
         </quote>
         <label>Note III</label>
         <p>Aux marges du manuscrit, on trouve les dates et les notes suivantes :</p>
-        <lb type="line"/>
+        <space/>
         <p>En tête de la première page :</p>
         <quote>
           <p>Je commence ce livre aujourd’hui 16 décembre 1872. Je suis à Hauteville House. — V. H.</p>
@@ -4989,9 +4989,9 @@
         <p>Vers le milieu du chapitre <emph>la Convention :</emph></p>
         <quote>
           <p>12 février. — Hier <emph>Marion de Lorme</emph> a été reprise aux Français. Paul Meurice m’envoie ce télégramme :</p>
-          <lb type="line"/>
+          <space/>
           <dateline>Paris, 11 février, 11 h. du soir.</dateline>
-          <lb type="line"/>
+          <space/>
           <p><emph>Succès immense, devant un public dur, de gens du monde.</emph></p>
         </quote>
         <p>Au bas de la dernière page du même chapitre :</p>
