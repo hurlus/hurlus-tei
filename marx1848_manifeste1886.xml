@@ -100,10 +100,10 @@
         <quote>« En France, les communistes se rallient au parti démocrate-socialiste contre les bourgeoisies radicales [=PS] et conservatrices [=droite], tout en se réservant le droit de critiquer les phrases et les illusions léguées par la tradition révolutionnaire. » (<ref target="#par76">76</ref>)</quote>
         <space/>
         <p>
-          Le <title>Manifeste</title> est ici donné dans la <ref target="https://fr.wikisource.org/wiki/Manifeste_du_parti_communiste/Lafargue">première traduction en français de 1886, par Laura Marx-Lafargue</ref> (1845, 1911), fille de Karl Marx et 
+          Le <title>Manifeste</title> est ici donné dans la <ref target="https://fr.wikisource.org/wiki/Manifeste_du_parti_communiste/Lafargue">première traduction en français de 1886, par Laura Marx-Lafargue</ref> (1845–1911), fille de Karl Marx et 
           mariée à Paul Lafargue (1880, <title>Le Droit à la paresse</title>).
           Y ont été reportées les innovations de Andler (<ref target="https://fr.wikisource.org/wiki/Manifeste_du_parti_communiste/Andler">traduction 1901</ref>) : une numéroration commode, les préfaces à d’autres éditions, 
-          ainsi que les notes de Engels. Quelques intertitres ont été insérés, pour aider à se reprérer
+          ainsi que les notes de Engels. Quelques intertitres ont été insérés, pour aider à se repérer
           dans un texte désormais historique, où chaque ligne compte, comme la loi, ou bien <title>la Bible</title>.
         </p>
       </abstract> 
@@ -435,7 +435,7 @@
         <p><hi rend="initial4">D’après</hi> ce que nous avons dit plus haut (voir Section II), la position des communistes vis-à-vis des partis ouvriers déjà constitués, s’explique d’elle-même, et, partant, leur position vis-à-vis des Chartistes en Angleterre et des réformateurs agraires dans l’Amérique du Nord.</p>
         <p>Ils combattent pour les intérêts et les buts immédiats de la classe ouvrière, mais dans le mouvement du présent, ils défendent et représentent en même temps l’avenir du mouvement.</p>
         <space/>
-        <p n="76">En France, les communistes se rallient au parti démocrate-socialiste contre les bourgeoisies radicales et conservatrices, tout en se réservant le droit de critiquer les phrases et les illusions léguées par la tradition révolutionnaire.</p>
+        <p n="76" xml:id="par76">En France, les communistes se rallient au parti démocrate-socialiste contre les bourgeoisies radicales et conservatrices, tout en se réservant le droit de critiquer les phrases et les illusions léguées par la tradition révolutionnaire.</p>
         <p>En Suisse ils appuient les radicaux, sans méconnaître que ce parti se compose d’éléments contradictoires, moitié de démocrates socialistes <note place="bottom">
           <p>(Engels, 1888, ed. anglaise) Ce parti était alors représenté au Parlement par Ledru-Rollin, dans la littérature par Louis Blanc et dans la presse quotidienne par La Réforme. Ils désignaient par démocratique-socialiste, nom qu’ils inventèrent, la fraction du parti démocratique ou républicain, qui était plus ou moins nuancée de socialisme.</p>
           <p>(Engels, 1890, ed. allemande) Ce qu’on appelait alors en France le Parti démocrate-socialiste était représenté en politique par Ledru-Rollin et dans la littérature par Louis Blanc ; il était donc à cent lieues de la social-démocratie allemande d’aujourd’hui.</p></note>, dans l’acception française du mot, moitié de bourgeois radicaux.</p>

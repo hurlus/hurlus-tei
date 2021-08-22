@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://oeuvres.github.io/teinte/author-tei.css"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L’Ecclésiaste, c’est-à-dire : <lb/>le Prêcheur.</title>
+        <title type="sub">traduction de 1555<lb/>par Sébastien Castellion <lb/><emph>dîte</emph> <lb/>« la Bible pour les idiots »</title>
+        <author>Qohélet</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>hurlus.fr</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>hurlus.fr</publisher>
+        <date when="2021"/>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><ref target=""></ref></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <label>« je n’entends pas ces quatre »<note>Sébastien Castellion, en note sur <ref target="#Eccl.12.6"><title>Eccl</title>.12.6</ref></note></label>
+        <p>L’<title>Ecclésiaste</title> (ou <title>Qohélet</title> selon l’hébreu : « qui parle à la foule »), est un livre très lu de <title>la Bible</title>, bien qu’il puisse sembler nihiliste et épicurien. Il a été écrit après −250, en période hellénistique où l’orient baignait dans la culture grecque, donc en contact avec les philosophies stoïciennes ou épicuriennes. Les morales juives ou chrétiennes y trouvent une inspiration, c’est une référence à connaître, il est par exemple pastiché par un athée, le communiste Paul Lafargue, dans <ref target="https://hurlus.fr/lafargue1887_religion-capital/">La religion du capital</ref> (1887). Le texte est donné ici dans une traduction méconnue de 1555, dite « la Bible des idiots », par Sébastien Castellion (1515–1563), un humaniste et réformé de la Renaissance, compagnon un moment de Calvin, puis persécuté par lui.</p>
+        <ab type="dinkus">⁂</ab>
+        <quote>
+          <p>Conclusion, quand tout est dit,
+            <lb/>crains Dieu, et garde ses commandements :
+            <lb/>car c’est le devoir de tous hommes.</p>
+          <p>Car de toute œuvre, tant soit secrète, Dieu en fera rendre compte,
+            <lb/>soit bonne soit mauvaise. (<ref target="#Eccl.12.13"><title>Eccl</title>.12.13-14</ref>)</p>
+        </quote>
+        <label>Pessimisme</label>
+        <p>Ce texte propose une philosophie pessimiste, répétant selon la traduction traditionnelle : <quote>tout est vain, tout n’est que vanité</quote> (Castellion utilise d’autres mots). Le plaisir aussi est donc vain, puisqu’il faut mourir. Épicure (–341…–270), à la recherche du bonheur et donc d’un plaisir raisonnable, considérait qu’il s’obtient en se libérant de la crainte des dieux. Si les dieux sont immortels et plus parfaits que nous, ils sont bons, pourquoi les craindre ?</p>
+        <p>Le grec est confirmé par Qohélet, par contradiction. Le juif dit par exemple qu’il vaut mieux un enfant mort-né, qui n’a rien à regretter, qu’un homme chargé d’ans, d’enfants, et de biens, car il finira pareil et la mort lui sera plus dure (<ref target="#Eccl.6.3">6.3-6</ref>). Par anticipation, Épicure lui répond dans la <title>lettre à Ménécée</title> : <quote>« Bien pire encore celui qui dit qu’il est beau de “n’être pas né”. Car, s’il est convaincu de ce qu’il dit, comment se fait-il qu’il ne quitte pas la vie ? Cela est tout à fait en son pouvoir, s’il y est fermement décidé. »<note>Épicure, <emph>Lettre à Ménécée</emph>, traduction Marcel Conche, 1977</note></quote></p>
+        <p>D’abord, on a le droit d’être lâche et incohérent ; ensuite, on peut aimer se plaindre ou désespérer les autres, c’est pour certains une raison de vivre, quand bien même elle soit peu enviable ; et enfin, si l’on craint Dieu, tuer soi ou d’autres, c’est pêcher contre la Vie. Ainsi même pour des chrétiens, à qui Dieu est amour mais pas à craindre, il est un soutien dans l’adversité pour aller jusqu’au bout de la tâche que l’on se croit porter. Se libérer des dieux autorise le plaisir, mais en fait perdre les consolations et secours moraux.</p>
+        <p>Qohélet pose comme vérité première qu’un dieu unique existe, et que sa perfection nous juge, comme une personne supérieure peut nous faire honte. Si cette proposition est prise au sérieux, pas seulement sur son lit de mort comme les catholiques, alors même le <quote>« rire ce n’est autre chose qu’être hors du sens (<ref target="#Eccl.2.2">2.2</ref>) »</quote>, et il faudra payer pour nos errements ici-bas.</p>
+        <quote>
+          <p>Jouis de ta jeunesse, jouvenceau,
+            <lb/>et te donne de bon temps tandis que tu es jeune,
+            <lb/>et mène un tel train que requiert le souhait de ton cœur,
+            <lb/>ou le regard de tes yeux :
+            <lb/>mais sache que de tout cela Dieu t’en fera rendre compte. (<ref target="#Eccl.11.9"><title>Eccl</title>.11.9)</ref></p>
+        </quote>
+        <p>En nous rappelant à nos devoirs, Dieu rend la vie morne.</p>
+        <quote>
+          <p>Mieux vaut ouïr tancer un sage,
+            <lb/>que chanter un fol. (<ref target="#Eccl.7.5"><title>Eccl</title>.7.5</ref>)</p>
+        </quote>
+        <label>Épicurisme</label>
+        <p>Il arrive cependant ailleurs que Qohélet ne soit pas aussi négatif sur les plaisirs de la vie. Il se peut que l’on cherche ici une cohérence qui n’est pas aussi clairement articulée dans le texte, Qohélet se dit lui-même <emph>éplucheur</emph> et compilateur de pensées des sages (<ref target="#Eccl.12.9">12.9-11</ref>), la composition ne semble pas suivre un développement. Mais parce que cette cohérence a été cherchée pendant des siècles, elle est maintenant dans le texte. Quand bien même Qohélet ne serait qu’une chimère de compilateur, désormais il existe comme une pensée personnelle. Ainsi, les incohérences apparentes du texte nous invitent à réfléchir.</p>
+        <quote>
+          <p>Il n’y a autre bien en l’homme que de manger et boire,
+            <lb/>et se donner du bon temps en son travail,
+            <lb/>laquelle chose je vois bien qu’elle vient aussi de Dieu (<ref target="#Eccl.2.24"><title>Eccl</title>.2,24)</ref></p>
+        </quote>
+        <p>Qohélet n’interdit pas de boire le vin, il ne promeut pas une prohibition puritaine dans l’espoir de nous faire devenir des anges, contrairement à Calvin, ou aux intégristes musulmans qui reconnaissent pourtant <title>la Bible</title> comme leur livre. Le sage juif insiste sur une nuance qui vaut bien <title>l’Avare</title> de Molière (<quote>« il faut manger pour vivre et non vivre pour manger »</quote>) : <quote>« manger à l’heure qu’il faut, pour reprendre ses forces, et non pour boire (<ref target="#Eccl.10.17">10.17</ref>) »</quote>, ainsi le riche qui ne travaille pas mange torp et dort mal (<ref target="#Eccl.5.1">5.1</ref>). Le prêcheur a une morale du plaisir mérité. Boire au matin, et manger pour boire plus, n’est pas un commandement de Dieu, et d’ailleurs nuit à la santé ; mais c’est une récompense justifiée après le travail, où il n’est pas interdit et même souhaité de prendre plaisir. Car si Dieu a tout créé, pourquoi aurait-il fait le vin si ce n’est pas pour nous faire plaisir ? Le mal n’est pas dans la chose mais son usage.</p>
+        <p><quote>« D’avantage si deux couchent ensemble, ils s’échauffent : mais un comment s’échauffera-t-il ? (<ref target="#Eccl.4.11">4.11</ref>) »</quote>, <quote>« Passe le temps avec ta bien aimée (<ref target="#Eccl.9.9">9.9</ref>) »</quote> conseille même Qohélet, mais pas avec la femme des autres, car ce serait contre un commandement donné à Moïse. Sa société était alors conjugale et monogame. Qohélet cherche la paix avec les autres et avec sa conscience. Enfin <quote>« se donner du bon temps en son travail »</quote>, car <quote>« Dieu prend plaisir en tes œuvres (<ref target="#Eccl.9.7">9.7</ref>) »</quote>, c’est une morale de travailleur<note>Mais quand Qohélet se prend pour Salomon fils de David, il se donne plus d’esclaves que tout le monde à Jérusalem <ref target="#Eccl.2.7"><title>Eccl</title>.2.7</ref>, mais cela semble une exagération fictive.</note>, un Grec n’y aurait pas pensé.</p>
+        <p>Épicure avait des esclaves et ne propose sa morale du bonheur que pour des oisifs qui cherchent un <emph>régime</emph>, une règle, un équilibre propice à la santé du corps et au calme de l’âme : <quote>« du pain d’orge et de l’eau donnent le plaisir extrême, lorsqu’on les porte à sa bouche dans le besoin »<note>Épicure, <emph>Lettre à Ménécée</emph>, traduction Marcel Conche, 1977</note></quote>. Il conseillera la diète aux riches, mais il ne trouve pas cette joie plus grande du repos après le travail.</p>
+        <label>Fortune et Providence</label>
+        <quote>
+          <p>Qui prend garde au vent ne sème point :
+            <lb/>et qui regarde les nuées, ne moissonne point. (<ref target="#Eccl.11.4"><title>Eccl</title>.11.4</ref>)</p>
+        </quote>
+        <p>La morale de Qohélet s’appuie sur une métaphysique, en tous cas une conception du temps, que l’on comprendra plus finement par contraste avec Épicure. Le grec écrit : <quote>« Il faut encore se rappeler que l’avenir n’est ni tout à fait nôtre ni tout à fait non-nôtre, afin que nous ne l’attendions pas à coup sûr comme devant être, ni n’en désespérions comme devant absolument ne pas être »</quote>. On retrouve la distinction stoïcienne entre ce qui dépend de nous (l’avenir qui est mien) et ce sur quoi nous ne pouvons rien et dont il ne faudrait pas s’affecter. Épicure poursuit contre ceux qui croient au hasard, ou au destin, alors que l’on ne peut rien en conclure.</p>
+        <p>Qohélet prend aussi la mesure de notre ignorance de l’avenir et le formule dans une image concrète et paysanne : sème sans craindre le vent, moissonne même si les nuages menacent (on verra). Ce qui lui est cher ne dépend pas de lui, il n’a pas de particulier sur lequel se replier contre les revers de la fortune, il doit prendre ce qui vient et s’abandonne à l’Inconnu, à la Providence.</p>
+        <p>De cette ignorance du futur, Épicure tire une conclusion virile et aristocratique. Il est inutile de craindre la mort, puisque nous ne savons pas son heure ; et qu’avant, nous sommes vivants ; et qu’après, nous n’y sommes plus. Qohélet partage les prémisses, « les hommes ne savent point leur temps (<ref target="#Eccl.9.12">9.12</ref>) » ; mais pas la conclusion.</p>
+        <p>Épicure a une conception très abstraite du temps, comme s’il était une suite d’instants qui ne durent pas, qui ne pèsent pas plus qu’ils ne s’accumulent. S’il est si difficile de se convaincre de ses raisons, c’est que dans notre chair est inscrite cette peur panique de sa disparition, sa fièvre de se reproduire, et de se survivre. Qohélet, comme le reste de la Bible d’ailleurs, aime les enfants, il désespère de voir s’épuiser des personnes dont les héritiers ne sont pas venus, « je vois sous le soleil une chose qui rien ne vaut […] tel qui est tout seul sans hoir [héritier …] qui néanmoins ne cesse jamais de travailler (<ref target="#Eccl.4.8">4.8</ref>) » ; le philosophe grec n’en parle pas. Le temps de la moisson, des naissances, attache Qohélet à un monde qui lui est cher, dont il se sent une partie, il n’est pas un homme seul cherchant seulement l’indépendance, il aime le monde de toute sa chair, la mort est nécessairement un arrachement. Ce qu’il pleure au fond, est la beauté de la vie, dont il voudrait qu’elle soit vaine si elle est sans lui, mais les générations passent et la terre dure (<ref target="#Eccl.1.4">1.4</ref>).</p>
+        <label>La Conspiration</label>
+        <p>Parmi les formules plus répétées, comme <quote>rien ne vaut rien</quote>, il en est une plus équivoque, traduite par la <title>TOB</title> (2010) en <quote>« tout est vanité et poursuite de vent »</quote>, et par Sacy (1667) en <quote>« tout est vanité et affliction d’esprit »</quote>. <emph>Vent</emph> ou <emph>esprit</emph> ? Qui se trompe ? Le vent résulte pour nous d’une différence de pression dans l’atmosphère, mais que pouvait-il signifier alors ? Il n’était pas irrationnel de penser que le souffle du ciel participait du même mystère que celui de la vie. L’hésitation des traducteurs entre sens abstrait ou concret concerne un même mot hébreu, <emph>rū·aḥ</emph>, que Chouraki (1974) traduit de manière conséquente partout par <emph>souffle</emph>, ainsi dans 12.7 : <quote>« La poussière retourne à la terre comme elle était, et le souffle retourne vers Elohîms qui l’a donné… »</quote> Le monde de Qohélet conspire, les corps et la terre reçoivent leur souffle de Dieu.</p>
+        <p>La théologie païenne est par principe, multiple. Les dieux jouent et s’affrontent sur terre et dans l’humanité. Les gens sont inégaux, le peuple a peur de la colère des dieux, il soudoie des prêtres pour essayer d’être en paix avec eux, Épicure propose une solution rationnelle qui est la nôtre aujourd’hui. Le monde n’est qu’un ensemble d’atomes qui s’entrechoquent selon les lois de la matière. Prier n’amène pas la pluie. C’est à cette condition de séparation radicale de l’âme d’avec les choses que le sage trouve une paix entre ses éléments, comme un bouchon trouve une flottaison sur une mer agitée.</p>
+        <p>Si notre science donne maintenant raison à Épicure, Kant écrivait encore en 1790 dans la <title>Critique de la Faculté de Juger</title> qu’il est <quote>« absurde d’espérer qu’il surgira un jour quelque Newton qui pourrait faire comprendre ne serait-ce que la production d’un brin d’herbe »</quote>. Nous l’avons maintenant, avec Darwin et la génétique, mais Épicure n’expliquait déjà pas l’inertie du mouvement, c’était un acte de foi assez fou de croire que le souffle de la vie et la pensée ne tenait qu’à des atomes qui se choquent. Qohélet a désormais tort, mais il était plus raisonnable qu’Épicure. La théologie d’un Dieu unique qui ne se laisse pas acheter par les prières lui évitait les superstitions que combattaient Épicure, sans perdre l’âme du monde dans une soupe mécanique d’atomes.</p>
+        <p>Selon cette perspective, l’Église a eu raison de condamner Galilée, moins à cause du soleil comme centre du monde que du principe d’inertie qui assure l’éternité du mouvement des planètes sans l’action de Dieu, si bien que le monde peut très bien ne pas avoir été créé, comme celui d’Épicure. Si Galilée est vrai, alors <title>La Bible</title> est fausse ; les philosophes antiques ne sont plus les égarés du premier cercle des enfers selon Dante, c’est Qohélet et les pères de l’Église qu’il faut mettre aux enfers des erreurs de la science. Il est de coutume aujourd’hui de se moquer des inquisiteurs qui n’auraient rien compris à Galilée. Ils avaient au contraire mesuré les conséquences sociales de ses vérités, comme ils l’avaient fait par le passé à l’égard des différentes hérésies élitistes et sectaires. Le paysan pouvait faire corps avec Qohélet, vibrer des mêmes joies et désespoirs, du souffle qui descend dans l’enfant au ventre de la mère (<ref target="#Eccl.11.5">11.5</ref>) ou qui ramène les nuages qui menacent la moisson (<ref target="#Eccl.11.4">11.4</ref>). Dans le monde froid de la science, seuls les meilleurs savent, et les autres qui essaient de suivre ne peuvent qu’obéir ou s’inventer des théories plus sentimentales mais fausses.</p>
+        <label>Pour conclure</label>
+        <p>Lire Qohélet, c’est se convaincre que l’on ne peut absolument plus croire à son Dieu, nous ne sentons plus son monde pneumatique de souffles ; mais nous aimerions trouver une sagesse aussi humaine, et compatible avec notre physique de mécanique et d’information. Mais de même, nous ne voulons pas de la société d’Épicure, de sages calmes par-dessus les passions et l’histoire, ne cherchant au fond qu’un petit confort égoïste assez vain, qui apporte peu au monde ; nous voudrions cette paix mais dans l’action. Nos vies ressemblent plus à celle de Qohélet, avec si possible une famille, des enfants, un travail utile aux autres et où on se réalise, et des congés pour se réunir et banqueter ensemble. Peu importe que ce soit ou pas un don de Dieu, c’est en tous cas une joie de la vie. Plus on sera heureux dans la vie, plus on sera malheureux de la quitter, c’est peut-être dans l’ordre des choses, tant pis, il faudra pleurer, mais pour qui se lamenter est un problème ? Sans doute pour un Grec élitiste et viriliste.</p>
+        <ab type="dinkus">⁂</ab>
+        <label>Castellion</label>
+        <p>Ce n’est pas seulement par goût pour sa langue que Qohélet est donné ici dans la traduction de Castellion (1515, Savoie – 1563, Bâle). Pour mieux connaître cet érudit, on peut lire Stefan Zweig, <ref target="https://hurlus.fr/zweig1936_conscience-violence/">une Conscience contre la violence : Castellion contre Calvin</ref>. Après avoir traduit <title>la Bible</title> en latin pour les doctes, Castellion a voulu donner un texte en français « <emph>pour les idiots</emph> » (selon ses propres mots) ; pour être le livre de toutes les familles. Mais cette traduction de 1555 est maudite.</p>
+        <p>Castellion est issu de paysans pauvres et arrive à faire des études à Lyon où il découvre l’humanisme classique. Il sait le grec et lira Épicure. En 1534, Luther traduit <title>la Bible</title> pour la première fois dans une langue vulgaire, son allemand, depuis l’hébreu original et non le latin de <title>la Vulgate</title> officielle de l’Église. Castellion est alors pris de la fièvre de son époque, il rejoint Calvin en 1540, il est excommunié de Genève en 1544, parce qu’il défend que le <title>Cantique des Cantiques</title> n’est pas une pure allégorie de Dieu et son Église, c’est une véritable histoire d’amour charnel qui déplaît fort au puritain Calvin.</p>
+        <p>Castellion ne veut rien perdre des leçons de l’humanisme païen, comme par exemple Rabelais, tout en cherchant un humanisme chrétien authentique, tel qu’il est dans les textes. Il a réussi à faire paraître sa Bible en 1555 à Bâle, mais attaqué par l’Église catholique, ainsi que les calvinistes, et n’ayant pas écrit en néerlandais pour intéresser la Hollande (qui a relu et parfois imprimé son latin contre les puritains), cette traduction n’a été rééditée au complet qu’en 2005<note><title>La Bible nouvellement translatée par Sébastien Castellion (1555)</title>, Paris, Bayard, 2005 (édition : Gomez-Géraud, Marie-Christine &amp; Mistral, Laure),</note>, 450 ans après. Cette édition est d’ailleurs introuvable en 2020, cette <title>Bible</title> est maudite. Remercions heureusement ce siècle numérique, une version de 1555 a été numérisée par <ref target="https://books.google.fr/books?id=aShJAAAAcAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Google</ref>.</p>
+        <label>Cette édition</label>
+        <p>Le texte donné ici a été établi sur l’imprimé original, et modernisé pour nous rendre la langue plus familière. À l’époque, l’orthographe n’était pas fixée, chaque imprimeur ou auteur pouvait chercher la sienne. Celle de Castellion était très proche de la nôtre, et même un peu plus régulière. Par exemple il écrivait notre <emph>il est</emph> avec un accent circonflexe, « <emph>il êt »</emph>, comme dans <emph>forêt</emph> ; ou bien la conjonction <emph>et</emph> comme en espagnol, « <emph>e</emph> », puisque le <emph>t</emph> ne se prononce jamais, même en liaison.</p>
+        <p>Dans chaque détail, ce traducteur met de l’intelligence. Il ajoute très peu de notes, dont l’appel se fait avant ce qu’il veut éclairer, comme pour préparer le lecteur par une information ; par contre il évite ces surcharges marginales des catholiques ou des calvinistes qui ensevelissent la parole de Dieu sous leurs commentaires pour que le lecteur lisent bien leur dogme et pas le texte.
+          Vouloir absolument que les prophètes annoncent déjà le Christ ou l’Église, ou combattent l’épicurisme et le nihilisme, c’est pour le moins construire un Qohélet parallèle.</p>
+        <p>Castellion pense que la parole de Dieu parle toute seule, ou alors elle ne vaut pas d’être crue. Ses remarques très brèves sont parfois lumineuses, tranchant dans des siècles de contradictions rabbiniques ou de reformulations charitables des chrétiens, par exemple en 12.2-5.</p>
+        <space/>
+        <p>Ce qui s’adressait aux idiots d’hier garde un sel populaire mais demande tout de même un petit effort aujourd’hui. L’éditeur a ajouté quelques notes de vocabulaire (appels en a, b, c…). Les versets sont numérotés comme de nos jours, les passages à la ligne sont repris de <title>la TOB</title>, assurant que Castellion a scrupuleusement suivi le découpage à l’intérieur des versets de l’hébreu, à la réserve de quelques rares inversions pouvant s’expliquer par le texte qu’il avait à l’époque.</p>
+        <p>Une note de bas de page en 12.6 nous rend son scrupule définitivement attachant : <quote>« je n’entends pas ces quatre »</quote> (divisions qui font un verset). L’Église ou Calvin auraient-ils osé dire qu’ils ne comprenaient pas <title>la Bible</title>, alors qu’ils s’instituaient les interprètes de la « <emph>parole de Dieu</emph> » sur terre ? Castellion est par ailleurs lumineux en bien des endroits, donnant des leçons encore retenues, il a quelques faiblesses, elles sont rares. Sa traduction est une école de probité intellectuelle. Il montre ce qu’est comprendre simplement sans se payer de mots obscurs. Ce n’est pas facile de de s’adresser aux « idiots », il faut beaucoup travailler pour être simple. C’est une joie de notre siècle numérique de pouvoir venger Castellion de Calvin<note>Voir note de l’éditeur en 2.3</note>, et le donner gratuitement.</p>
+        <dateline>Neuch, le 20 août 2021</dateline>
+      </abstract>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="-250"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <div>
+        <head><title>Eccl</title>.1</head>
+        <p n="1" xml:id="v1.1"><emph>Les paroles du prêcheur fils de David roi de Jérusalem.</emph></p>
+        <space unit="line" quantity="1"/>
+        <p n="2" xml:id="v1.2">Tout ne vaut rien, dit le prêcheur,
+          <lb/>tout ne vaut rien, tout ne vaut du tout rien.</p>
+        <ab type="dinkus">*</ab>
+        <p n="3" xml:id="v1.3">Que gagne l’homme
+          <lb/>par toute la peine qu’il prend sous le soleil ?</p>
+        <p n="4" xml:id="v1.4">L’âge s’en va, et l’âge vient<note place="bottom" resp="editor">Castellion n’a pas été ici le plus inspiré. <ref target="https://www.e-rara.ch/gep_g/ch16/content/titleinfo/976561">Calvin</ref> reprend la leçon de la <emph>Vulgate</emph> ou des <emph>Septantes</emph> : « <emph>Une génération passe, &amp; l’autre génération vient</emph> ».</note>,
+          <lb/>et la terre demeure toujours.</p>
+        <p n="5" xml:id="v1.5">Le soleil lève, et le soleil couche
+          <lb/> et ahane pour aller au lieu même où il est levé.</p>
+        <p n="6" xml:id="v1.6">Il s’en va contre le midi, et retourne contre la bise :
+          <lb/>le vent s’en va tout alentour,
+          <lb/>et retourne le même vent à son tour.</p>
+        <p n="7" xml:id="v1.7">Toutes rivières vont en la mer,
+          <lb/>et si n’est pas la mer pleine :
+          <lb/>au même lieu que vont les rivières,
+          <lb/>elles y re-vont derechef.</p>
+        <p n="8" xml:id="v1.8">Toutes choses sont si difficiles, qu’homme ne les saurait déchiffrer.
+          <lb/>L’œil n’est jamais soul de voir,
+          <lb/>ni l’oreille pleine d’ouïr.</p>
+        <p n="9" xml:id="v1.9">Ce qui a été, sera :
+          <lb/>et ce qui a été fait, sera fait,
+          <lb/>et n’y a rien de nouveau sous le soleil.</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="v1.10">Il y a telle chose
+          <lb/>qu’on montre comme nouvelle,
+          <lb/>laquelle toutefois a déjà été au temps passé, qui a été devant nous.</p>
+        <p n="11" xml:id="v1.11">Il n’est mémoire des passés :
+          <lb/>et même de ceux qui sont à venir,
+          <lb/>il n’en sera mémoire
+          <lb/>vers ceux qui seront après.</p>
+        <ab type="dinkus">*</ab>
+        <p n="12" xml:id="v1.12">Moi prêcheur, qui suis roi d’Israël en Jérusalem,</p>
+        <p n="13" xml:id="v1.13">ai appliqué mon entendement à examiner et éplucher<note place="bottom" resp="editor">« examiner »</note> par sagesse
+          <lb/>tout ce qui se fait sous le ciel
+          <lb/>(voila une mauvaise fâcherie, que Dieu a donnée
+          <lb/>à la race des hommes pour les tourmenter)</p>
+        <p n="14" xml:id="v1.14">et en considérant toutes les choses qui se font sous le soleil,
+          <lb/>j’ai trouvé que tout ne vaut rien, et n’est qu’un tourment d’esprit<note place="bottom" resp="editor">Se traduit de nos jours de manière plus littérale par « <emph>poursuivre ou ruminer du vent</emph> », peut-être une locution perdue. Dès les <emph>Septantes</emph> grecs (-270), ou pour les catholiques dans la Vulgate (405), le vent est interprété comme <emph>esprit, afflictio spiritus</emph> ; l’humeur n’est que vanité.</note>,</p>
+        <p n="15" xml:id="v1.15">vu qu’il y a tant de choses gâtées, que c’est chose inamendable :
+          <lb/>et tant de fautes, que c’est chose infinie.</p>
+        <space unit="line" quantity="1"/>
+        <p n="16" xml:id="v1.16">J’ai quelquefois pensé en ma fantaisie :
+          <lb/>Or-ça, je suis un grand personnage, et ai plus acquis de sagesse,
+          <lb/>que tous ceux qui ont été devant moi en Jérusalem,
+          <lb/>et ai en mon cœur la connaissance de beaucoup de sagesse et science.</p>
+        <p n="17" xml:id="v1.17">Mais quand j’appliquai mon entendement à connaître tant la sagesse
+          <lb/>que la folie et sottise,
+          <lb/>j’ai entendu que ce n’était encore qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <p n="18" xml:id="v1.18">Car tant de sagesse, tant de chagrin :
+          <lb/>et qui plus apprend, plus se tourmente.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.2</head>
+        <p n="1" xml:id="Eccl.2.1">Je vins une fois à penser ainsi :
+          <lb/>Or-ça, il me faut prendre mes plaisirs, et me donner de bon temps :
+          <lb/>mais je trouvai que cela ne vaut encore rien,</p>
+        <p n="2" xml:id="Eccl.2.2">tellement que j’étais contraint de dire, que de rire ce n’est autre chose qu’être hors du sens :
+          <lb/>et que plaisir ne sert de rien.</p>
+        <p n="3" xml:id="Eccl.2.3">Je délibérais en ma fantaisie
+          <lb/>d’abandonner mon corps à boire<note place="bottom" resp="editor">Cela ne se disait pas dans la <emph>Vulgate</emph> « <emph>Cogitavi in corde meo abstrahere a vino carnem meam</emph> ; j’ai pensé en cœur mien d’abstraire du vin chair mienne » ; que l’on retrouve mieux dit chez le catholique Sacy (1667) : « <emph>j’ai pensé en moi-même de retirer ma chair du vin</emph> ». La <emph>Bible de Genève</emph> (<ref target="https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-3320">1588, révision de Bèze</ref>) n’a pas retenu la leçon de Castellion, préférant le puritanisme à la vérité du texte, proposant un étrange : « J’ai recherché en mon cœur le moyen de me traiter délicatement ». Les <emph>Septantes</emph> grecs (-270), peut-être plus proche de la source, proposent une solution très astucieuse pour concilier la morale et l’ivrognerie « <emph>Et j’ai examiné si mon cœur enivrerait ma chair comme du vin ; et mon cœur m’a conduit à la sagesse et au désir de posséder le bonheur</emph> » (<ref target="https://archive.org/details/LaBibleDesSeptanteEnFrancaisVol3/page/n388/mode/1up">traduction 1865</ref>, Pierre Giguet). Les traductions actuelles s’accordent désormais à considérer que le sage essaie bien ici de faire l’expérience de l’ivresse et de la folie, pour savoir ce qui convient le mieux à l’humanité.</note>
+          <lb/>(sans toutefois laisser de pratiquer sagesse en mon cœur)
+          <lb/>et m’appliquer à folie,
+          <lb/>jusqu’à tant que je verrais où gît le bien de la race des hommes,
+          <lb/>lequel ils doivent pourchasser sous le ciel
+          <lb/>tout le temps de leur vie.</p>
+        <space unit="line" quantity="1"/>
+        <p n="4" xml:id="Eccl.2.4">Je fis des œuvres magnifiques :
+          <lb/>me bâtis des maisons : plantais vignes :</p>
+        <p n="5" xml:id="Eccl.2.5">fis jardins et vergers,
+          <lb/>et y plantai toutes sortes d’arbres fruitiers.</p>
+        <p n="6" xml:id="Eccl.2.6">Je fis des étangs,
+          <lb/>pour abreuver un bocage planté d’arbres.</p>
+        <p n="7" xml:id="Eccl.2.7">J’achetai serviteurs et servantes, et non seulement eu ménage,
+          <lb/>mais même eu plus de bestiaux, tant gros que menu,
+          <lb/>que tous ceux qui devant moi avaient été en Jérusalem.</p>
+        <p n="8" xml:id="Eccl.2.8">J’amassai aussi argent et or,
+          <lb/>et chevance<note place="bottom" resp="editor">« biens, patrimoine »</note> de rois et provinces.
+          <lb/>Je fis provision de chantres et chanteresses,
+          <lb/>et des passe-temps de la race des hommes, échansons et tasses :</p>
+        <p n="9" xml:id="Eccl.2.9">et devins si grand,
+          <lb/>que j’avais plus que personne de ceux qui furent devant moi en Jérusalem, retenant néanmoins ma sagesse.</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="Eccl.2.10">Item de tout ce que mes yeux souhaitaient, je ne leur refusais rien,
+          <lb/>et n’épargnais à mon cœur plaisir quelconque,
+          <lb/>mais le laissait jouir de tout mon travail,
+          <lb/>et <cb n="MCCXCIX"/> voila que me valait tout mon travail.</p>
+        <p n="11" xml:id="Eccl.2.11">Mais en contemplant toutes les œuvres
+          <lb/>que j’avais maniées,
+          <lb/>et la peine que j’avais prise à les faire,
+          <lb/>je trouvais que tout n’est rien qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>,
+          <lb/>et que sous le soleil n’y a rien qui vaille.</p>
+        <ab type="dinkus">*</ab>
+        <p n="12" xml:id="Eccl.2.12">Donc quand je me mis à considérer
+          <lb/>tant sagesse que folie et sottise
+          <lb/>(car <note place="bottom">il n’y a homme pareil à moi en sagesse</note>y a-t-il homme qui puisse seconder le roi,
+          <lb/>depuis qu’il a été fait roi ?)</p>
+        <space unit="line" quantity="1"/>
+        <p n="13" xml:id="Eccl.2.13">j’aperçus bien
+          <lb/>que sagesse est d’autant plus excellente que folie,
+          <lb/>que la lumière est plus excellente que les ténèbres.</p>
+        <p n="14" xml:id="Eccl.2.14">Le sage a des yeux en la tête
+          <lb/>et le fol chemine en ténèbres.
+          <lb/>Mais aussi sais-je bien qu’il en prendra à tous à l’un comme à l’autre :</p>
+        <p n="15" xml:id="Eccl.2.15">et pourtant je faisais ainsi mon compte :
+          <lb/>Puis qu’il m’adviendra tout ainsi qu’à un fol,
+          <lb/>à quoi me sert d’être de tant plus sage ?
+          <lb/>Si concluait en mon courage, que cela ne vaut encore rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="16" xml:id="Eccl.2.16">Car non plus d’un sage que d’un fol,
+          <lb/>la mémoire n’est perdurable,
+          <lb/>attendu que toutes choses, tant passées qu’à venir, viennent en oubli,
+          <lb/>et qu’aussi bien meurt sage que fol.</p>
+        <space unit="line" quantity="1"/>
+        <p n="17" xml:id="Eccl.2.17">Et pourtant hais-je la vie 
+          <lb/>tant me déplaisent les choses qui se font sous le soleil,
+          <lb/>pour-autant qu’elles ne valent toutes rien, et ne sont qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <space unit="line" quantity="1"/>
+        <p n="18" xml:id="Eccl.2.18">Aussi hais-je tout ce que par mon travail j’ai fait sous le soleil
+          <lb/>ce que je laisserai à celui qui viendra après moi.</p>
+        <p n="19" xml:id="Eccl.2.19">Et qui sait si celui sera sage ou fol,
+          <lb/>qui sera maître de tout ce que j’ai,
+          <lb/>avec tant de peine et sagesse, acquis sous le soleil ?
+          <lb/>Dont voyant que cela ne valait encore rien,</p>
+        <space unit="line" quantity="1"/>
+        <p n="20" xml:id="Eccl.2.20">je suis venu à avoir en dédain
+          <lb/>tout ce que j’avais acquis sous le soleil par travail et sagesse.</p>
+        <p n="21" xml:id="Eccl.2.21">Car il y en a tel qui travaille
+          <lb/>avec sagesse et science et devoir,
+          <lb/>qui laisse son avoir à tel qui n’y a point pris peine :
+          <lb/>qui est une chose fort mauvaise et qui rien ne vaut.</p>
+        <space unit="line" quantity="1"/>
+        <p n="22" xml:id="Eccl.2.22">Car que sert à un homme
+          <lb/>tout le travail et fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>
+          <lb/>qu’il endure sous le soleil,</p>
+        <p n="23" xml:id="Eccl.2.23">vu qu’il ne fait toute sa vie que souffrir peine et tourment
+          <lb/>chagrigneux,
+          <lb/><cb n="MCCC"/> tellement que son cœur ne repose pas même la nuit ?
+          <lb/>ce qui ne vaut encore rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="24" xml:id="Eccl.2.24">Il n’y a autre bien en l’homme que de manger et boire,
+          <lb/>et se donner du bon temps en son travail,
+          <lb/>laquelle chose je vois bien qu’elle vient aussi de Dieu</p>
+        <space unit="line" quantity="1"/>
+        <p n="25" xml:id="Eccl.2.25">(car <note place="bottom">je le peux bien savoir vu que j’ai tant de biens acquis par la sagesse que Dieu m’a donnée.</note>qui est celui qui puisse plus manger ou gourmander que moi ?)</p>
+        <p n="26" xml:id="Eccl.2.26">vu qu’aux hommes, qui lui plaisent, il donne sagesse, science et plaisir,
+          <lb/>et aux mal-vivants donne le tourment d’assembler et amasser pour donner à ceux qui plaisent à Dieu.
+          <lb/>Ceci n’est encore rien qui vaille, et n’est qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.3</head>
+        <p n="1" xml:id="Eccl.3.1">Toutes choses ont leur saison,
+          <lb/>et tout ce qui plaît sous le ciel, à son temps.</p>
+        <p n="2" xml:id="Eccl.3.2">Il y a temps de naître, et temps de mourir :
+          <lb/>temps de planter, et temps d’arracher ce qui est planté :</p>
+        <p n="3" xml:id="Eccl.3.3">temps de tuer, et temps de guérir :
+          <lb/>temps de débâtir, et temps de bâtir :</p>
+        <space unit="line" quantity="1"/>
+        <p n="4" xml:id="Eccl.3.4">temps de pleurer, et temps de rire :
+          <lb/>temps de mener deuil, et temps de danser :</p>
+        <p n="5" xml:id="Eccl.3.5">temps de jeter pierres, et temps d’amasser pierres :
+          <lb/>temps d’embrasser, et temps de s’en garder :</p>
+        <p n="6" xml:id="Eccl.3.6">temps d’acquérir, et temps de perdre :
+          <lb/>temps de garder, et temps de jeter en voie :</p>
+        <p n="7" xml:id="Eccl.3.7">temps de coudre, et temps de découdre :
+          <lb/>temps de se taire, et temps de parler :</p>
+        <p n="8" xml:id="Eccl.3.8">temps d’aimer, et temps de haïr :
+          <lb/>temps de guerre, et temps de paix.</p>
+        <p n="9" xml:id="Eccl.3.9">Que vaut le travail à un qui fait quelque chose ?</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="Eccl.3.10">Je vois le méchef<note place="bottom" resp="editor">« malheur »</note> que Dieu a donné
+          <lb/>à la race des hommes pour les tourmenter.</p>
+        <p n="11" xml:id="Eccl.3.11">Il fait bien tout en son temps,
+          <lb/>et leur a tellement mis la vie<note resp="editor">Ailleurs, Castellion traduit le même mot hébreu par « à tout jamais » (Ps.28.9), « toujours » (Ps.41.13), ou « de tous temps en tous temps » (ps.106.48) ; comme c’est entendu désormais, et déjà dans <title>les Septantes</title> (qui met <foreign>aion</foreign>, <emph>l’éternité</emph>, dans le cœur des hommes). Il n’a en tous cas pas repris l’interprétation de <title>la Vulgate</title> <quote>« et <emph>mundum</emph> tradidit disputationi eorum »</quote>, qui donne dans les mots de Sacy cet étrange : <quote>« et il a livré le <emph>monde</emph> à leurs disputes »</quote>, ou bien dans Calvin-Bèze 1588 : « aussi a-t-il mis le <emph>monde</emph> dans leur cœur ». Ce verset équivoque concentre tout le paradoxe d’un Dieu bon, qui fait tout au mieux et à temps, sans que l’on puisse en pénétrer la raison (<ref target="#Eccl.8.17">8.17</ref>), car notre désir est infini, cet infini que Dieu a inscrit en nous et qui nous rend à jamais insatisfait. En choisissant de  mettre <emph>la vie</emph> au cœur, et non une abstraction dans la tête, Castellion garde à Qohélet une expression personnelle, vécue, existentielle (au risque du faux-sens). Mais est-ce qu’un concept métaphysique aurait apporté ici à l’essentiel qu’un paroissien de tous les jours voudrait savoir ?</note> au cœur,
+          <lb/>que<note place="bottom">de toute leur vie.</note> depuis le commencement jusqu’à la fin
+          <lb/>les hommes ne peuvent trouver<note place="bottom">par quelle cause et raison il fait ce qu’il fait.</note> que c’est que fait Dieu.</p>
+        <space unit="line" quantity="1"/>
+        <p n="12" xml:id="Eccl.3.12">Je sais qu’il n’y a point de bien en eux,
+          <lb/>sinon qu’ils s’éjouissent et fassent bien en leur vie.</p>
+        <p n="13" xml:id="Eccl.3.13">Voire ce que tout homme banquette,
+          <lb/>et parmi tout son travail jouit du bien,
+          <lb/>c’est un don de Dieu.</p>
+        <p n="14" xml:id="Eccl.3.14">Je sais que tout ce que fait Dieu, est perdurable<note place="bottom" resp="editor">de <emph>perdurer</emph> « éternel »</note>,
+          <lb/>et n’y faut ajouter ni ôter :
+          <lb/>or Dieu se fait craindre.</p>
+        <space unit="line" quantity="1"/>
+        <p n="15" xml:id="Eccl.3.15">Ce qui a été, est déjà : et ce qui sera <cb n="MCCCI"/> a déjà été,
+          <lb/>et Dieu rappelle ce qui a été chassé.</p>
+        <ab type="dinkus">*</ab>
+        <p n="16" xml:id="Eccl.3.16">D’avantage voyant que sous le soleil
+          <lb/>en lieu de droit et justice, il y a méchanceté et injustice,</p>
+        <p n="17" xml:id="Eccl.3.17">je pense en moi-même
+          <lb/>que Dieu jugera et les justes et les injustes :
+          <lb/>car tout bandon<note place="bottom" resp="editor">de <emph>ban</emph> « gouvernement, justice »</note> et œuvres
+          <lb/>auront une fois leur temps.</p>
+        <space unit="line" quantity="1"/>
+        <p n="18" xml:id="Eccl.3.18">Je pense en moi-même,
+          <lb/>touchant les hommes,
+          <lb/>que Dieu les a tellement destinés,
+          <lb/>qu’il semble qu’ils soient bêtes.</p>
+        <p n="19" xml:id="Eccl.3.19">Car il en prend tout ainsi d’un homme que d’une bête :
+          <lb/>comme elle meurt, aussi fait-il,
+          <lb/>et ont tous deux un même esprit<note place="bottom">« souffle de vie »</note>,
+          <lb/>et n’y a rien en quoi l’homme surmonte la bête,
+          <lb/>vu que tous deux ne valent rien.</p>
+        <p n="20" xml:id="Eccl.3.20">Tous deux s’en vont en un même lieu :
+          <lb/>tous deux sont venus de poudre<note place="bottom" resp="editor">« poussière, cendre »</note>,
+          <lb/>et tous deux re-vont en poudre.</p>
+        <p n="21" xml:id="Eccl.3.21">Qui sait si l’esprit de la race des hommes
+          <lb/>monte en haut ?
+          <lb/>ou si l’esprit d’une bête
+          <lb/>descend dessous terre ?</p>
+        <space unit="line" quantity="1"/>
+        <p n="22" xml:id="Eccl.3.22">Je vois bien qu’il n’y a point de bien,
+          <lb/>sinon que l’homme se réjouisse en ses œuvres : car c’est-ce qu’il en a<note place="bottom" resp="editor">« sa part »</note>.
+          <lb/>Car qui l’amènera à-savoir ce qui sera après lui ?</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.4</head>
+        <p n="1" xml:id="Eccl.4.1">Derechef voyant tant de torts
+          <lb/>qui se font sous le soleil,
+          <lb/>et les larmes de ceux auxquels on fait tort,
+          <lb/>lesquels nul ne console :
+          <lb/>on leur fait tort par force,
+          <lb/>et nul ne les console :</p>
+        <p n="2" xml:id="Eccl.4.2">je prise plus les morts qui sont déjà morts,
+          <lb/>que les vifs qui sont encore en vie :</p>
+        <p n="3" xml:id="Eccl.4.3">et si estime encore plus que les uns ni les autres,
+          <lb/>ceux qui ne sont pas encore,
+          <lb/>lesquels ne voient pas les mauvaises choses
+          <lb/>qui se font sous le soleil.</p>
+        <ab type="dinkus">*</ab>
+        <p n="4" xml:id="Eccl.4.4">Item je vois que tout le travail
+          <lb/>et devoir de ce qu’on fait,
+          <lb/>n’est autre chose qu’envie des uns contre les autres :
+          <lb/>ce qui ne vaut encore rien, et n’est qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <space unit="line" quantity="1"/>
+        <p n="5" xml:id="Eccl.4.5">Un fol <note place="bottom">est paresseux et meurt de faim.</note>plie ses mains,
+          <lb/>et mange sa propre chair.</p>
+        <p n="6" xml:id="Eccl.4.6">Mieux vaut une pognée<note place="bottom" resp="editor">« pogne, main »</note> en repos,
+          <lb/>qu’une havée<note place="bottom" resp="editor">« une poignée, redevance due au marché »</note> avec peine et fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <ab type="dinkus">*</ab>
+        <p n="7" xml:id="Eccl.4.7">Derechef je vois sous le soleil une chose qui rien ne vaut,</p>
+        <p n="8" xml:id="Eccl.4.8">qu’il y en a tel qui est tout seul sans hoir<note place="bottom" resp="editor">« héritier »</note>,
+          <lb/>voire sans fils ni frère,
+          <lb/><cb n="MCCCII"/> qui néanmoins ne cesse jamais de travailler,
+          <lb/>et n’a jamais <note place="bottom">convoitise</note>l’œil soul de richesses :
+          <lb/>et <note place="bottom">il devrait penser pour qui, etc.</note>pour qui travaille-je,
+          <lb/>et ne mange pas demi mon soul ?
+          <lb/>ce qui ne vaut encore rien, et est un mauvais tourment.</p>
+        <space unit="line" quantity="1"/>
+        <p n="9" xml:id="Eccl.4.9">Mieux valent deux qu’un,
+        <lb/>et sont bien récompensés de leur peine.</p>
+        <p n="10" xml:id="Eccl.4.10">Car s’ils tombent, ils se lèveront l’un l’autre.
+<lb/>Mais il fait mal être seul :
+          <lb/>car s’il tombe, il n’a personne pour le lever.</p>
+        <p n="11" xml:id="Eccl.4.11">D’avantage si deux couchent ensemble, ils s’échauffent :
+          <lb/>mais un comment s’échauffera-t-il ?</p>
+        <p n="12" xml:id="Eccl.4.12">et si l’un est vaincu,
+          <lb/>les deux tiendront bon,
+          <lb/>et ne se rompt pas tôt une corde à trois cordons.</p>
+        <ab type="dinkus">*</ab>
+        <p n="13" xml:id="Eccl.4.13">Mieux vaut un enfant bien appris et sage,
+          <lb/>que ne fait un roi vieux et fol, lequel ne saurait plus être endoctriné<note place="bottom" resp="editor">« instruire »</note>.</p>
+        <p n="14" xml:id="Eccl.4.14">Car tel sort de prison, qui devient roi :
+          <lb/>et tel est né roi, qui devient pauvre.</p>
+        <p n="15" xml:id="Eccl.4.15">J’ai autrefois vu tous les vivants qui se tiennent sous le soleil, accompagner un enfant second,
+          <lb/>qui devait être hoir de son père,</p>
+        <p n="16" xml:id="Eccl.4.16">tellement que tant de gens allaient devant et après lui, que c’était une chose infinie,
+          <lb/>et si <note place="bottom">il ne venait pas à être <emph>hoir</emph> de son père.</note>ne venaient point à s’en réjouir :
+          <lb/>ce qui ne vaut encore rien, et n’est qu’une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <ab type="dinkus">*</ab>
+        <p n="17" xml:id="Eccl.4.17"><note place="bottom">porte-toi sagement.</note>Garde tes pieds quand tu t’en vas en la maison Dieu,
+          <lb/>et t’avance plus pour ouïr que pour offrir sacrifice de fols :
+<lb/>car <note place="bottom">leurs sacrifices déplaisent à Dieu.</note>ils ne savent pas le mal qu’ils font.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.5</head>
+        <p n="1" xml:id="Eccl.5.1">Ne te hâte point légèrement de prononcer paroles de bouche,
+          <lb/>ou les tirer de ton cœur,
+          <lb/>devant Dieu :
+          <lb/>car Dieu est au ciel, et tu es en terre :
+          <lb/>et pourtant parle peu :</p>
+        <p n="2" xml:id="Eccl.5.2">car trop grand souci fait songer,
+          <lb/>et trop parler fait dire quelque sot propos.</p>
+        <space unit="line" quantity="1"/>
+        <p n="3" xml:id="Eccl.5.3">Quand tu auras fait vœu à Dieu,
+          <lb/>ne faut<note place="bottom" resp="editor">faillir</note> point à le rendre :
+          <lb/>car <note place="bottom"><emph>Deut</emph>.23.22, ceux qui font vœu sans le rendre.</note>les fols ne sont point agréables :
+          <lb/>rend ce que tu auras voué.</p>
+        <space unit="line" quantity="1"/>
+        <p n="4" xml:id="Eccl.5.4">Il vaut mieux que tu ne voues<note resp="editor">« faire un vœu »</note> point,
+          <lb/>que de vouer sans rendre.</p>
+        <p n="5" xml:id="Eccl.5.5">N’emploie pas <note place="bottom">à-savoir en vouant.</note>ta bouche pour endommager toi-même,
+          <lb/>et ne dis pas devant l’ange que c’est par mégarde,
+          <lb/><cb n="MCCCIII"/> de peur que Dieu n’ait dépit de ta parole,
+          <lb/>et ne renverse tes affaires.</p>
+        <p n="6" xml:id="Eccl.5.6">Car en beaucoup de paroles y a beaucoup de <note place="bottom">sottises</note>songes,
+          <lb/>et propos qui rien ne valent : et pourtant craint Dieu.</p>
+        <ab type="dinkus">*</ab>
+        <p n="7" xml:id="Eccl.5.7">Si tu vois qu’en une province on fasse tort aux pauvres,
+          <lb/>et qu’on force<note place="bottom" resp="editor">« soumettre par la violence »</note> droit et justice,
+          <lb/>ne t’ébahit pas d’un tel bandon<note place="bottom" resp="editor">de <emph>ban</emph> « gouvernement, justice »</note> :
+          <lb/>car <note place="bottom">il y a tant d’officiers sur officiers, que le roi ne peut pourvoir a tout.</note>il y a des officiers qui prennent garde sur les autres officiers,
+          <lb/> et eux-mêmes sont encore sujets à des autres,</p>
+        <p n="8" xml:id="Eccl.5.8">et le roi de la contrée qui est cultivée,
+          <lb/>est par-dessus tous ceux du pays.</p>
+        <ab type="dinkus">*</ab>
+        <p n="9" xml:id="Eccl.5.9">Qui argent aime, jamais d’argent ne soule :
+          <lb/>et qui aime richesses n’a point de profit,
+          <lb/>ce qui ne vaut encore rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="Eccl.5.10">A force biens, force mangeurs :
+          <lb/>et n’en a le maître autre profit
+          <lb/>que la vue.</p>
+        <p n="11" xml:id="Eccl.5.11">Un qui travaille, dort à son aise,
+          <lb/>soit qu’il mange peu, ou <note place="bottom"><emph>Job</emph>.20.22, car le travail lui fait faire digestion.</note>prou :
+          <lb/>mais quand un riche mange son soul,
+          <lb/>cela <note place="bottom">à cause qu’il ne travaille point.</note>le garde de dormir.</p>
+        <space unit="line" quantity="1"/>
+        <p n="12" xml:id="Eccl.5.12">Il y a un mauvais vice que je vois sous le soleil,
+          <lb/>c’est des richesses qui sont gardées à leur maitre pour son mal,</p>
+        <p n="13" xml:id="Eccl.5.13">lesquelles richesses périssent le plus misérablement du monde,
+          <lb/>vu qu’il a engendré un fils qui n’aura rien :</p>
+        <p n="14" xml:id="Eccl.5.14"><note place="bottom"><emph>Job</emph>.1.21, <emph>Tim</emph>.6.7.</note>et tout ainsi qu’il est sorti tout nu du ventre de sa mère,
+          <lb/>il retourne comme il était venu,
+          <lb/>sans rien emporter de sa peine
+          <lb/>pour lui tenir compagnie :</p>
+        <p n="15" xml:id="Eccl.5.15">ce qui est aussi un mauvais vice,
+          <lb/>vu qu’il s’en va tout ainsi qu’il était venu,
+          <lb/>sans avoir rien gagné d’avoir travaillé au vent.</p>
+        <p n="16" xml:id="Eccl.5.16">Je me tais que toute sa vie il mange en ténèbres,
+          <lb/>en maint chagrin, maladie, et dépit.</p>
+        <p n="17" xml:id="Eccl.5.17">Et pourtant ce que je vois de bon et beau,
+          <lb/>c’est qu’il mange et boive,
+          <lb/>et que toute sa vie, parmi toute la peine
+          <lb/>qu’il endure sous le soleil,
+          <lb/>il fasse bonne chère des biens que Dieu lui a donnés :
+          <lb/>car c’est son parti.</p>
+        <p n="18" xml:id="Eccl.5.18">Et de vrai, à tout homme que Dieu donne richesses et chevance,
+          <lb/>et lui donne puissance d’en banqueter,
+          <lb/>et emporter sa pièce, et jouir de son travail,
+          <lb/>c’est un don de Dieu.</p>
+        <p n="19" xml:id="Eccl.5.19">Car il ne lui souvient guère <note place="bottom">de ses maux.</note>du temps de sa vie,
+          <lb/>puis-que Dieu <cb n="MCCCIIII"/> lui octroie joie de cœur.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.6</head>
+        <p n="1" xml:id="Eccl.6.1">Il y a un mal que je vois sous le soleil,
+          <lb/>voire qui se trouve coutumièrement entre les hommes,</p>
+        <p n="2" xml:id="Eccl.6.2">c’est qu’il y en a tel, à qui Dieu donne tant de richesses, chevance et honneur,
+          <lb/>qu’il ne saurait souhaiter chose qu’il n’ait,
+          <lb/>et si ne lui donne pas Dieu puissance d’en manger,
+          <lb/>mais en mange un qui ne lui est rien :
+          <lb/>ce qui ne vaut rien, et est une mauvaise faute.</p>
+        <space unit="line" quantity="1"/>
+        <p n="3" xml:id="Eccl.6.3">Si quelqu’un engendre bien cent enfants,
+          <lb/>et qu’il vive beaucoup d’ans,
+          <lb/>et que non seulement il ne soûle point son appétit de biens,
+          <lb/>mais même ne soit point enterré,
+          <lb/>je dis que son cas se porte plus mal, que d’un avorton<note place="bottom" resp="editor">« enfant mort-né »</note>.</p>
+        <p n="4" xml:id="Eccl.6.4">Car un avorton qui est venu pour néant,
+          <lb/>et s’en va en ténèbres,
+          <lb/>et est son nom couvert de ténèbres,</p>
+        <p n="5" xml:id="Eccl.6.5">et ne vit ni ne connut même le soleil,
+          <lb/>est plus en repos qu’un tel homme.</p>
+        <p n="6" xml:id="Eccl.6.6">Mais un tel homme, quand bien il aurait vécu mille et autres mille ans,
+          <lb/>s’il n’a joui des biens,
+          <lb/>ne s’en vont-ils pas tous deux en un même lieu ?</p>
+        <ab type="dinkus">*</ab>
+        <p n="7" xml:id="Eccl.6.7">Toute la peine que prend l’homme, sert à sa bouche,
+          <lb/>et si a un appétit qui n’est jamais plein.</p>
+        <p n="8" xml:id="Eccl.6.8">Car de combien vaut mieux un sage qu’un fol ?
+          <lb/>ou un humble qui se sait bien gouverner entre les vivants ?</p>
+        <p n="9" xml:id="Eccl.6.9">Mieux vaut <note place="bottom">bien présent qu’espéré.</note>vue d’œil, qu’attente de cœur :
+          <lb/>ce qui ne vaut encore rien, et est une fâcherie d’esprit<note place="bottom" resp="editor"><emph>afflictio spiritus</emph></note>.</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="Eccl.6.10">Celui qui a été, est déjà nommé,
+          <lb/>et sait-on bien qu’il a été homme,
+          <lb/>et n’a pu combattre
+          <lb/><note place="bottom">contre la mort.</note>plus fort que soi.</p>
+        <p n="11" xml:id="Eccl.6.11">Donc puis qu’il y a tant de choses,
+          <lb/>qui font que tout ne vaut rien,
+          <lb/>que gagne l’homme ?</p>
+        <space unit="line" quantity="1"/>
+        <p n="12" xml:id="Eccl.6.12">Car qui sait que c’est qui est bon à l’homme,
+          <lb/>tous les jours de sa vie tant néante,
+          <lb/>lesquels il passe comme une ombre ?
+          <lb/>Et qui fera savoir à un homme
+          <lb/>ce qui sera après lui sous le soleil ?</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.7</head>
+        <p n="1" xml:id="Eccl.7.1">Mieux vaut bonne renommée, que bonne eau de senteur,
+          <lb/>et jour de mort, que de naissance.</p>
+        <p n="2" xml:id="Eccl.7.2">Mieux <cb n="MCCCV"/> vaut aller en maison de deuil,
+          <lb/>qu’en maison de banquets :
+          <lb/>en la maison qui est la fin à tous hommes,
+          <lb/>qu’en celle qui leur met la vie au cœur.</p>
+        <p n="3" xml:id="Eccl.7.3">Mieux vaut chagrin que ris :
+          <lb/>car de triste visage vient joie de cœur.</p>
+        <p n="4" xml:id="Eccl.7.4">cœur de sage est en maison de deuil :
+          <lb/>et cœur de fol, en maison de joie.</p>
+        <space unit="line" quantity="1"/>
+        <p n="5" xml:id="Eccl.7.5">Mieux vaut ouïr tancer<note place="bottom" resp="editor">« disputer »</note> un sage,
+          <lb/>que chanter un fol.</p>
+        <p n="6" xml:id="Eccl.7.6">Car bruit d’épines sous un pot<note place="bottom" resp="editor">L’image ne nous est plus familière, on peut supposer un feu d’épine qui crépite, qui s’épuise vite et ne chauffe pas.</note>,
+          <lb/>et ris de fol, c’est tout un.
+          <lb/>Item ceci ne vaut rien :</p>
+        <p n="7" xml:id="Eccl.7.7">c’est que <note place="bottom">un présent qui se donne pour faire tort a quelqu’un.</note>tort affole un sage,
+          <lb/>et les dons mettent un homme hors du sens.</p>
+        <space unit="line" quantity="1"/>
+        <p n="8" xml:id="Eccl.7.8">Mieux vaut la fin d’une chose, que son commencement :
+          <lb/>mieux vaut tardif<note place="bottom" resp="editor">« lent »</note>, que hautain courage.</p>
+        <p n="9" xml:id="Eccl.7.9">Ne sois point léger de courage à te dépiter :
+          <lb/>car en sein de fol, loge dépit.</p>
+        <p n="10" xml:id="Eccl.7.10">Ne demande point pourquoi
+          <lb/>c’est que le temps passé a été meilleur que le présent :
+          <lb/>car c’est mal sagement
+          <lb/>demandé à toi.</p>
+        <space unit="line" quantity="1"/>
+        <p n="11" xml:id="Eccl.7.11">Mieux vaut sagesse qu’héritage,
+          <lb/>et est plus profitable <note place="bottom">aux vivants.</note>à ceux qui voient le soleil.</p>
+        <p n="12" xml:id="Eccl.7.12">Car s’il est question du secours qui gît en sagesse,
+          <lb/>et de celui qui gît en argent,
+          <lb/>la science et sagesse est d’autant plus profitable,
+          <lb/>qu’elle sauve la vie à son maître.</p>
+        <p n="13" xml:id="Eccl.7.13">Regarde l’ouvrage de Dieu,
+          <lb/>qui est tel, que ce qu’il courbe, nul ne peut dresser.</p>
+        <p n="14" xml:id="Eccl.7.14">Quand tu as bon temps donne-toi tellement de bon temps,
+          <lb/>que tu regardes le mauvais temps :
+          <lb/>car Dieu a fait l’un accompagné de l’autre,
+          <lb/>à celle fin que l’homme <note place="bottom">sache qu’en ce monde n’y a rien de certain, et pourtant sois appareillé a toutes aventures.</note>n’y sache rien trouver.</p>
+        <ab type="dinkus">*</ab>
+        <p n="15" xml:id="Eccl.7.15">Je vois tout en mon âge, pour néant qu’il soit :
+          <lb/>il y a tel innocent, qui périt en son innocence :
+          <lb/>et y a tel méchant qui dure en sa mauvaitie<note place="bottom">« malice »</note>.</p>
+        <p n="16" xml:id="Eccl.7.16">Ne sois ni trop innocent,
+          <lb/>ni trop sage,
+          <lb/>de peur que tu ne sois détruit.</p>
+        <p n="17" xml:id="Eccl.7.17">Ne sois ni trop méchant,
+<lb/>ni trop fol,
+          <lb/>de peur que tu ne meures devant ton temps.</p>
+        <p n="18" xml:id="Eccl.7.18">Il est bon que tu tiennes ceci,
+          <lb/>voire sans le lâcher de ta main :
+          <lb/>car de tout échappe qui craint Dieu.</p>
+        <p n="19" xml:id="Eccl.7.19">La sagesse assure dix fois plus un sage,
+          <lb/>que d’être le principal d’une ville.</p>
+        <space unit="line" quantity="1"/>
+        <p n="20" xml:id="Eccl.7.20"><note place="bottom"><emph>1Rois</emph>.8,46 ; <emph>2Chr.</emph>6.36 ; <emph>Prov</emph>.20.9 ; 1Jehan.1.9-10</note>Car il n’y a au monde homme si juste,
+          <lb/>qu’il fasse si bien qu’il ne pêche.</p>
+        <p n="21" xml:id="Eccl.7.21">N’applique aussi<cb n="MCCCVI"/> point ton cœur à tous les propos qu’on tient,
+          <lb/>de peur que tu ne t’oyes maudire par ton serviteur.</p>
+        <p n="22" xml:id="Eccl.7.22">Car tu sais bien que mainte-fois toi-même
+          <lb/>as bien maudit les autres.</p>
+        <ab type="dinkus">*</ab>
+        <p n="23" xml:id="Eccl.7.23">J’ai essayé tout ceci par sagesse,
+          <lb/>tâchant de devenir sage :
+          <lb/>mais j’en suis bien loin.</p>
+        <p n="24" xml:id="Eccl.7.24">C’est une chose si très-loin
+          <lb/>et si très-profonde, qu’on n’en saurait venir à bout.</p>
+        <p n="25" xml:id="Eccl.7.25">Quand je tourne mon cœur
+          <lb/>pour savoir, examiner, et chercher
+          <lb/>sagesse et raison,
+          <lb/>et pour savoir la méchanceté des fols,
+          <lb/>et la sottise des forcenés,</p>
+        <space unit="line" quantity="1"/>
+        <p n="26" xml:id="Eccl.7.26">je trouve que la femme est plus amère que la mort :
+          <lb/>de laquelle femme le cœur
+          <lb/>sont filets et rets, et les mains sont liens,
+          <lb/>dont qui est en la grâce de Dieu, en échappe :
+          <lb/>mais qui est méchant, y est pris.</p>
+        <p n="27" xml:id="Eccl.7.27">Voila que j’ai trouvé (dit le prêcheur)
+          <lb/>en cherchant raison de point en point,</p>
+        <p n="28" xml:id="Eccl.7.28">laquelle je cherche encore de mon esprit, et ne l’ai pas trouvée.
+          <lb/>J’ai trouvé <note place="bottom">un vrai homme est tel qu’il doit être.</note>un homme entre mille :
+          <lb/>mais entre toutes les femmes,
+          <lb/>je n’en ai pas trouvé une.</p>
+        <p n="29" xml:id="Eccl.7.29">D’avantage voici que j’ai trouvé :
+          <lb/>c’est que Dieu fit l’homme droit,
+          <lb/>mais <note place="bottom">les hommes ont été cause de leur malheur, quand ils ont voulu savoir bien et mal.</note>on a cherché beaucoup de raisons.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.8</head>
+        <p n="1" xml:id="Eccl.8.1">Qui est à comparer à un sage ?
+          <lb/>et qui sait déchiffrer les matières ?
+          <lb/>La sagesse d’un homme illumine son visage,
+          <lb/>et lui ôte sa faroucheté.</p>
+        <p n="2" xml:id="Eccl.8.2"><note place="bottom"><emph>Prov</emph>.17.24</note>Je te conseille de prendre garde à la bouche du roi,
+          <lb/>et d’avoir égard au serment de dieu.</p>
+        <p n="3" xml:id="Eccl.8.3">Ne <note place="bottom">t’étrange</note>t’en va pas légèrement de devant lui :
+          <lb/>ne persévère pas en mauvaise chose :
+          <lb/>car tout ce qu’il lui plaît, il fait.</p>
+        <p n="4" xml:id="Eccl.8.4">En parole de roi gît quant-et-quant puissance,
+          <lb/>tellement qu’il n’y a celui qui lui demande raison de ce qu’il fait.</p>
+        <ab type="dinkus">*</ab>
+        <p n="5" xml:id="Eccl.8.5">Qui exécute ce qui lui est commandé,
+          <lb/>se garde de malencontre<note place="bottom" resp="editor">« mal-heur »</note> :
+          <lb/>et cœur sage connaît temps et raison :</p>
+        <p n="6" xml:id="Eccl.8.6">car tout ce qui plaît, à temps et raison,
+          <lb/>pourtant que l’homme endure beaucoup de maux :</p>
+        <p n="7" xml:id="Eccl.8.7">à cause qu’il ne sait ce qui est à venir :
+          <lb/>car qui lui donnera à connaître l’avenir ?</p>
+        <p n="8" xml:id="Eccl.8.8">Ainsi qu’un homme ne <cb n="MCCCVII"/> peut être maître du vent
+          <lb/>et l’atenir<note place="bottom">« retenir »</note>,
+          <lb/>ni faire à sa guise du jour de la mort,
+          <lb/>ni jouir de la guerre,
+          <lb/>ainsi ne peut méchanceté délivrer son maître.</p>
+        <ab type="dinkus">*</ab>
+        <p n="9" xml:id="Eccl.8.9">Tout ceci ai-je vu, et ai appliqué mon cœur
+          <lb/>à toutes les choses qui se font sous le soleil,
+          <lb/>ce-pendant que les hommes sont maîtres
+          <lb/>les uns des autres à leur dommage,</p>
+        <p n="10" xml:id="Eccl.8.10">Aussi ai-je vu des méchants qui étaient enterrés,
+          <lb/>et s’en étaient allés, et délogés <note place="bottom">de Jérusalem.</note>du saint lieu,
+          <lb/>qui avaient bon bruit<note place="bottom" resp="editor">« bonne réputation »</note> en la ville, en laquelle ils avaient ainsi vécu :
+          <lb/>et cela ne vaut encore rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="11" xml:id="Eccl.8.11">Pourtant que les malfaisants
+          <lb/>ne sont pas incontinent justiciés,
+          <lb/>la race des hommes a le cœur totalement prompt à malfaire.</p>
+        <p n="12" xml:id="Eccl.8.12">Mais combien que les mauvais fassent cent fois mal,
+          <lb/>et néanmoins durent,
+          <lb/>si sais-je bien
+          <lb/>que de ceux qui ont la crainte et révérence de Dieu,
+          <lb/>leur cas se portera bien :</p>
+        <p n="13" xml:id="Eccl.8.13">et celui des méchants ne se portera pas bien,
+          <lb/>et ne vivront pas si long âge,
+          <lb/>qu’il ne soit comme une ombre,
+          <lb/>puis-qu’ils ne craignent point dieu.</p>
+        <p n="14" xml:id="Eccl.8.14">Il y a une chose qui rien ne vaut, laquelle se fait au monde,
+          <lb/>c’est qu’il y a des innocents qui sont fortunés<note place="bottom" resp="editor">« traités »</note> comme méchants,
+          <lb/>et des méchants qui sont fortunés comme innocents :
+          <lb/>et je dis que cela ne vaut encore rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="15" xml:id="Eccl.8.15">Et pourtant je prise plaisir,
+          <lb/>en tant qu’un homme n’a autre bien sous le soleil,
+          <lb/>que de manger et boire, et faire grand chère,
+          <lb/>et pour le moins retenir de son travail
+          <lb/>en sa vie,
+          <lb/>ce que Dieu lui donne sous le soleil.</p>
+        <ab type="dinkus">*</ab>
+        <p n="16" xml:id="Eccl.8.16">Comme ainsi fût que j’eusse adonné mon cœur à connaître sagesse,
+          <lb/>et à considérer le tourment qu’on endure au monde,
+          <lb/>jusqu’à ne pouvoir dormir jour ni nuit,</p>
+        <p n="17" xml:id="Eccl.8.17">j’ai aperçu que toutes les œuvres de Dieu sont telles,
+          <lb/>que l’homme ne peut trouver la raison de ce qui se fait sous le soleil :
+          <lb/>et quelque peine qu’il prenne à la chercher, si ne la peut-il trouver :
+          <lb/>et combien que le sage se délibère de l’apprendre,
+          <lb/>si ne la peut-il trouver.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.9</head>
+        <p n="1" xml:id="Eccl.9.1">Car j’ai cherché et épluché<note place="bottom" resp="editor">« examiner »</note>
+          <lb/>en mon <cb n="MCCCVIII"/> esprit toute cette matière,
+          <lb/>c’est que les justes et sages, et leurs faits,
+          <lb/>sont en la main de Dieu :
+          <lb/>tellement que les hommes ne savent si l’on est<note place="bottom">à-savoir de Dieu, par ce qui advient, vu que souvent les bons sont mal a leur aise, et les mauvais sont a leur aise, et qu’aussi bien meurt bon que mauvais.</note> aimé ou haï,
+          <lb/>vu qu’ils voient évidemment qu’autant en est des uns que des autres.</p>
+        <p n="2" xml:id="Eccl.9.2">Autant en prend du juste que de l’injuste,
+          <lb/>du bon et net que du souillé,
+          <lb/>de celui qui sacrifie que de celui qui ne sacrifie,
+          <lb/>du bon que du mauvais,
+          <lb/>du parjure que de celui qui craint de se parjurer.</p>
+        <space unit="line" quantity="1"/>
+        <p n="3" xml:id="Eccl.9.3">C’est un mauvais cas en tout ce qui se fait sous le soleil,
+          <lb/>que comme la fortune de tous est tout une,
+          <lb/>ainsi ont les hommes le cœur plein de mauvaitie
+          <lb/>et forcennerie<note place="bottom">de <emph>forcené</emph>, « folie, fureur »</note>, durant leur vie,
+          <lb/>puis s’en vont trouver les morts.</p>
+        <space unit="line" quantity="1"/>
+        <p n="4" xml:id="Eccl.9.4">Car en tous vifs (qui est chose désirable)
+          <lb/>il y a espérance,
+          <lb/>car un chien vif vaut mieux qu’un lion mort,</p>
+        <p n="5" xml:id="Eccl.9.5">vu que les vifs savent bien qu’ils mourront :
+          <lb/>mais les morts ne savent rien,
+          <lb/>et ne leur reste plus nulle récompense,
+          <lb/>attendu que la mémoire en est effacée,</p>
+        <p n="6" xml:id="Eccl.9.6">et leur amour et leur haine et leur envie
+          <lb/>est déjà périe, et n’ont jamais plus rien à faire
+          <lb/>avec chose qui se fasse sous le soleil.</p>
+        <ab type="dinkus">*</ab>
+        <p n="7" xml:id="Eccl.9.7">Va, mange ton pain joyeusement,
+          <lb/>et bois ton vin d’un cœur gai,
+          <lb/>puis-que Dieu prend plaisir en tes œuvres.</p>
+        <p n="8" xml:id="Eccl.9.8">Porte tous-jours<note place="bottom" resp="editor">Tous les jours habillé dimanche.</note> des habillements blancs,
+          <lb/>et la tête mouillée de baume, sans y faillir.</p>
+        <space unit="line" quantity="1"/>
+        <p n="9" xml:id="Eccl.9.9">Passe le temps avec ta bien aimée,
+          <lb/>tant que durera ta néante vie,
+          <lb/>qui t’est octroyée sous le soleil, tant que durera ton néant.
+          <lb/>Car c’est-ce que tu gagnes en la vie,
+          <lb/>par la peine que tu prends sous le soleil.</p>
+        <space unit="line" quantity="1"/>
+        <p n="10" xml:id="Eccl.9.10">Tout ce que tu auras puissance de faire,
+          <lb/>fais-le de tout ton pouvoir :
+          <lb/>car en l’autre monde où tu t’en vas,
+          <lb/>il n’y a ni œuvre, ni raison, ni science ou sagesse.</p>
+        <ab type="dinkus">*</ab>
+        <p n="11" xml:id="Eccl.9.11">Derechef je vois que sous le soleil
+          <lb/>il n’y a ni vitesse qui serve pour courir,
+          <lb/>ni force pour guerroyer,
+          <lb/>ni sagesse pour acquérir de quoi vivre,
+          <lb/>ni entendement pour richesses,
+          <lb/>ni savoir pour entrer en grâce,
+          <lb/>mais n’y a que temps et fortune qui gouverne tout.</p>
+        <space unit="line" quantity="1"/>
+        <p n="12" xml:id="Eccl.9.12">Car les hommes ne savent point leur temps :
+          <lb/>et comme les poissons se prennent <cb n="MCCCIX"/> au cauteleux filé,
+          <lb/>et les oiseaux aux lacs<note place="bottom">« lacets »</note>,
+          <lb/>ainsi les hommes sont enfilés au temps d’adversité,
+          <lb/>et accablés au dépourvu.</p>
+        <ab type="dinkus">*</ab>
+        <p n="13" xml:id="Eccl.9.13">Item je vois une sagesse sous le soleil,
+          <lb/>laquelle j’estime beaucoup.</p>
+        <p n="14" xml:id="Eccl.9.14">Il y a une petite ville, et peu de gens dedans,
+          <lb/>laquelle est assaillie et assiégée d’un grand roi,
+          <lb/>qui dresse contre elle des gros engins.</p>
+        <p n="15" xml:id="Eccl.9.15">Et se trouve en elle un homme roturier, qui est si sage,
+          <lb/>que par sa sagesse il délivre la ville :
+          <lb/>et toutefois homme n’avait souvenance dudit homme roturier.</p>
+        <p n="16" xml:id="Eccl.9.16">Et pourtant je dis
+          <lb/>que sagesse vaut mieux que force,
+          <lb/>d’jà soit que la sagesse d’un homme de basse condition soit méprisée,
+          <lb/>et qu’on n’obéisse pas à ses paroles.</p>
+        <p n="17" xml:id="Eccl.9.17">On écoute mieux les paisibles paroles d’un sage,
+          <lb/>que la crierie d’un maître des fols.</p>
+        <p n="18" xml:id="Eccl.9.18"><note place="bottom"><emph>Sus</emph>.6.8</note>Mieux vaut sagesse, que bâtons de guerre,
+          <lb/>et un mauvais gâte beaucoup de bien.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.10</head>
+        <p n="1" xml:id="Eccl.10.1">Comme les mouches venimeuses font puer et gâtent
+          <lb/>le baume,
+          <lb/>ainsi un peu de folie gâte
+          <lb/>une excellente sagesse et honneur.</p>
+        <space unit="line" quantity="1"/>
+        <p n="2" xml:id="Eccl.10.2">Un sage a le cœur à la droite,
+          <lb/>et un fol à la gauche<note place="bottom" resp="editor">Traduction littérale de l’hébreu. Le cœur est ici organe du sentiment et de la mémoire, de la connaissance, c’est aussi le siège des intentions. Avoir le cœur à droite est certainement aussi rare que la sagesse, plus de sens est produit en comprenant : sagesse du cœur droit ; sottise du cœur gauche.</note>.</p>
+        <p n="3" xml:id="Eccl.10.3">Un fol même en allant par le chemin
+          <lb/>est hors du sens,
+          <lb/>et montre à chacun qu’il est fol.</p>
+        <ab type="dinkus">*</ab>
+        <p n="4" xml:id="Eccl.10.4">Si <note place="bottom">le prince,</note>celui qui est maître se courrouce contre toi,
+          <lb/><note place="bottom">tiens-toi tout coi.</note>n’abandonne point ta place :
+          <lb/>car se tenir coi <note place="bottom">fait pardonner.</note>est le remède de maintes fautes.</p>
+        <space unit="line" quantity="1"/>
+        <p n="5" xml:id="Eccl.10.5">Un mal y a que je vois sous le soleil,
+          <lb/>comme partant du més-entendement de celui qui gouverne :</p>
+        <p n="6" xml:id="Eccl.10.6">c’est que le fol est mis en haut degré de dignité,
+          <lb/>et les riches sont assis tout bas :</p>
+        <p n="7" xml:id="Eccl.10.7">j’ai vu des serviteurs sur des chevaux,
+          <lb/>et les princes aller à pied comme serviteurs.</p>
+        <ab type="dinkus">*</ab>
+        <p n="8" xml:id="Eccl.10.8">Qui fosse cave<note place="bottom" resp="editor"><emph>caver</emph> « creuser »</note>, en fosse trébuche :
+          <lb/>et qui haie défait, sera mort d’un serpent.</p>
+        <p n="9" xml:id="Eccl.10.9"><note place="bottom">à gros courage, grosse peine.</note>Qui pierres porte, il y travaille :
+          <lb/>et qui bois fend, il y ahanne.</p>
+        <p n="10" xml:id="Eccl.10.10">Comme quand un outil est rebouché<note place="bottom" resp="editor">« émoussé, [d’une personne] obtus, stupide »</note> et mal émoulu,
+          <lb/>il n’y a si fort qu’il ne lasse<note place="bottom" resp="editor">Mauvais outil épuise bonne force.</note>,
+          <lb/>ainsi <note place="bottom">engin fait valoir force. NdE <emph>engin</emph> « ingéniosité, intelligence »</note>sagesse fait valoir excellence.</p>
+        <ab type="dinkus">*</ab>
+        <p n="11" xml:id="Eccl.10.11">Un languard ne vaut de rien mieux qu’un <note place="bottom"><emph>Ps</emph> 58.5. aspic NdE Mordu par un serpent sourd, que la musique ne charme pas.</note>serpent,
+          <lb/>quand il mord sans être charmé.</p>
+        <p n="12" xml:id="Eccl.10.12"><cb n="MCCCX"/> Paroles de sage ont crédit :
+          <lb/>lèvres de fol gâtent leur maître.</p>
+        <p n="13" xml:id="Eccl.10.13">Le commencement de ses propos n’est que folie,
+          <lb/>et la fin n’est qu’une malheureuse forcennerie<note place="bottom">de <emph>forcené</emph>, « folie, fureur »</note>.</p>
+        <p n="14" xml:id="Eccl.10.14">Quelque causer que fassent les fols,
+          <lb/>l’homme ne sait ce qui est avenir,
+          <lb/>et n’y a nul qui lui donne à connaître ce qui sera après lui.</p>
+        <p n="15" xml:id="Eccl.10.15"><note place="bottom">pour néant travaille qui n’a moyen.</note>Un fol qui ne sait aller en la ville,
+          <lb/>travaille tant qu’il se lasse<note resp="editor">« fatiguer »</note>.</p>
+        <ab type="dinkus">*</ab>
+        <p n="16" xml:id="Eccl.10.16">Ha pauvre pays qui as un roi enfant,
+          <lb/>et des princes qui <note place="bottom">ivrognes et gourmands.</note>mangent de matin.</p>
+        <p n="17" xml:id="Eccl.10.17">Heureux pays qui as un roi chenu,
+          <lb/>et des princes qui mangent à l’heure qu’ils doivent,
+          <lb/>pour reprendre leur force, et non pour boire.</p>
+        <p n="18" xml:id="Eccl.10.18">Par paresse dé-cale<note place="bottom" resp="editor">« déséquilibrer »</note> le plancher<note place="bottom" resp="editor">« étage »</note>,
+          <lb/>et mains lâches font pleuvoir en la maison.</p>
+        <p n="19" xml:id="Eccl.10.19">De la panse vient la danse,
+          <lb/>et du vin joyeuse vie,
+          <lb/>et argent dompte tout.</p>
+        <p n="20" xml:id="Eccl.10.20">Ne maudis point le roi, même en ta pensée,
+          <lb/>et ne maudis point un riche, même en l’arrière-chambre où tu couches :
+          <lb/>car les oiseaux mêmes de l’air emporteront le propos,
+          <lb/>et y aura quelque chose volante qui en fera le rapport.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.11</head>
+        <p n="1" xml:id="Eccl.11.1">Jette <note place="bottom">fais aumône.</note>ton blé en lieu humide :
+          <lb/>car par succession de temps tu le trouveras.</p>
+        <p n="2" xml:id="Eccl.11.2">Départ-en<note place="bottom" resp="editor">« départir, couper, partager »</note> <note place="bottom">à plusieurs.</note>à sept, voire à huit :
+          <lb/>car tu <note place="bottom">tu pourras bien être en disette.</note>ne sais quel mal il adviendra au monde.</p>
+        <p n="3" xml:id="Eccl.11.3"><note place="bottom">donne tandis que tu as de quoi, quand tu seras mort, tu ne pourras donner, non plus qu’un arbre ne peut bouger quand il est tombé.</note>Quand les nuées sont pleines,
+          <lb/>elles épandent de la pluie sur terre :
+          <lb/>et soit qu’un arbre tombe contre le midi, soit contre la bise,
+          <lb/>là même où il tombe, il demeure.</p>
+        <p n="4" xml:id="Eccl.11.4"><note place="bottom">qui ne fait aumône pourtant qu’il ne sait l’avenir, fait comme celui qui laisse de semer ou moissonner, de peur du vent ou de la pluie.</note>Qui prend garde au vent ne sème point :
+          <lb/>et qui regarde les nuées, ne moissonne point.</p>
+        <p n="5" xml:id="Eccl.11.5">Comme tu ne saurais connaître la trace du vent<note place="bottom" resp="editor">« empreinte du vent, trace de l’esprit » (donnée à l’enfant au ventre). Leçon déjà dans la <emph>Vulgate</emph>, par ex chez <emph>Sacy 1667</emph> : « <emph>Comme vous ignorez par où l’âme vient</emph> ».</note>,
+          <lb/>ni les os qui sont au ventre d’une femme grosse,
+          <lb/>ainsi ne saurais-tu connaître l’ouvrage de Dieu,
+          <lb/>qui fait tout.</p>
+        <p n="6" xml:id="Eccl.11.6">Au matin sème ta semence,
+          <lb/>et au soir n’y aie point la main lâche :
+          <lb/>car tu ne sais lequel des deux vaut mieux,
+          <lb/>ou s’ils sont tous deux aussi bons l’un que l’autre.</p>
+        <ab type="dinkus">*</ab>
+        <p n="7" xml:id="Eccl.11.7">Et la lumière est chose ami-able<note place="bottom" resp="editor">De <emph>ami</emph> « aimable »</note>,
+          <lb/>et voir le soleil est <cb n="MCCCXI"/> chose plaisante aux yeux :</p>
+        <p n="8" xml:id="Eccl.11.8">toutefois combien qu’un homme vive plusieurs ans,
+          <lb/>voire toujours à son aise,
+          <lb/>s’il lui souvient combien long sera le temps de ténèbres,
+          <lb/>tout ce qui vient n’est rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="9" xml:id="Eccl.11.9">Jouis de ta jeunesse, jouvenceau,
+          <lb/>et te donne de bon temps tandis que tu es jeune,
+          <lb/>et mène un tel train que requiert le souhait de ton cœur,
+          <lb/>ou le regard de tes yeux :
+          <lb/>mais sache que de tout cela Dieu t’en fera rendre compte.</p>
+        <p n="10" xml:id="Eccl.11.10">Ôte donc fierté de ton courage,
+          <lb/>et chasse méchanceté de ton corps :
+          <lb/>car jeunesse et peu savoir, ne vaut rien.</p>
+      </div>
+      <div>
+        <head><title>Eccl</title>.12</head>
+        <p n="1" xml:id="Eccl.12.1">Et te souvienne de ton créateur,
+          <lb/>tandis que tu es jeune,
+          <lb/>devant que vienne le mal-temps,
+          <lb/>et que les ans arrivent, desquels tu diras
+          <lb/>que tu n’y prends pas plaisir :</p>
+        <p n="2" xml:id="Eccl.12.2">devant que <note place="bottom">tu aies courte vue par vieillesse.</note>le soleil, et la lumière,
+          <lb/>et la lune, et les étoiles perdent leur clarté,
+          <lb/>et que les <note place="bottom">yeux te pleurent et soient troublés.</note>nuées retournent après la pluie,</p>
+        <p n="3" xml:id="Eccl.12.3">lors-que les <note place="bottom">mains.</note>gardes de la maison trembleront,
+          <lb/>et les <note place="bottom">jambes.</note>soudards chancelleront,
+          <lb/>et les <note place="bottom">dents.</note>meules cesseront, tant seront amoindries :
+          <lb/>et <note place="bottom">la vue.</note>les regardant par les trous n’y pourront plus voir,</p>
+        <p n="4" xml:id="Eccl.12.4">et les <note place="bottom">lèvres.</note>huis seront fermés par dehors,
+          <lb/><note place="bottom">les dents ne pourront plus mâcher.</note>avec un bas son de la meule :
+          <lb/>et qu’on se lèvera au chant <note place="bottom">du coq, c’est qu’on ne pourra dormir.</note>d’oiseau,
+          <lb/>et que toutes les <note place="bottom">instruments de la voix.</note>chanteresses seront cassées.</p>
+        <p n="5" xml:id="Eccl.12.5">Item lors-qu’on aura peur des <cb n="MCCCXII"/> lieux hauts,
+          <lb/>et de chopper<note place="bottom" resp="editor">« trébucher »</note> en la voie,
+          <lb/>et que <note place="bottom">le poil gris. [NdE] La fleur de l’amandier est blanche.</note>l’amandier fleurira,
+          <lb/>et que <note place="bottom">on ne sera que plaindre et gémir</note>les cigales s’assembleront,
+          <lb/>et se perdra l’appétit,
+          <lb/>quand l’homme s’en ira en son logis éternel,
+          <lb/>et que les portants-deuil tourneront par la rue.</p>
+        <p n="6" xml:id="Eccl.12.6">Devant que <note place="bottom">je n’entends pas ces quatre</note>la chaîne d’argent soit rompue,
+          <lb/>et la fiole d’or cassée,
+          <lb/>et la bouteille brisée sur la source,
+          <lb/>et le chariot froissé<note place="bottom" resp="editor">« briser, fracasser »</note> vers la fosse,</p>
+        <p n="7" xml:id="Eccl.12.7">et que la poudre<note place="bottom" resp="editor">« poussière, cendre »</note> retourne en terre, comme elle avait été,
+          <lb/>et que l’esprit retourne à Dieu qui l’a donné.</p>
+        <ab type="dinkus">*</ab>
+        <p n="8" xml:id="Eccl.12.8">Tout ne vaut rien, dit le prêcheur, tout ne vaut rien.</p>
+        <space unit="line" quantity="1"/>
+        <p n="9" xml:id="Eccl.12.9">D’avantage par l’excellente sagesse qu’avait le prêcheur,
+          <lb/>il enseigna aux gens autre savoir,
+          <lb/>et proposa ce qu’il avait épluché<note place="bottom" resp="editor">« examiner »</note>, composant maintes sentences.</p>
+        <p n="10" xml:id="Eccl.12.10">Ledit prêcheur tâcha de trouver paroles plaisantes,
+          <lb/>et droite écriture
+          <lb/>de vrais propos.</p>
+        <p n="11" xml:id="Eccl.12.11">Paroles de sages sont comme aiguillons,
+          <lb/>et sont ramasseurs donnés d’un pasteur, comme pointes fichées<note place="bottom" resp="editor">Passage discuté. La distinction en hébreu vient sans doute de pratiques pastorales et pourrait opposer l’<emph>aiguillon</emph> pour faire avancer le troupeau, et les <emph>pointes fichées</emph> qui dessineraient un chemin. L’image pourrait être alors : les paroles des sages sont comme des aiguillons ou des piquets donnés au collecteur par Le Berger.</note>.</p>
+        <p n="12" xml:id="Eccl.12.12">Au reste, mon fils, soi bien avisé :
+          <lb/>de faire tant de livres, il n’y a point de fin :
+          <lb/>et trop grand souci, lasse le corps.</p>
+        <p n="13" xml:id="Eccl.12.13">Conclusion, quand tout est dit,
+          <lb/>crains Dieu, et garde ses commandements :
+          <lb/>car c’est le devoir de tous hommes.</p>
+        <space unit="line" quantity="1"/>
+        <p n="14" xml:id="Eccl.12.14">Car de toute œuvre, tant soit secrète, Dieu en fera rendre compte,
+          <lb/>soit bonne soit mauvaise.</p>
+        <p rend="i">La fin de l’Ecclésiaste</p>
+      </div>
+    </body>
+  </text>
+</TEI>

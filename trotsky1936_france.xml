@@ -32,7 +32,7 @@
   <text>
     <body>
 
-      <div xml:id="p1">
+      <div xml:id="p1" type="chapter">
         <pb n="3"/>
         <head>Préface</head>
 
@@ -56,7 +56,7 @@
         <pb n="6"/>
       </div>
 
-      <div xml:id="p2">
+      <div xml:id="p2" type="chapter">
         <pb n="7"/>
         <head>Où va la france ?
           <lb/>(Fin octobre 1934)</head>
@@ -209,10 +209,10 @@
 
         </div>
       </div>
-      <div xml:id="p3">
+      <div xml:id="p3" type="chapter">
         <pb n="55"/>
-        <head>Encore une fois, où va la France
-          <lb/>(Fin mars 1935)</head>
+        <head>Encore une fois, où va la France 
+          <lb/> (Fin mars 1935)</head>
         <div>
           <p>Au moment où Flandin succéda à Doumergue, nous avons posé devant l’avant-garde prolétarienne la question : « Où va la France ? » Les quatre mois et demi écoulés n’ont rien changé d’essentiel et n’ont affaibli ni notre analyse, ni notre pronostic. Le peuple français est arrivé à un carrefour : une voie mène à la révolution socialiste, l’autre — à la catastrophe fasciste. Le choix de la voie dépend du prolétariat. A sa tête se trouve son avant-garde organisée. Nous posons de nouveau la question : où l’avant-garde prolétarienne va-t-elle mener la France ?</p>
           <div>
@@ -709,7 +709,7 @@
           </div>
         </div>
       </div>
-      <div xml:id="p4">
+      <div xml:id="p4" type="chapter">
         <pb n="137"/>
         <head>Front populaire et comité d’action
           <lb/>(26 novembre 1935)</head>
@@ -738,7 +738,7 @@
         <p>La condition de la victoire du prolétariat est la <emph>liquidation de la direction actuelle.</emph> Le mot d’ordre de l’ « unité » devient dans ces conditions non seulement une bêtise, mais un crime. Aucune <emph>unité avec les agents de l’impérialisme français et de la Société des Nations</emph>. A leur direction perfide il faut opposer les unités d’action révolutionnaires. On ne peut construire des comités qu’en démasquant impitoyablement la politique antirévolutionnaire de la soi-disant « Gauche révolutionnaire » avec Marceau Pivert en tête. Des illusions et des doutes à cet égard ne peuvent, bien entendu, avoir place dans nos rangs.</p>
       </div>
 
-      <div xml:id="p5">
+      <div xml:id="p5" type="chapter">
         <pb n="145"/>
         <head>La France a un tournant<note>
             <p>Cette étude a été écrite en guise de préface à la nouvelle édition de <emph>Terrorisme et communisme,</emph> parue aux Editions de la Nouvelle Revue critique, sous le titre de <emph>Défense du Terrorisme</emph>.</p>
@@ -800,7 +800,7 @@
         <p>Les puissants partis russes socialiste-révolutionnaire et menchévik qui, pendant des mois, formèrent un « Front populaire » avec les cadets, tombèrent en poussière sous les coups d’une « poignée de fanatiques » du bolchévisme. La social-démocratie allemande, le Parti communiste allemand et la social-démocratie autrichienne ont trouvé une mort sans gloire sous les coups du fascisme. L’époque qui va commencer pour l’humanité européenne ne laissera pas trace dans le mouvement ouvrier de tout ce qui est équivoque et gangrené. Tous ces Jouhaux, Citrine, Blum, Cachin, Vandervelde, Caballero ne sont que des fantômes. Les sections de la II<hi rend="sup">e</hi> et III<hi rend="sup">e</hi> Internationale quitteront la scène sans éclat les unes après les autres. Un nouveau et grandiose regroupement des rangs ouvriers est inévitable. Les jeunes cadres révolutionnaires acquerront de la chair et du sang. La victoire n’est concevable que sur la base des méthodes bolchéviks...</p>
       </div>
 
-      <div xml:id="p6">
+      <div xml:id="p6" type="chapter">
         <pb n="168"/>
         <head>L’étape décisive
           <lb/>(5 juin 1936)</head>
@@ -829,7 +829,7 @@
         <p>Le dernier congrès de l’Internationale communiste, dans sa cuisine éclectique, a posé l’une à côté de l’autre la coalition avec les radicaux et la création de comités d’action de masse, c’est-à-dire de soviets embryonnaires. Dimitrov, comme aussi ses inspirateurs, s’imaginent qu’on peut combiner la collaboration des classes avec la lutte des classes, le bloc avec la bourgeoisie et la lutte pour le pouvoir du prolétariat, l’amitié avec Daladier et l’édification des soviets. Les stalinistes français ont donné aux comités d’action le nom de comités de Front populaire, s’imaginant qu’ainsi ils conciliaient la lutte révolutionnaire avec la défense de la démocratie bourgeoise. Les grèves actuelles mettent radicalement en pièces cette pitoyable illusion. Les radicaux craignent les comités. Les socialistes craignent l’effroi des radicaux. Les communistes craignent la peur des uns et des autres. Le mot d’ordre des comités ne peut être abordé que par une organisation véritablement révolutionnaire, absolument dévouée aux masses, à leur cause, à leur lutte. Les ouvriers français ont de nouveau montré qu’ils sont dignes de leur réputation historique. Il faut leur faire confiance. Les soviets sont toujours nés des grèves. La grève de masse est l’élément naturel de la révolution prolétarienne. Les comités d’action ne peuvent actuellement être rien d’autre que les comités des grévistes, qui occupent les entreprises. D’atelier en atelier, d’usine en usine, de quartier en quartier, de ville en ville, les comités d’action doivent établir entre eux une liaison étroite, se réunir en conférences par villes, par groupes de production, par arrondissements, pour terminer par un congrès de tous les comités d’action de France. C’est cela qui sera le nouvel ordre, qui doit remplacer l’anarchie actuelle.</p>
       </div>
 
-      <div xml:id="p7">
+      <div xml:id="p7" type="chapter">
         <pb n="177"/>
         <head>La révolution française a commencé
           <lb/>(9 juin 1936)</head>
@@ -856,7 +856,7 @@
         <p>La principale masse des ouvriers révolutionnaires marche actuellement derrière le Parti communiste. Ils ont crié plus d’une fois dans le passé : « Les Soviets partout ! ». Leur majorité a pris, sans aucun doute, ce mot d’ordre au sérieux. Il fut un temps où nous pensions que ce mot d’ordre n’était pas opportun. Mais, actuellement, la situation est radicalement changée. Le puissant conflit des classes va vers un dénouement redoutable. Celui qui hésite, qui perd du temps, est un traître. Il faut choisir entre la plus grande des victoires historiques et la plus terrible des défaites. Il faut préparer la victoire. « Les Soviets partout » ? D’accord. Mais il est temps de passer des paroles aux actes !</p>
       </div>
 
-      <div xml:id="p8">
+      <div xml:id="p8" type="chapter">
         <pb n="185"/>
         <head>Devant la seconde étape
           <lb/>(9 juillet 1936)</head>

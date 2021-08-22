@@ -26,6 +26,12 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract>
+        <label>Avertissement de l’édition</label>
+        <p>L’auteur étant bien vivant, ce texte est protégé par le droit d’auteur. Il a exprimé l’intention que l’“œuvre“ de son esprit (ce sont les termes de la loi, pas du tout les siens) soit librement communicable et partageable, mais sans profit commercial, en gardant le nom de l’auteur, et sans modification. Le choix de cette <ref target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">license CC BY-NC-ND</ref> n’est pas seulement l’effet d’opinions politiques, elle est aussi conséquente avec son esthétique. Son texte a été longtemps mûri, puis jeté tout d’un trait, il témoigne d’un moment, signé, daté, et localisé : <emph>Lille, octobre 2016</emph>. Ce texte est un morceau de temps libre qui ne peut plus être modifié ; de son temps à lui et personne d’autre ; son temps, il ne le vend pas, il le partage.</p>
+        <label>Chapeau de l’auteur</label>
+        <p>Encore une histoire de fin du monde, des enfants survivent dans un bois au milieu de cabanes. Ils se rendent compte soudain que leur maître Zao a disparu. Un des grands est désigné pour aller le chercher au lac, mais il se fait surprendre par la nuit. En fait, tout le monde le pressent, Zao avait annoncé qu’un jour il disparaîtrait.</p>
+      </abstract>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -97,7 +103,7 @@
       </div>
       <div>
         <head>— 5 –</head>
-        <p rend="i">ZAO, OÙ ES-TU ?</p>
+        <p rend="i indent">ZAO, OÙ ES-TU ?</p>
         <p rend="i">ZAO, TU ME FAIS CHIER !</p>
         <p rend="i">MAIS OÙ ES-TU PASSÉ, ZAO ?</p>
         <space unit="line" quantity="1"/>
@@ -110,7 +116,7 @@
         <p>Elle, elle est vraiment trop belle. Vraiment.</p>
         <p>Zao, je m’excuse, je m’endors, je suis dans l’herbe, je ne vois plus le lac, j’ai pas envie de chercher, je me suis mis à l’écart, je suis tes enseignements, Zao, sur la plage vous avez l’humidité qui remonte, c’est pas bon de coucher sur la plage, à quelques mètres au-dessus vous avez des herbes sèches, faites-en un lit et couchez-vous dessus. Vaut mieux mettre des fois une couverture par terre, ça isole. <emph>Mais dans les herbes, hé hé, il y a aussi les moustiques et c’est là où ça se complique.</emph> Et PANG ! j’en tape un. La vache !</p>
         <space unit="line" quantity="1"/>
-        <p>Zao, j’ai sommeil, où es-tu passé, Zao ?</p>
+        <p rend="indent">Zao, j’ai sommeil, où es-tu passé, Zao ?</p>
         <p>Es-tu vraiment au lac ?</p>
       </div>
       <div>
