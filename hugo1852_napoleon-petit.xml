@@ -36,7 +36,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>Livre I. L’homme</head>
         <div>
           <head>I.1. Le 20 décembre 1848</head>
@@ -246,7 +246,7 @@
             homme, on peut souffleter le peuple ! Ah ! quelle abominable honte ! chaque fois que M. Bonaparte crache, il faut que tous les visages s’essuient ! Et cela pourrait durer ! et vous me dites que cela durera ! non ! non ! par tout le sang que nous avons tous dans les veines, non ! cela ne durera pas ! Ah ! si cela durait, c’est qu’en effet il n’y aurait pas de Dieu dans le ciel, ou qu’il n’y aurait plus de France sur la terre !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre II. Le gouvernement</head>
         <div>
           <head>II.1. La constitution</head>
@@ -423,7 +423,7 @@
           <p>Proscrits, de quoi vous plaignez-vous ? vous avez la bonne part.</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre III. Le crime</head>
         <p>Mais ce gouvernement, ce gouvernement horrible, hypocrite et bête, ce gouvernement qui fait hésiter entre l’éclat de rire et le sanglot, cette constitution-gibet où pendent toutes nos libertés, ce gros suffrage universel et ce petit suffrage universel, le premier nommant le président, l’autre nommant les législateurs, le petit disant au gros : <emph>Monseigneur, recevez ces millions</emph>, le gros disant au petit : <emph>Reçois l’assurance de mes sentiments</emph> ; ce sénat, ce conseil d’État, d’où toutes ces choses sortent-elles ? Mon Dieu ! est-ce que nous en sommes déjà venus à ce point qu’il soit nécessaire de le rappeler ?</p>
         <p>D’où sort ce gouvernement ? Regardez ! cela coule encore, cela fume encore, c’est du sang.</p>
@@ -673,7 +673,7 @@
           <p>« Grand Dieu ! les Baskirs sont entrés dans Paris la lance haute en chantant leur chant sauvage, Moscou avait été brûlé ; les prussiens sont entrés dans Paris, on avait pris Berlin ; les autrichiens sont entrés dans Paris, on avait bombardé Vienne ; les anglais sont entrés dans Paris, le camp de Boulogne avait menacé Londres ; ils sont arrivés à nos barrières, ces hommes de tous les peuples, tambours battants, clairons en tête, drapeaux déployés, sabres nus, canons roulants, mèches allumées, ivres, ennemis, vainqueurs, vengeurs, criant avec rage devant les dômes de Paris les noms de leurs capitales, Londres, Berlin, Vienne, Moscou ! Eh bien ! dès qu’ils ont mis le pied sur le seuil de cette ville, dès que le sabot de leurs chevaux a sonné sur le pavé de nos rues, autrichiens, anglais, prussiens, russes, tous, en pénétrant dans Paris, ont entrevu dans ces murs, dans ces édifices, dans ce peuple, quelque chose de prédestiné, de vénérable et d’auguste ; tous ont senti la sainte horreur de la ville sacrée ; tous ont compris qu’ils avaient là, devant eux, non la ville d’un peuple, mais la ville du genre humain ; tous ont baissé l’épée levée ! Oui, massacrer les Parisiens, traiter Paris en place prise d’assaut, mettre à sac un quartier de Paris, violer la seconde Ville Éternelle, assassiner la civilisation dans son sanctuaire, mitrailler les vieillards, les enfants et les femmes dans cette grande enceinte, foyer du monde, ce que Wellington avait défendu à ses montagnards demi-nus, ce que Schwartzenberg avait interdit à ses Croates, ce que Blücher n’avait pas permis à sa landwehr, ce que Platow n’avait pas osé faire faire par ses Cosaques, toi, tu l’as fait faire par des soldats français, misérable ! »</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre IV. Les autres crimes</head>
         <div>
           <head>IV.1. Questions sinistres</head>
@@ -846,7 +846,7 @@
           <p>Ah ! le malheureux ! il prend tout, il use tout, il salit tout, il déshonore tout. Il choisit pour son guet-apens le mois, le jour d’Austerlitz. Il revient de Satory comme on revient d’Aboukir. Il fait sortir du 2 décembre je ne sais quel oiseau de nuit, et il le perche sur le drapeau de France, et il dit : Soldats, voici l’aigle. Il emprunte à Napoléon le chapeau et à Murat le plumet. Il a son étiquette impériale, ses chambellans, ses aides de camp, ses courtisans. Sous l’empereur c’étaient des rois, sous lui ce sont des laquais. Il a sa politique à lui ; il a son treize vendémiaire à lui ; il a son dix-huit brumaire à lui. Il se compare. À l’Élysée, Napoléon le Grand a disparu ; on dit : <emph>l’oncle Napoléon</emph>. L’homme du destin est passé Géronte. Le complet, ce n’est pas le premier, c’est celui-ci. Il est évident que le premier n’est venu que pour faire le lit du second. Louis Bonaparte, entouré de valets et de filles, accommode pour les besoins de sa table et de son alcôve le couronnement, le sacre, la Légion d’honneur, le camp de Boulogne, la colonne Vendôme, Lodi, Arcole, Saint-Jean d’Acre, Eylau, Friedland, Champaubert… – Ah ! Français ! regardez le pourceau couvert de fange qui se vautre sur cette peau de lion !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre V. Le parlementarisme</head>
         <div>
           <head>V.1. 1789</head>
@@ -910,7 +910,7 @@
           <p>Alléluia ! dit M. Sibour. Hosanna ! répond M. Parisis.</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre VI. L’absolution (1<hi rend="sup">ère</hi> forme : les 7 500 000 voix.)</head>
         <div>
           <head>VI.1. L’<emph>absolution</emph></head>
@@ -1086,7 +1086,7 @@
           <p>Eh bien ! cette voix qui proteste dans l’ombre, c’est la mienne. Je crie aujourd’hui, et, n’en doutez pas, la conscience universelle de l’humanité redit avec moi : Louis Bonaparte a assassiné la France ! Louis Bonaparte a tué sa mère !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre VII. L’absolution (2<hi rend="sup">ème</hi> forme : le serment)</head>
         <div>
           <head>VII.1. À serment, serment et demi</head>
@@ -1169,7 +1169,7 @@
           <p>Ô serment ! confiance admirable du juste en lui-même ! Sublime permission d’affirmer donnée par Dieu à l’homme ! C’est fini. Il n’y en a plus. Encore une splendeur de l’âme qui s’évanouit !</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Livre VIII. Le progrès inclus dans le coup d’État</head>
         <div>
           <head>VIII.1. La quantité de bien que contient le mal</head>
@@ -1256,7 +1256,7 @@
           <p>Louis Bonaparte est le muet de la Providence.</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Conclusion</head>
         <div>
           <head>1. Petitesse du maître, abjection de la situation</head>
